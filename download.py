@@ -22,8 +22,11 @@ import requests
 from datetime import datetime
 
 # ── Configuration ─────────────────────────────────────────────────────────────
-load_dotenv()
-API_KEY = os.environ.get("API_KEY")      # Replace with your data.gov.in API key
+API_KEY = os.environ.get("API_KEY")
+
+headers = {
+    "Authorization": API_KEY
+} # Replace with your data.gov.in API key
 RESOURCE_ID  = "9ef84268-d588-465a-a308-a864a43d0070"
 BASE_URL     = "https://api.data.gov.in/resource/{resource_id}"
 DATA_DIR     = os.path.join(os.path.dirname(__file__), "data")
