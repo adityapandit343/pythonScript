@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Error | Mandi Tracker</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --alert:  #e76f51;
+      --alert-l: #fff0ed;
+      --soil:   #4a3728;
+      --mid:    #5a7a68;
+      --leaf:   #2d6a4f;
+      --sprout: #52b788;
+    }
+    body {
+      font-family: "Inter", sans-serif;
+      min-height: 100vh;
+      background: linear-gradient(160deg, #fff0ed 0%, #f0f7f4 60%, #d8f3dc 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem 1rem;
+    }
+    .card {
+      background: #fff;
+      border: 1.5px solid #f4a48a;
+      border-radius: 16px;
+      box-shadow: 0 8px 32px rgba(231,111,81,.12);
+      padding: 3rem 2.5rem;
+      max-width: 440px;
+      width: 100%;
+      text-align: center;
+    }
+    .icon-ring {
+      width: 72px; height: 72px;
+      border-radius: 50%;
+      background: var(--alert-l);
+      border: 3px solid var(--alert);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2rem;
+      margin: 0 auto 1.5rem;
+    }
+    h1 {
+      font-family: "DM Serif Display", serif;
+      font-size: 1.6rem;
+      color: var(--soil);
+      margin-bottom: .5rem;
+    }
+    p {
+      color: var(--mid);
+      font-size: .9rem;
+      line-height: 1.6;
+      margin-bottom: 1.75rem;
+    }
+    {% if message %}
+    .error-msg {
+      background: var(--alert-l);
+      border: 1px solid #f4a48a;
+      border-radius: 8px;
+      padding: .7rem 1rem;
+      font-size: .82rem;
+      color: #9b3520;
+      margin-bottom: 1.75rem;
+      text-align: left;
+    }
+    {% endif %}
+    .actions {
+      display: flex;
+      gap: .75rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: .4rem;
+      padding: .7rem 1.5rem;
+      font-size: .88rem;
+      font-weight: 600;
+      border-radius: 999px;
+      text-decoration: none;
+      transition: opacity .18s, transform .12s;
+    }
+    .btn-primary {
+      background: linear-gradient(135deg, #2d6a4f 0%, #52b788 100%);
+      color: #fff;
+      box-shadow: 0 4px 14px rgba(45,106,79,.28);
+    }
+    .btn-ghost {
+      background: #fff;
+      border: 1.5px solid #b7e4c7;
+      color: var(--leaf);
+    }
+    .btn:hover { opacity: .9; transform: translateY(-1px); }
+  </style>
+</head>
+<body>
+<div class="card">
+  <div class="icon-ring">❌</div>
+  <h1>Download Failed</h1>
+  <p>Something went wrong while fetching today's mandi data.<br>Check your API key and internet connection.</p>
+
+  {% if message %}
+  <div class="error-msg">⚠️ {{ message }}</div>
+  {% endif %}
+
+  <div class="actions">
+    <a href="{{ retry_url or '/download' }}" class="btn btn-primary">↻ Retry Download</a>
+    <a href="/"                              class="btn btn-ghost">← Home</a>
+  </div>
+</div>
+</body>
+</html>

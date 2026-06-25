@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ crop }} Prices — {{ state }} | Mandi Tracker</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --soil:   #4a3728;
+      --leaf:   #2d6a4f;
+      --sprout: #52b788;
+      --sky:    #f0f7f4;
+      --mist:   #d8f3dc;
+      --ink:    #1b2e26;
+      --mid:    #5a7a68;
+      --warm:   #e9c46a;
+      --alert:  #e76f51;
+      --radius: 14px;
+      --shadow: 0 8px 32px rgba(45,106,79,.12);
+    }
+
+    body {
+      font-family: "Inter", sans-serif;
+      min-height: 100vh;
+      background:
+        radial-gradient(ellipse 70% 50% at 10% 5%, #b7e4c7 0%, transparent 55%),
+        linear-gradient(160deg, #d8f3dc 0%, #f0f7f4 60%, #b7e4c7 100%);
+      padding: 1.5rem 1rem 4rem;
+    }
+
+    /* ── Top bar ── */
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 860px;
+      margin: 0 auto 1.6rem;
+      flex-wrap: wrap;
+      gap: .75rem;
+    }
+    .back-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: .35rem;
+      padding: .5rem 1rem;
+      background: #fff;
+      border: 1.5px solid #b7e4c7;
+      border-radius: 999px;
+      font-size: .82rem;
+      font-weight: 600;
+      color: var(--leaf);
+      text-decoration: none;
+      transition: background .16s, box-shadow .16s;
+    }
+    .back-btn:hover {
+      background: var(--mist);
+      box-shadow: 0 2px 10px rgba(45,106,79,.12);
+    }
+    .meta {
+      font-size: .78rem;
+      color: var(--mid);
+      text-align: right;
+    }
+    .meta strong { color: var(--leaf); }
+
+    /* ── Title ── */
+    .page-title {
+      max-width: 860px;
+      margin: 0 auto 1.5rem;
+    }
+    .page-title h1 {
+      font-family: "DM Serif Display", serif;
+      font-size: clamp(1.5rem, 4vw, 2rem);
+      color: var(--soil);
+    }
+    .page-title h1 span { color: var(--leaf); }
+    .page-title p {
+      font-size: .85rem;
+      color: var(--mid);
+      margin-top: .3rem;
+    }
+
+    /* ── Best price card ── */
+    .best-card {
+      max-width: 860px;
+      margin: 0 auto 1.5rem;
+      background: linear-gradient(135deg, #1b4332 0%, #2d6a4f 60%, #52b788 100%);
+      border-radius: var(--radius);
+      padding: 1.5rem 1.75rem;
+      color: #fff;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      box-shadow: 0 8px 28px rgba(27,67,50,.35);
+      position: relative;
+      overflow: hidden;
+    }
+    .best-card::before {
+      content: "🏆";
+      position: absolute;
+      right: 1.5rem;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 4rem;
+      opacity: .12;
+    }
+    .best-label {
+      font-size: .7rem;
+      font-weight: 700;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      opacity: .75;
+      margin-bottom: .35rem;
+    }
+    .best-name {
+      font-size: 1.1rem;
+      font-weight: 700;
+      line-height: 1.3;
+    }
+    .best-loc {
+      font-size: .82rem;
+      opacity: .8;
+      margin-top: .2rem;
+    }
+    .best-price-col { text-align: right; flex-shrink: 0; }
+    .best-price {
+      font-family: "DM Serif Display", serif;
+      font-size: 2.4rem;
+      line-height: 1;
+      color: var(--warm);
+    }
+    .best-price sub {
+      font-family: "Inter", sans-serif;
+      font-size: .75rem;
+      font-weight: 600;
+      color: rgba(255,255,255,.7);
+      vertical-align: middle;
+    }
+    .price-range {
+      font-size: .72rem;
+      opacity: .7;
+      margin-top: .3rem;
+    }
+
+    /* ── No results ── */
+    .no-results {
+      max-width: 860px;
+      margin: 0 auto;
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--mid);
+    }
+    .no-results .icon { font-size: 3rem; margin-bottom: .75rem; }
+    .no-results h2 { color: var(--soil); margin-bottom: .5rem; }
+
+    /* ── Table ── */
+    .table-wrap {
+      max-width: 860px;
+      margin: 0 auto;
+      background: #ffffffee;
+      border: 1px solid rgba(82,183,136,.22);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow-x: auto;
+    }
+    .table-header {
+      padding: 1rem 1.25rem .75rem;
+      border-bottom: 1px solid var(--mist);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: .5rem;
+    }
+    .table-header h2 {
+      font-size: .85rem;
+      font-weight: 700;
+      color: var(--soil);
+      text-transform: uppercase;
+      letter-spacing: .05em;
+    }
+    .count-badge {
+      background: var(--mist);
+      color: var(--leaf);
+      font-size: .72rem;
+      font-weight: 700;
+      padding: .2rem .65rem;
+      border-radius: 999px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .88rem;
+    }
+    thead th {
+      background: var(--sky);
+      color: var(--mid);
+      font-size: .72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .07em;
+      padding: .65rem 1rem;
+      text-align: left;
+      white-space: nowrap;
+    }
+    thead th.right { text-align: right; }
+    tbody tr {
+      border-bottom: 1px solid #f0f7f4;
+      transition: background .12s;
+    }
+    tbody tr:last-child { border-bottom: none; }
+    tbody tr:hover { background: var(--sky); }
+    tbody tr.top-row { background: #f0fdf6; }
+    tbody td {
+      padding: .7rem 1rem;
+      color: var(--ink);
+      vertical-align: middle;
+    }
+    tbody td.right { text-align: right; }
+
+    .rank {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 22px; height: 22px;
+      border-radius: 50%;
+      font-size: .72rem;
+      font-weight: 700;
+      background: var(--mist);
+      color: var(--leaf);
+    }
+    .rank.gold   { background: var(--warm); color: #7a5c00; }
+    .rank.silver { background: #e2e8e4; color: #4a5568; }
+    .rank.bronze { background: #f0d9c8; color: #7a4a28; }
+
+    .mandi-name { font-weight: 600; }
+    .district   { font-size: .78rem; color: var(--mid); }
+
+    .price-modal {
+      font-weight: 700;
+      font-size: 1rem;
+      color: var(--leaf);
+    }
+    .price-range-cell {
+      font-size: .75rem;
+      color: var(--mid);
+    }
+
+    /* ── Footer ── */
+    .page-footer {
+      max-width: 860px;
+      margin: 1.5rem auto 0;
+      text-align: center;
+      font-size: .72rem;
+      color: var(--mid);
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .best-card { flex-direction: column; align-items: flex-start; }
+      .best-price-col { text-align: left; }
+      thead th, tbody td { padding: .55rem .65rem; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- Top bar -->
+<div class="topbar">
+  <a href="/" class="back-btn">← Back to Search</a>
+  <div class="meta">
+    Data as of <strong>{{ data_date }}</strong>
+  </div>
+</div>
+
+<!-- Page title -->
+<div class="page-title">
+  <h1><span>{{ crop }}</span> prices in {{ state }}</h1>
+  <p>Sorted by highest modal price · Prices in ₹ per quintal</p>
+</div>
+
+{% if best %}
+<!-- Best price highlight card -->
+<div class="best-card">
+  <div>
+    <div class="best-label">Best Price Found</div>
+    <div class="best-name">
+      {{ best.get('market') or best.get('market_name') or best.get('mandi_name') or 'Unknown Mandi' }}
+    </div>
+    <div class="best-loc">
+      {{ best.get('district') or '' }}{% if best.get('district') %} · {% endif %}{{ best.get('state') or '' }}
+    </div>
+  </div>
+  <div class="best-price-col">
+    <div class="best-price">
+      ₹{{ best.get('modal_price') or best.get('modal price') or '—' }}
+      <sub>/qtl</sub>
+    </div>
+    <div class="price-range">
+      Min ₹{{ best.get('min_price') or best.get('min price') or '—' }} ·
+      Max ₹{{ best.get('max_price') or best.get('max price') or '—' }}
+    </div>
+  </div>
+</div>
+
+<!-- Prices table -->
+<div class="table-wrap">
+  <div class="table-header">
+    <h2>All Mandis</h2>
+    <span class="count-badge">{{ total }} result{% if total != 1 %}s{% endif %}</span>
+  </div>
+  <table>
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Mandi / Market</th>
+        <th>District</th>
+        <th class="right">Min ₹</th>
+        <th class="right">Modal ₹</th>
+        <th class="right">Max ₹</th>
+        <th>Variety</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for row in rows %}
+      {% set i = loop.index %}
+      <tr class="{{ 'top-row' if i == 1 else '' }}">
+        <td>
+          <span class="rank {{ 'gold' if i==1 else ('silver' if i==2 else ('bronze' if i==3 else '')) }}">
+            {{ i }}
+          </span>
+        </td>
+        <td>
+          <div class="mandi-name">
+            {{ row.get('market') or row.get('market_name') or row.get('mandi_name') or '—' }}
+          </div>
+        </td>
+        <td>
+          <span class="district">
+            {{ row.get('district') or row.get('district_name') or '—' }}
+          </span>
+        </td>
+        <td class="right price-range-cell">
+          {{ row.get('min_price') or row.get('min price') or '—' }}
+        </td>
+        <td class="right price-modal">
+          {{ row.get('modal_price') or row.get('modal price') or '—' }}
+        </td>
+        <td class="right price-range-cell">
+          {{ row.get('max_price') or row.get('max price') or '—' }}
+        </td>
+        <td>
+          <span class="district">
+            {{ row.get('variety') or row.get('commodity_name') or '—' }}
+          </span>
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+{% else %}
+<!-- No results state -->
+<div class="no-results">
+  <div class="icon">🔍</div>
+  <h2>No results found</h2>
+  <p>No mandi data found for <strong>{{ crop }}</strong> in <strong>{{ state }}</strong> today.<br>
+     Try a different crop or state, or check back after the next data update.</p>
+  <br>
+  <a href="/" class="back-btn" style="display:inline-flex">← Try another search</a>
+</div>
+{% endif %}
+
+<div class="page-footer">
+  Source: data.gov.in — Agmarknet Commodity Prices &nbsp;·&nbsp; {{ data_date }}
+</div>
+
+</body>
+</html>

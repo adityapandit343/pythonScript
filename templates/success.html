@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Download Successful | Mandi Tracker</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --leaf:   #2d6a4f;
+      --sprout: #52b788;
+      --mist:   #d8f3dc;
+      --sky:    #f0f7f4;
+      --soil:   #4a3728;
+      --mid:    #5a7a68;
+    }
+    body {
+      font-family: "Inter", sans-serif;
+      min-height: 100vh;
+      background: linear-gradient(160deg, #d8f3dc 0%, #f0f7f4 60%, #b7e4c7 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem 1rem;
+    }
+    .card {
+      background: #fff;
+      border: 1.5px solid #95d5b2;
+      border-radius: 16px;
+      box-shadow: 0 8px 32px rgba(45,106,79,.14);
+      padding: 3rem 2.5rem;
+      max-width: 440px;
+      width: 100%;
+      text-align: center;
+    }
+    .icon-ring {
+      width: 72px; height: 72px;
+      border-radius: 50%;
+      background: var(--mist);
+      border: 3px solid var(--sprout);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2rem;
+      margin: 0 auto 1.5rem;
+      animation: pop .4s cubic-bezier(.34,1.56,.64,1) both;
+    }
+    @keyframes pop {
+      from { transform: scale(.5); opacity: 0; }
+      to   { transform: scale(1);  opacity: 1; }
+    }
+    h1 {
+      font-family: "DM Serif Display", serif;
+      font-size: 1.6rem;
+      color: var(--soil);
+      margin-bottom: .5rem;
+    }
+    p {
+      color: var(--mid);
+      font-size: .9rem;
+      line-height: 1.6;
+      margin-bottom: 1.75rem;
+    }
+    {% if filename %}
+    .file-badge {
+      display: inline-block;
+      background: var(--sky);
+      border: 1px solid #b7e4c7;
+      border-radius: 8px;
+      padding: .45rem .9rem;
+      font-size: .78rem;
+      font-family: monospace;
+      color: var(--leaf);
+      margin-bottom: 1.75rem;
+      word-break: break-all;
+    }
+    {% endif %}
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: .4rem;
+      padding: .75rem 1.75rem;
+      background: linear-gradient(135deg, #2d6a4f 0%, #52b788 100%);
+      color: #fff;
+      font-size: .9rem;
+      font-weight: 600;
+      border-radius: 999px;
+      text-decoration: none;
+      transition: opacity .18s, transform .12s;
+      box-shadow: 0 4px 16px rgba(45,106,79,.3);
+    }
+    .btn:hover { opacity: .9; transform: translateY(-1px); }
+  </style>
+</head>
+<body>
+<div class="card">
+  <div class="icon-ring">✅</div>
+  <h1>Data Downloaded!</h1>
+  <p>
+    Today's mandi prices have been saved successfully.<br>
+    You can now search for crop prices across states.
+  </p>
+  {% if filename %}
+  <div class="file-badge">📄 {{ filename }}</div><br>
+  {% endif %}
+  <a href="/" class="btn">← Back to Home</a>
+</div>
+</body>
+</html>

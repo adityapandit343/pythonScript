@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mandi Price Tracker</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --soil:    #4a3728;
+      --leaf:    #2d6a4f;
+      --sprout:  #52b788;
+      --wheat:   #e9c46a;
+      --sky:     #f0f7f4;
+      --mist:    #d8f3dc;
+      --ink:     #1b2e26;
+      --mid:     #5a7a68;
+      --card-bg: #ffffffee;
+      --radius:  14px;
+      --shadow:  0 8px 32px rgba(45,106,79,.14);
+    }
+
+    body {
+      font-family: "Inter", sans-serif;
+      min-height: 100vh;
+      background:
+        radial-gradient(ellipse 70% 50% at 20% 10%, #b7e4c7 0%, transparent 60%),
+        radial-gradient(ellipse 60% 60% at 80% 90%, #95d5b2 0%, transparent 55%),
+        linear-gradient(160deg, #d8f3dc 0%, #f0f7f4 50%, #b7e4c7 100%);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2rem 1rem 4rem;
+    }
+
+    /* ── Header ── */
+    header {
+      text-align: center;
+      margin-bottom: 2.5rem;
+      max-width: 560px;
+    }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: .45rem;
+      background: var(--mist);
+      border: 1px solid #95d5b2;
+      border-radius: 999px;
+      padding: .3rem .9rem;
+      font-size: .75rem;
+      font-weight: 600;
+      color: var(--leaf);
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      margin-bottom: 1rem;
+    }
+    h1 {
+      font-family: "DM Serif Display", serif;
+      font-size: clamp(2rem, 6vw, 3rem);
+      color: var(--soil);
+      line-height: 1.15;
+      margin-bottom: .6rem;
+    }
+    h1 span { color: var(--leaf); }
+    .subtitle {
+      font-size: .95rem;
+      color: var(--mid);
+      line-height: 1.6;
+    }
+
+    /* ── Status strip ── */
+    .status {
+      display: inline-flex;
+      align-items: center;
+      gap: .4rem;
+      margin-top: 1rem;
+      font-size: .78rem;
+      color: var(--mid);
+    }
+    .dot {
+      width: 7px; height: 7px;
+      border-radius: 50%;
+      background: var(--sprout);
+      animation: pulse 2s infinite;
+    }
+    @keyframes pulse {
+      0%,100% { opacity: 1; }
+      50%      { opacity: .35; }
+    }
+    .dot.offline { background: #e76f51; animation: none; }
+
+    /* ── Card ── */
+    .card {
+      background: var(--card-bg);
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(82,183,136,.25);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 2rem 2rem 2.25rem;
+      width: 100%;
+      max-width: 480px;
+    }
+
+    /* ── Form ── */
+    .form-group { margin-bottom: 1.25rem; }
+    label {
+      display: block;
+      font-size: .78rem;
+      font-weight: 600;
+      color: var(--soil);
+      letter-spacing: .05em;
+      text-transform: uppercase;
+      margin-bottom: .45rem;
+    }
+    .select-wrap {
+      position: relative;
+    }
+    .select-wrap::after {
+      content: "▾";
+      position: absolute;
+      right: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--mid);
+      pointer-events: none;
+      font-size: .85rem;
+    }
+    select {
+      width: 100%;
+      padding: .7rem 2.4rem .7rem 1rem;
+      font-family: "Inter", sans-serif;
+      font-size: .95rem;
+      color: var(--ink);
+      background: var(--sky);
+      border: 1.5px solid #b7e4c7;
+      border-radius: 8px;
+      appearance: none;
+      cursor: pointer;
+      transition: border-color .18s, box-shadow .18s;
+      outline: none;
+    }
+    select:focus {
+      border-color: var(--sprout);
+      box-shadow: 0 0 0 3px rgba(82,183,136,.22);
+    }
+
+    /* ── Divider ── */
+    .divider {
+      display: flex;
+      align-items: center;
+      gap: .75rem;
+      color: var(--mid);
+      font-size: .78rem;
+      margin: .5rem 0 1.25rem;
+    }
+    .divider::before, .divider::after {
+      content: "";
+      flex: 1;
+      height: 1px;
+      background: #b7e4c7;
+    }
+
+    /* ── Button ── */
+    .btn {
+      width: 100%;
+      padding: .85rem;
+      background: linear-gradient(135deg, #2d6a4f 0%, #52b788 100%);
+      color: #fff;
+      font-family: "Inter", sans-serif;
+      font-size: 1rem;
+      font-weight: 600;
+      border: none;
+      border-radius: 9px;
+      cursor: pointer;
+      letter-spacing: .02em;
+      transition: opacity .18s, transform .12s, box-shadow .18s;
+      box-shadow: 0 4px 18px rgba(45,106,79,.35);
+    }
+    .btn:hover  { opacity: .92; transform: translateY(-1px); box-shadow: 0 6px 24px rgba(45,106,79,.45); }
+    .btn:active { transform: translateY(0); }
+
+    /* ── Info strip ── */
+    .info-strip {
+      display: flex;
+      justify-content: space-between;
+      gap: .5rem;
+      margin-top: 1.6rem;
+      padding-top: 1.3rem;
+      border-top: 1px solid var(--mist);
+    }
+    .info-item {
+      flex: 1;
+      text-align: center;
+      font-size: .72rem;
+      color: var(--mid);
+      line-height: 1.4;
+    }
+    .info-item strong {
+      display: block;
+      font-size: 1.1rem;
+      color: var(--leaf);
+      font-weight: 700;
+      margin-bottom: .15rem;
+    }
+
+    /* ── Footer ── */
+    footer {
+      margin-top: 2.2rem;
+      font-size: .72rem;
+      color: var(--mid);
+      text-align: center;
+    }
+    footer a { color: var(--leaf); text-decoration: none; }
+
+    /* ── Responsive ── */
+    @media (max-width: 500px) {
+      .card { padding: 1.5rem 1.25rem 1.75rem; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="badge">🌾 Live Market Intelligence</div>
+  <h1>Mandi <span>Price</span> Tracker</h1>
+  <p class="subtitle">Real-time agricultural commodity prices<br>from mandis across India — powered by data.gov.in</p>
+
+  {% if last_updated %}
+  <div class="status">
+    <span class="dot"></span>
+    Data updated: {{ last_updated }}
+  </div>
+  {% else %}
+  <div class="status">
+    <span class="dot offline"></span>
+    No data yet — run <code>download.py</code> to fetch prices
+  </div>
+  {% endif %}
+</header>
+
+<div class="card">
+  <form action="/prices" method="POST">
+
+    <div class="form-group">
+      <label for="crop">Select Crop</label>
+      <div class="select-wrap">
+        <select id="crop" name="crop" required>
+          <option value="" disabled selected>— Choose a crop —</option>
+          {% for c in crops %}
+          <option value="{{ c }}">{{ c }}</option>
+          {% endfor %}
+        </select>
+      </div>
+    </div>
+
+    <div class="divider">and</div>
+
+    <div class="form-group">
+      <label for="state">Select State</label>
+      <div class="select-wrap">
+        <select id="state" name="state" required>
+          <option value="" disabled selected>— Choose a state —</option>
+          {% for s in states %}
+          <option value="{{ s }}">{{ s }}</option>
+          {% endfor %}
+        </select>
+      </div>
+    </div>
+
+    <button type="submit" class="btn" {% if not has_data %}disabled title="Download data first"{% endif %}>
+      View Best Prices →
+    </button>
+
+  </form>
+
+  <div class="info-strip">
+    <div class="info-item"><strong>6</strong> States</div>
+    <div class="info-item"><strong>5</strong> Crops</div>
+    <div class="info-item"><strong>Daily</strong> Updates</div>
+    <div class="info-item"><strong>Free</strong> & Open</div>
+  </div>
+</div>
+
+<footer>
+  Data source: <a href="https://data.gov.in" target="_blank">data.gov.in</a> &nbsp;·&nbsp;
+  Prices in ₹ per quintal
+</footer>
+
+</body>
+</html>
