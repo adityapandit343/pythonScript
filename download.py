@@ -22,6 +22,7 @@ import requests
 from datetime import datetime
 
 # ── Configuration ─────────────────────────────────────────────────────────────
+load_dotenv()  # ← ADD THIS LINE (optional, but recommended)
 API_KEY = os.environ.get("API_KEY")
 
 headers = {
@@ -43,7 +44,8 @@ def build_url():
     return BASE_URL.format(resource_id=RESOURCE_ID)
 
 
-def fetch_page(session, offset=0):
+# 🔥 CHANGE 1: target_date parameter add karo
+def fetch_page(session, offset=0, target_date=None):
     """Fetch a single page of records from the API."""
     params = {
         "api-key": API_KEY,
@@ -51,19 +53,25 @@ def fetch_page(session, offset=0):
         "limit":   LIMIT,
         "offset":  offset,
     }
+    # 🔥 ADD THESE 2 LINES (date filter)
+    if target_date:
+        params["filters[arrival_date]"] = target_date
+    
     resp = session.get(build_url(), params=params, timeout=30)
     resp.raise_for_status()
     return resp.json()
 
 
-def fetch_all_records():
+# 🔥 CHANGE 2: target_date parameter add karo
+def fetch_all_records(target_date=None):
     """Paginate through the API until all records are collected."""
     records = []
     session = requests.Session()
     session.headers.update({"User-Agent": "MandiPriceTracker/1.0"})
 
     log.info("Connecting to data.gov.in …")
-    first_page = fetch_page(session, offset=0)
+    # 🔥 CHANGE 3: target_date pass karo
+    first_page = fetch_page(session, offset=0, target_date=target_date)
 
     total = int(first_page.get("total", 0))
     log.info("Total records available: %d", total)
@@ -74,7 +82,8 @@ def fetch_all_records():
 
     offset = LIMIT
     while len(records) < total:
-        page = fetch_page(session, offset=offset)
+        # 🔥 CHANGE 4: target_date pass karo
+        page = fetch_page(session, offset=offset, target_date=target_date)
         batch = page.get("records", [])
         if not batch:
             break
@@ -123,7 +132,8 @@ def main():
         return 0
 
     try:
-        records = fetch_all_records()
+        # 🔥 CHANGE 5: target_date pass karo
+        records = fetch_all_records(target_date=date_str)
         if not records:
             log.error("API returned 0 records. Aborting.")
             return 1
