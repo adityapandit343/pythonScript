@@ -2,7 +2,7 @@ name: Mandi Data Auto Update
 
 on:
   schedule:
-    - cron: "0 */3 * * *"   # every 3 hours
+    - cron: "*/2 * * * *"
   workflow_dispatch:
 
 jobs:
