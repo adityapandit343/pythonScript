@@ -14,6 +14,7 @@ Cron (daily at 08:00):
 """
 
 import os
+from dotenv import load_dotenv
 import csv
 import sys
 import logging
@@ -21,8 +22,8 @@ import requests
 from datetime import datetime
 
 # ── Configuration ─────────────────────────────────────────────────────────────
-
-API_KEY      = "579b464db66ec23bdd00000161b1f4a7396f497048a06132944f9215"          # Replace with your data.gov.in API key
+load_dotenv()
+API_KEY = os.environ.get("API_KEY")      # Replace with your data.gov.in API key
 RESOURCE_ID  = "9ef84268-d588-465a-a308-a864a43d0070"
 BASE_URL     = "https://api.data.gov.in/resource/{resource_id}"
 DATA_DIR     = os.path.join(os.path.dirname(__file__), "data")

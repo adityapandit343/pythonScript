@@ -1,0 +1,12 @@
+# environment file
+.env
+
+# python cache
+__pycache__/
+*.pyc
+
+# data folder (optional)
+data/
+
+# logs
+*.log
