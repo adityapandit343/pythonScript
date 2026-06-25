@@ -53,9 +53,9 @@ def fetch_page(session, offset=0, target_date=None):
         "offset":  offset,
     }
     
-    # Date filter add karo
+    # 🔥 CORRECTED: "filter" not "filters"
     if target_date:
-        params["filters[arrival_date]"] = target_date
+        params["filter[arrival_date]"] = target_date
     
     log.info(f"📡 Requesting offset: {offset}, limit: {LIMIT}")
     resp = session.get(build_url(), params=params, timeout=30)
@@ -91,7 +91,7 @@ def fetch_all_records(target_date=None):
     records.extend(batch)
     log.info("Fetched %d / %d records", len(records), total)
 
-    # 🔥 Pagination loop - baaki ke pages fetch karo
+    # Pagination loop - baaki ke pages fetch karo
     offset = LIMIT
     while len(records) < total:
         log.info(f"🔄 Fetching next page at offset: {offset}")
@@ -153,14 +153,14 @@ def main():
         return 0
 
     try:
-        # 🔥 Saara data pehle fetch karo
+        # Saara data pehle fetch karo
         records = fetch_all_records(target_date=date_str)
         
         if not records:
             log.error("API returned 0 records. Aborting.")
             return 1
 
-        # 🔥 Save SIRF EK BAAR, loop ke BAHAR
+        # Save SIRF EK BAAR, loop ke BAHAR
         path = save_csv(records, date_str)
         if path:
             log.info("✅  Download complete: %s", path)
