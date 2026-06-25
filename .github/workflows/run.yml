@@ -2,8 +2,11 @@ name: Mandi Data Auto Update
 
 on:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: "0 */2 * * *" # Har 2 ghante me chalega (GitHub cron limits ke liye sahi hai)
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   run-script:
@@ -33,3 +36,7 @@ jobs:
           git add .
           git commit -m "auto update data" || exit 0
           git push
+
+      - name: Trigger Render Deploy
+        run: |
+          curl -X POST "${{ secrets.RENDER_DEPLOY_HOOK }}"
