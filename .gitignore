@@ -5,8 +5,6 @@
 __pycache__/
 *.pyc
 
-# data folder (optional)
-data/
 
 # logs
 *.log
