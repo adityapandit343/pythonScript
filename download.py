@@ -44,7 +44,6 @@ def build_url():
     return BASE_URL.format(resource_id=RESOURCE_ID)
 
 
-# 🔥 CHANGE 1: target_date parameter add karo
 def fetch_page(session, offset=0, target_date=None):
     """Fetch a single page of records from the API."""
     params = {
@@ -53,24 +52,36 @@ def fetch_page(session, offset=0, target_date=None):
         "limit":   LIMIT,
         "offset":  offset,
     }
-    # 🔥 ADD THESE 2 LINES (date filter)
+    
+    # Date filter add karo
     if target_date:
         params["filters[arrival_date]"] = target_date
     
+    log.info(f"📡 Requesting offset: {offset}, limit: {LIMIT}")
     resp = session.get(build_url(), params=params, timeout=30)
     resp.raise_for_status()
-    return resp.json()
+    data = resp.json()
+    log.info(f"📡 Response has {len(data.get('records', []))} records")
+    return data
 
 
-# 🔥 CHANGE 2: target_date parameter add karo
 def fetch_all_records(target_date=None):
-    """Paginate through the API until all records are collected."""
+    """
+    Paginate through the API until all records for a specific date are collected.
+    
+    Args:
+        target_date (str): Date in YYYY-MM-DD format
+    
+    Returns:
+        list: All records for that date
+    """
     records = []
     session = requests.Session()
     session.headers.update({"User-Agent": "MandiPriceTracker/1.0"})
 
     log.info("Connecting to data.gov.in …")
-    # 🔥 CHANGE 3: target_date pass karo
+    
+    # Pehla page fetch karo
     first_page = fetch_page(session, offset=0, target_date=target_date)
 
     total = int(first_page.get("total", 0))
@@ -80,17 +91,27 @@ def fetch_all_records(target_date=None):
     records.extend(batch)
     log.info("Fetched %d / %d records", len(records), total)
 
+    # 🔥 Pagination loop - baaki ke pages fetch karo
     offset = LIMIT
     while len(records) < total:
-        # 🔥 CHANGE 4: target_date pass karo
+        log.info(f"🔄 Fetching next page at offset: {offset}")
         page = fetch_page(session, offset=offset, target_date=target_date)
         batch = page.get("records", [])
+        
+        log.info(f"📦 Received {len(batch)} records in this batch")
+        
         if not batch:
+            log.warning("⚠️ Empty batch received! Breaking loop.")
             break
+            
         records.extend(batch)
         offset += LIMIT
         log.info("Fetched %d / %d records", len(records), total)
+        
+        # Rate limit se bachne ke liye thoda ruko
+        time.sleep(0.5)
 
+    log.info(f"✅ Total records fetched: {len(records)}")
     return records
 
 
@@ -132,12 +153,14 @@ def main():
         return 0
 
     try:
-        # 🔥 CHANGE 5: target_date pass karo
+        # 🔥 Saara data pehle fetch karo
         records = fetch_all_records(target_date=date_str)
+        
         if not records:
             log.error("API returned 0 records. Aborting.")
             return 1
 
+        # 🔥 Save SIRF EK BAAR, loop ke BAHAR
         path = save_csv(records, date_str)
         if path:
             log.info("✅  Download complete: %s", path)
