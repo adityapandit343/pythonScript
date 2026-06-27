@@ -1,0 +1,23 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Keralam,Idukki,Rajakkad  VFPCK Market,Banana,Nendra Bale,Large,27/06/2026,3500,4000,3700
+Uttar Pradesh,Hathras,Shadabad APMC,Pumpkin,Pumpkin,Small,27/06/2026,900,1000,950
+Odisha,Balasore,Nilagiri APMC,Pumpkin,Other,Local,27/06/2026,1250,1300,1300
+Keralam,Idukki,Kodikulam  VFPCK Market,Banana,Nendra Bale,Large,27/06/2026,4600,4800,4700
+Haryana,Gurgaon,Gurgaon APMC,Potato,Other,Grade B,27/06/2026,500,600,550
+Odisha,Balasore,Nilagiri APMC,Brinjal,Other,Local,27/06/2026,1350,1400,1400
+Haryana,Gurgaon,Gurgaon APMC,Tomato,Other,Grade B,27/06/2026,1000,2000,1500
+Punjab,Fatehgarh,Amloh(Gobind Garh Mandi) APMC,Maize,Deshi Red,FAQ,27/06/2026,1960,2025,2000
+Keralam,Idukki,Pazhayarikandam  VFPCK Market,Banana,Nendra Bale,Large,27/06/2026,3500,4000,3600
+Uttar Pradesh,Hathras,Shadabad APMC,Brinjal,Brinjal,Small,27/06/2026,900,1000,950
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Bitter gourd,Bitter Gourd,FAQ,27/06/2026,1900,2100,2000
+Keralam,Idukki,Thompramkudi VFPCK Market,Banana,Poovan,Large,27/06/2026,3500,3700,3600
+Keralam,Thirssur,Annamanada  VFPCK Market,Banana,Nendra Bale,Grade A,27/06/2026,3700,4500,4108
+Odisha,Balasore,Nilagiri APMC,Bhindi(Ladies Finger),Other,Local,27/06/2026,1800,1850,1850
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Green Chilli,Green Chilly,FAQ,27/06/2026,5700,5900,5800
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Cucumbar(Kheera),Cucumbar,FAQ,27/06/2026,1900,21000,2000
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Potato,Other,FAQ,27/06/2026,750,850,800
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Brinjal,Round/Long,FAQ,27/06/2026,2900,3100,3000
+Andhra Pradesh,Annamayya,Kalikiri APMC,Tomato,Hybrid,FAQ,27/06/2026,1000,1600,1300
+Uttar Pradesh,Hathras,Shadabad APMC,Bitter gourd,Bitter Gourd,Small,27/06/2026,1200,1300,1250
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,Bhindi(Ladies Finger),Bhindi,FAQ,27/06/2026,2400,2600,2500
+Keralam,Kottayam,Pampady Market,Amaranthus,Amaranthus,FAQ,27/06/2026,3000,4500,4000
