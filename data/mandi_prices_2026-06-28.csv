@@ -1,0 +1,20 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Keralam,Kollam,Punalur Market,Papaya,Other,Local,28/06/2026,3000,4000,3500
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Potato,Jyoti,Grade C,28/06/2026,950,950,950
+Keralam,Kollam,Punalur Market,Tomato,Other,Medium,28/06/2026,3000,3800,3200
+Uttar Pradesh,Hathras,Shadabad APMC,Pumpkin,Pumpkin,Small,28/06/2026,800,900,850
+Keralam,Kollam,Punalur Market,Potato,Potato,Medium,28/06/2026,2500,3200,3000
+Keralam,Kollam,Punalur Market,Tender Coconut,Other,Local,28/06/2026,5600,6800,6000
+Keralam,Ernakulam,Kunnukara  VFPCK Market,Banana,Nendra Bale,Grade A,28/06/2026,4000,4200,4100
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Onion,1st Sort,Grade A,28/06/2026,2550,2550,2550
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Potato,Jyoti,Grade B,28/06/2026,1000,1000,1000
+Keralam,Kollam,Punalur Market,Onion,Onion,Medium,28/06/2026,2300,3500,2900
+Keralam,Kollam,Punalur Market,Bitter gourd,Bitter Gourd,Local,28/06/2026,3000,4000,3800
+Keralam,Kollam,Punalur Market,Pineapple,Pine Apple,Local,28/06/2026,6000,8000,7500
+Keralam,Kottayam,Ramapuram VFPCK Market,Banana,Nendra Bale,Grade A,28/06/2026,5800,6000,5900
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Onion,Medium,Grade A,28/06/2026,2500,2500,2500
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Potato,Red Nanital,Grade A,28/06/2026,1050,1050,1050
+Punjab,Amritsar,Rayya APMC,Maize,Local,FAQ,28/06/2026,2010,2010,2010
+Uttar Pradesh,Hathras,Shadabad APMC,Brinjal,Brinjal,Small,28/06/2026,900,1000,950
+Uttar Pradesh,Hathras,Shadabad APMC,Raddish,Raddish,Small,28/06/2026,1100,1200,1150
+Keralam,Kollam,Punalur Market,Cowpea(Veg),Cowpea (Veg),Local,28/06/2026,3200,4000,3800
