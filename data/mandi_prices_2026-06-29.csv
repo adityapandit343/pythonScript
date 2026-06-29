@@ -1,0 +1,85 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Bihar,Kishanganj,Bahadurganj APMC,Potato,Desi,Grade A,29/06/2026,1900,1900,1900
+Rajasthan,Chittorgarh,Kapasan APMC,Wheat,Lokwan,FAQ,29/06/2026,2400,2600,2500
+Keralam,Alappuzha,Harippad Market,Amaranthus,Other,FAQ,29/06/2026,5000,5500,5000
+Keralam,Alappuzha,Harippad Market,Bottle gourd,Other,FAQ,29/06/2026,2000,2500,2000
+Keralam,Alappuzha,Harippad Market,Bitter gourd,Other,FAQ,29/06/2026,6500,7000,6500
+Punjab,Mansa,Mansa APMC,Green Chilli,Green Chilly,FAQ,29/06/2026,6500,6500,6500
+Punjab,Bhatinda,Talwandi Sabo APMC,Tomato,Other,Grade A,29/06/2026,3000,3500,3200
+Punjab,Bhatinda,Talwandi Sabo APMC,Pumpkin,Other,Grade A,29/06/2026,1000,1200,1100
+Keralam,Palakad,Vaniyamkulam  VFPCK Market,Snakeguard,Other,Grade A,29/06/2026,4300,4500,4400
+Himachal Pradesh,Hamirpur,PMY Hamirpur,Potato,Other,Grade B,29/06/2026,1000,1600,1300
+Himachal Pradesh,Hamirpur,PMY Hamirpur,Bottle gourd,Bottle Gourd,Grade B,29/06/2026,2000,3000,2500
+Himachal Pradesh,Hamirpur,PMY Hamirpur,Bhindi(Ladies Finger),Other,Grade B,29/06/2026,3000,3200,3100
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Cabbage,Cabbage,Grade B,29/06/2026,1500,1500,1500
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Onion,1st Sort,Grade B,29/06/2026,2500,2500,2500
+Uttar Pradesh,Hathras,Shadabad APMC,Raddish,Raddish,Small,29/06/2026,900,1000,950
+Keralam,Kannur,Irikkur Market,Rubber,Other,FAQ,29/06/2026,25600,25800,25700
+Rajasthan,Rajsamand,Rajsamand APMC,Tomato,Tomato,FAQ,29/06/2026,1200,1600,1400
+Punjab,Mansa,Mansa APMC,Litchi,Litchi,Grade A,29/06/2026,9090,9090,9090
+Punjab,Mansa,Mansa APMC,Grapes,Green,Grade A,29/06/2026,16000,16000,16000
+Punjab,Mansa,Mansa APMC,Guar,Gwar,FAQ,29/06/2026,2400,2400,2400
+Punjab,Mansa,Mansa APMC,Garlic,Garlic,FAQ,29/06/2026,12000,12000,12000
+Punjab,Mansa,Mansa APMC,Cucumbar(Kheera),Cucumbar,FAQ,29/06/2026,3850,3850,3850
+Punjab,Mansa,Mansa APMC,Onion,Nasik,FAQ,29/06/2026,1900,1900,1900
+Punjab,Mansa,Mansa APMC,Tomato,Other,FAQ,29/06/2026,4600,4600,4600
+Telangana,Medak,Dubbak APMC,Paddy(Common),I.R. 64,FAQ,29/06/2026,2400,2400,2400
+Haryana,Gurgaon,Gurgaon APMC,Potato,Other,Grade B,29/06/2026,450,550,500
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Bhindi(Ladies Finger),Bhindi,FAQ,29/06/2026,900,900,900
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Bhindi(Ladies Finger),Bhindi,Grade A,29/06/2026,1000,1000,1000
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Potato,Jyoti,Grade B,29/06/2026,950,950,950
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Potato,Jyoti,Grade A,29/06/2026,1000,1000,1000
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Onion,Medium,Grade C,29/06/2026,2300,2300,2300
+Bihar,Kishanganj,Bahadurganj APMC,Rice,Medium,Grade Range-1,29/06/2026,5500,5500,5500
+Keralam,Alappuzha,Harippad Market,Cabbage,Cabbage,FAQ,29/06/2026,5000,5500,5000
+Keralam,Alappuzha,Harippad Market,Brinjal,Brinjal,FAQ,29/06/2026,6000,6500,6000
+Keralam,Alappuzha,Harippad Market,Banana - Green,Other,FAQ,29/06/2026,6000,6500,6000
+Punjab,Mansa,Mansa APMC,Mousambi(Sweet Lime),Mousambi,Grade A,29/06/2026,3300,4730,4015
+Punjab,Mansa,Mansa APMC,Mango,Other,Grade A,29/06/2026,4800,4800,4800
+Punjab,Mansa,Mansa APMC,Potato,Other,FAQ,29/06/2026,560,560,560
+Andhra Pradesh,Eluru,Polavaram APMC,Paddy(Common),1001,Local,29/06/2026,2389,2389,2389
+Punjab,Bhatinda,Talwandi Sabo APMC,Green Chilli,Other,Grade A,29/06/2026,2000,2200,2100
+Punjab,Bhatinda,Talwandi Sabo APMC,Bhindi(Ladies Finger),Other,Grade A,29/06/2026,1600,2000,1800
+Keralam,Palakad,Vaniyamkulam  VFPCK Market,Ashgourd,Ashgourd,Grade A,29/06/2026,1300,1500,1400
+Keralam,Palakad,Vaniyamkulam  VFPCK Market,Brinjal,Round/Long,Grade A,29/06/2026,5900,6100,6000
+Haryana,Gurgaon,Gurgaon APMC,Onion,Other,Grade B,29/06/2026,1000,2000,1500
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Brinjal,Arkasheela Mattigulla,Grade A,29/06/2026,1500,1500,1500
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Potato,Red Nanital,FAQ,29/06/2026,1300,1300,1300
+Uttar Pradesh,Hathras,Shadabad APMC,Bottle gourd,Bottle Gourd,Small,29/06/2026,800,900,850
+Uttar Pradesh,Hathras,Shadabad APMC,Brinjal,Brinjal,Small,29/06/2026,1100,1200,1150
+Keralam,Alappuzha,Harippad Market,Ashgourd,Other,FAQ,29/06/2026,4000,4500,4000
+Punjab,Mansa,Mansa APMC,Pomegranate,Pomogranate,Grade A,29/06/2026,12000,12000,12000
+Punjab,Mansa,Mansa APMC,Papaya,Papaya,Grade A,29/06/2026,2500,2500,2500
+Punjab,Mansa,Mansa APMC,Banana,Banana - Ripe,Grade A,29/06/2026,1800,1800,1800
+Keralam,Alappuzha,Harippad Market,Beetroot,Beetroot,FAQ,29/06/2026,5500,6000,5500
+Punjab,Mansa,Mansa APMC,Pineapple,Pine Apple,Grade A,29/06/2026,4400,4400,4400
+Andhra Pradesh,Eluru,Polavaram APMC,Maize,Local,Local,29/06/2026,2400,2400,2400
+Punjab,Mansa,Mansa APMC,Pumpkin,Pumpkin,FAQ,29/06/2026,2800,2800,2800
+Keralam,Alappuzha,Harippad Market,Bhindi(Ladies Finger),Other,FAQ,29/06/2026,4500,5000,4500
+Punjab,Bhatinda,Talwandi Sabo APMC,Potato,Other,Grade A,29/06/2026,800,1000,900
+Punjab,Bhatinda,Talwandi Sabo APMC,Onion,Other,Grade A,29/06/2026,2000,2500,2300
+Punjab,Bhatinda,Talwandi Sabo APMC,Guar,Other,Grade A,29/06/2026,5000,6000,5500
+Punjab,Bhatinda,Talwandi Sabo APMC,Cucumbar(Kheera),Other,Grade A,29/06/2026,2200,2500,2300
+Punjab,Bhatinda,Talwandi Sabo APMC,Capsicum,Capsicum,Grade A,29/06/2026,2400,2600,2500
+Himachal Pradesh,Hamirpur,PMY Hamirpur,Bitter gourd,Bitter Gourd,Grade B,29/06/2026,3000,3500,3250
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Pumpkin,Pumpkin,Grade A,29/06/2026,2000,2000,2000
+Mizoram,Aizawl,Champai APMC,Cow,Other,Local,29/06/2026,40000,45000,45000
+Bihar,Kishanganj,Bahadurganj APMC,Onion,Medium,Grade A,29/06/2026,2100,2100,2100
+Keralam,Alappuzha,Harippad Market,Carrot,Other,FAQ,29/06/2026,7000,7500,7000
+Keralam,Alappuzha,Harippad Market,Capsicum,Capsicum,FAQ,29/06/2026,10000,10500,10000
+Bihar,Kishanganj,Bahadurganj APMC,Maize,Deshi Red,Grade Range-1,29/06/2026,1950,1950,1950
+Rajasthan,Rajsamand,Rajsamand APMC,Potato,Potato,FAQ,29/06/2026,500,900,700
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,29/06/2026,1200,1800,1500
+Punjab,Mansa,Mansa APMC,Water Melon,Water Melon,Grade A,29/06/2026,880,880,880
+Punjab,Mansa,Mansa APMC,Apple,Apple,Grade A,29/06/2026,9900,9900,9900
+Keralam,Kottayam,Bharnanganam VFPCK,Banana,Banana - Ripe,Grade A,29/06/2026,5200,5400,5300
+Punjab,Mansa,Mansa APMC,Lemon,Lemon,FAQ,29/06/2026,6100,6100,6100
+Punjab,Mansa,Mansa APMC,Brinjal,Brinjal,FAQ,29/06/2026,2400,2400,2400
+Punjab,Mansa,Mansa APMC,Bhindi(Ladies Finger),Bhindi,FAQ,29/06/2026,1290,1290,1290
+Punjab,Bhatinda,Talwandi Sabo APMC,Brinjal,Other,Grade A,29/06/2026,1200,1400,1300
+Andhra Pradesh,Dr.B.R.A.Konaseema,Amalapuram APMC,Paddy(Common),1001,Local,29/06/2026,2369,2400,2369
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Cauliflower,African Sarson,Grade A,29/06/2026,6000,6000,6000
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Cabbage,Cabbage,Grade A,29/06/2026,1600,1600,1600
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Pumpkin,Pumpkin,Grade C,29/06/2026,1000,1000,1000
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Pumpkin,Pumpkin,Grade B,29/06/2026,1130,1130,1130
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Onion,Medium,Grade A,29/06/2026,2550,2550,2550
