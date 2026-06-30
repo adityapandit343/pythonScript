@@ -1,0 +1,46 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Bihar,Begusarai,Balliah APMC,Potato,Local,Grade A,30/06/2026,1100,1300,1200
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Banana - Green,Banana - Green,FAQ,30/06/2026,1950,1980,1965
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Brinjal,Round/Long,FAQ,30/06/2026,1310,1345,1325
+Odisha,Sundergarh,Panposh APMC,Cabbage,Cabbage,FAQ,30/06/2026,2000,3000,2500
+Bihar,Begusarai,Balliah APMC,Potato,Local,Grade B,30/06/2026,1100,1300,1200
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Pointed gourd(Parval),Pointed gourd (Parval),FAQ,30/06/2026,3200,3280,3240
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cauliflower,Local,FAQ,30/06/2026,2320,2355,2340
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cabbage,Cabbage,FAQ,30/06/2026,1145,1175,1160
+Tripura,South Tripura,Barpathari APMC,Brinjal,Round/Long,Local,30/06/2026,1900,2100,2000
+Haryana,Gurgaon,Gurgaon APMC,Onion,Other,Grade B,30/06/2026,1000,2000,1500
+West Bengal,Birbhum,Rampurhat APMC,Potato,Other,FAQ,30/06/2026,740,780,760
+Keralam,Thiruvananthapuram,Kollayil  VFPCK Market,Banana,Nendra Bale,Grade A,30/06/2026,5500,6000,5800
+Uttar Pradesh,Hathras,Shadabad APMC,Raddish,Raddish,Small,30/06/2026,800,900,850
+Bihar,Begusarai,Balliah APMC,Onion,1st Sort,Grade C,30/06/2026,1800,2000,1900
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Raddish,Raddish,FAQ,30/06/2026,1240,1275,1260
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Bottle gourd,Bottle Gourd,FAQ,30/06/2026,1220,1260,1240
+Tripura,South Tripura,Barpathari APMC,Cucumbar(Kheera),Cucumbar,Local,30/06/2026,2900,3100,3000
+Odisha,Sundergarh,Panposh APMC,Brinjal,Brinjal,FAQ,30/06/2026,3000,3500,3200
+Telangana,Karimnagar,Huzzurabad APMC,Paddy(Common),MTU-1001,FAQ,30/06/2026,2369,2389,2369
+Tripura,South Tripura,Barpathari APMC,"Spiny Gourd / Kartali(Kantola)
+",Kartali (Kantola),Local,30/06/2026,1900,2100,2000
+Keralam,Malappuram,Mankada VFPCK Market,Banana,Nendra Bale,Local,30/06/2026,3700,3900,3800
+Keralam,Thiruvananthapuram,Neyyattinkara  VFPCK Market,Banana,Nendra Bale,Grade A,30/06/2026,5500,6000,5800
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cucumbar(Kheera),Cucumbar,FAQ,30/06/2026,1010,1030,1020
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Carrot,Carrot,FAQ,30/06/2026,1650,1690,1675
+Tripura,South Tripura,Barpathari APMC,Bitter gourd,Bitter Gourd,Local,30/06/2026,4900,5100,5000
+Odisha,Sundergarh,Panposh APMC,Pumpkin,Other,FAQ,30/06/2026,800,1200,1000
+Odisha,Sundergarh,Panposh APMC,Cauliflower,Local,FAQ,30/06/2026,3000,4000,3400
+Odisha,Sundergarh,Panposh APMC,Tomato,Hybrid,FAQ,30/06/2026,3500,4200,4000
+Odisha,Sundergarh,Panposh APMC,Bhindi(Ladies Finger),Other,FAQ,30/06/2026,3000,3500,3200
+Tripura,South Tripura,Barpathari APMC,Pointed gourd(Parval),Pointed gourd (Parval),Local,30/06/2026,1900,2100,2000
+Haryana,Gurgaon,Gurgaon APMC,Potato,Other,Grade B,30/06/2026,500,600,550
+Bihar,Begusarai,Balliah APMC,Onion,1st Sort,Grade A,30/06/2026,1800,2000,1900
+Bihar,Begusarai,Balliah APMC,Potato,Local,Grade C,30/06/2026,1100,1300,1200
+Bihar,Begusarai,Balliah APMC,Onion,1st Sort,Grade B,30/06/2026,1800,2000,1900
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Bhindi(Ladies Finger),Bhindi,FAQ,30/06/2026,2450,2490,2470
+Tripura,South Tripura,Barpathari APMC,Cowpea(Veg),Cowpea (Veg),Local,30/06/2026,2900,3100,3000
+Keralam,Thirssur,Annamanada  VFPCK Market,Banana,Nendra Bale,Grade A,30/06/2026,3700,4500,4100
+Tripura,South Tripura,Barpathari APMC,Bhindi(Ladies Finger),Bhindi,Local,30/06/2026,2900,3100,3000
+Odisha,Sundergarh,Panposh APMC,Cucumbar(Kheera),Other,FAQ,30/06/2026,3500,4200,4000
+Odisha,Sundergarh,Panposh APMC,Bottle gourd,Other,FAQ,30/06/2026,1500,2400,2000
+Telangana,Hanmakonda,Kamalapur APMC,Paddy(Common),Common,FAQ,30/06/2026,2369,2389,2369
+Andhra Pradesh,Dr.B.R.A.Konaseema,Amalapuram APMC,Paddy(Common),1001,Local,30/06/2026,2369,2400,2369
+Uttar Pradesh,Hathras,Shadabad APMC,Bitter gourd,Bitter Gourd,Small,30/06/2026,1400,1500,1450
+Uttar Pradesh,Hathras,Shadabad APMC,Brinjal,Brinjal,Small,30/06/2026,900,1000,950
