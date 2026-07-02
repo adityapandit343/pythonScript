@@ -1,0 +1,81 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Andhra Pradesh,Dr.B.R.A.Konaseema,Amalapuram APMC,Paddy(Common),1001,Local,02/07/2026,2369,2400,2369
+Haryana,Gurgaon,Gurgaon APMC,Potato,Other,Grade B,02/07/2026,400,600,500
+Punjab,Amritsar,Rayya APMC,Cauliflower,Other,FAQ,02/07/2026,1143,1143,1143
+Keralam,Kottayam,Pampady Market,Bhindi(Ladies Finger),Bhindi,FAQ,02/07/2026,3600,5100,5000
+Keralam,Kottayam,Pampady Market,Brinjal,Brinjal,FAQ,02/07/2026,5000,6500,6000
+Keralam,Kottayam,Pampady Market,Cowpea(Veg),Cowpea (Veg),FAQ,02/07/2026,6800,8500,8000
+Keralam,Kottayam,Pampady Market,Cabbage,Cabbage,FAQ,02/07/2026,3900,5600,5000
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,02/07/2026,1300,1700,1500
+Keralam,Kottayam,Pampady Market,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,02/07/2026,3500,5000,4500
+Keralam,Alappuzha,Harippad Market,Amaranthus,Other,FAQ,02/07/2026,5000,5500,5000
+Keralam,Alappuzha,Harippad Market,Cabbage,Cabbage,FAQ,02/07/2026,4500,5000,4500
+Keralam,Thirssur,Annamanada  VFPCK Market,Banana,Nendra Bale,Grade A,02/07/2026,3500,4700,4100
+Keralam,Kottayam,Pampady Market,Pumpkin,Pumpkin,FAQ,02/07/2026,2200,4000,3500
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Bhindi(Ladies Finger),Bhindi,FAQ,02/07/2026,2450,2500,2475
+Haryana,Gurgaon,Gurgaon APMC,Onion,Other,Grade B,02/07/2026,1000,2000,1500
+Punjab,Amritsar,Rayya APMC,Potato,Potato,FAQ,02/07/2026,400,400,400
+Andhra Pradesh,Annamayya,Guramkonda Sub-yard of AMC Valmikipuram,Tomato,Hybrid,FAQ,02/07/2026,1200,2000,1600
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,02/07/2026,740,740,740
+Keralam,Kottayam,Pampady Market,Cauliflower,Cauliflower,FAQ,02/07/2026,5000,6500,6000
+Rajasthan,Rajsamand,Rajsamand APMC,Potato,Potato,FAQ,02/07/2026,500,900,700
+Rajasthan,Rajsamand,Rajsamand APMC,Tomato,Tomato,FAQ,02/07/2026,1000,1400,1200
+Keralam,Alappuzha,Harippad Market,Bitter gourd,Other,FAQ,02/07/2026,6000,6500,6000
+Keralam,Kottayam,Pampady Market,Little gourd(Kundru),Other,FAQ,02/07/2026,4800,6000,5000
+Keralam,Kottayam,Pampady Market,Green Chilli,Green Chilly,FAQ,02/07/2026,7000,8000,7500
+Andhra Pradesh,Sri Sathya Sai,Gorantla  APMC,Maize,Hybrid/Local,FAQ,02/07/2026,1700,2000,1850
+Uttarakhand,Haridwar,Roorkee APMC,Banana,Other,Medium,02/07/2026,800,1200,1000
+Uttarakhand,Haridwar,Roorkee APMC,Mango,Other,Local,02/07/2026,1000,1600,1200
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Raddish,Raddish,FAQ,02/07/2026,1550,1590,1570
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cauliflower,Cauliflower,FAQ,02/07/2026,1720,1760,1740
+Keralam,Malappuram,Mankada VFPCK Market,Banana,Nendra Bale,Local,02/07/2026,3700,3900,3800
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,02/07/2026,1552,1552,1552
+Uttar Pradesh,Hathras,Shadabad APMC,Bottle gourd,Bottle Gourd,Small,02/07/2026,800,900,850
+Keralam,Kottayam,Pampady Market,Beetroot,Beetroot,FAQ,02/07/2026,3500,5100,4500
+Keralam,Kottayam,Pampady Market,Drumstick,Drumstick,FAQ,02/07/2026,7600,8500,8000
+Andhra Pradesh,Annamayya,Valmikipuram APMC,Tomato,Hybrid,FAQ,02/07/2026,1200,2000,1600
+Rajasthan,Chittorgarh,Kapasan APMC,Wheat,Lokwan,FAQ,02/07/2026,2400,2600,2500
+Keralam,Kottayam,Pampady Market,Ginger(Green),Green Ginger,FAQ,02/07/2026,20000,25000,23000
+Keralam,Alappuzha,Harippad Market,Bhindi(Ladies Finger),Other,FAQ,02/07/2026,4500,5000,4500
+Keralam,Kottayam,Pampady Market,Mango(Raw-Ripe),Mango - Raw-Ripe,FAQ,02/07/2026,3000,4600,4000
+Keralam,Kottayam,Pampady Market,Snakeguard,Snakeguard,FAQ,02/07/2026,3500,4500,4000
+Uttarakhand,Haridwar,Roorkee APMC,Bitter gourd,Other,Local,02/07/2026,650,850,750
+Uttar Pradesh,Badaun,Babrala APMC,Paddy(Basmati),Basmati 1509,Local,02/07/2026,2430,2450,2440
+Uttarakhand,Haridwar,Roorkee APMC,Bottle gourd,Other,Local,02/07/2026,550,720,650
+Uttarakhand,Haridwar,Roorkee APMC,Brinjal,Other,Local,02/07/2026,550,750,650
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Brinjal,Round/Long,FAQ,02/07/2026,1330,1370,1350
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,02/07/2026,725,725,725
+Uttar Pradesh,Hathras,Shadabad APMC,Pumpkin,Pumpkin,Small,02/07/2026,900,1000,950
+Punjab,Amritsar,Rayya APMC,Cucumbar(Kheera),Cucumbar,FAQ,02/07/2026,939,939,939
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,02/07/2026,1838,1838,1838
+Keralam,Kottayam,Pampady Market,Bitter gourd,Bitter Gourd,FAQ,02/07/2026,6700,8100,7500
+Keralam,Kottayam,Pampady Market,Colacasia,Other,FAQ,02/07/2026,4000,5500,5000
+Keralam,Alappuzha,Harippad Market,Banana - Green,Other,FAQ,02/07/2026,5000,5500,5000
+Keralam,Alappuzha,Harippad Market,Ashgourd,Other,FAQ,02/07/2026,4500,5000,4500
+Keralam,Alappuzha,Harippad Market,Bottle gourd,Other,FAQ,02/07/2026,2000,2500,2000
+Keralam,Kottayam,Pampady Market,Indian Beans(Seam),Other,FAQ,02/07/2026,9000,10500,10000
+Andhra Pradesh,Sri Sathya Sai,Gorantla  APMC,Groundnut,F.A.Q,FAQ,02/07/2026,4700,5000,4900
+Keralam,Kottayam,Pampady Market,Onion,Big,FAQ,02/07/2026,2600,3000,2800
+Keralam,Kottayam,Pampady Market,Potato,Big,Grade A,02/07/2026,2300,4000,3000
+Uttarakhand,Haridwar,Roorkee APMC,Bhindi(Ladies Finger),Other,Local,02/07/2026,1000,1500,1200
+Keralam,Kottayam,Pampady Market,Tomato,Tomato,FAQ,02/07/2026,4600,6500,5500
+Uttarakhand,Haridwar,Roorkee APMC,Cucumbar(Kheera),Other,Local,02/07/2026,500,700,600
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Banana - Green,Banana - Green,FAQ,02/07/2026,1960,2000,1980
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cucumbar(Kheera),Cucumbar,FAQ,02/07/2026,1025,1075,1050
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Pointed gourd(Parval),Pointed gourd (Parval),FAQ,02/07/2026,3100,3140,3120
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Bottle gourd,Bottle Gourd,FAQ,02/07/2026,1220,1260,1240
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cabbage,Cabbage,FAQ,02/07/2026,1150,1190,1170
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Carrot,Carrot,FAQ,02/07/2026,1660,1690,1680
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,02/07/2026,1407,1407,1407
+Keralam,Kottayam,Pampady Market,Amaranthus,Amaranthus,FAQ,02/07/2026,3500,4500,4000
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,02/07/2026,520,520,520
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,02/07/2026,2135,2135,2135
+Keralam,Kottayam,Pampady Market,Ashgourd,Ashgourd,FAQ,02/07/2026,2500,4000,3500
+Keralam,Kottayam,Pampady Market,Banana - Green,Banana - Green,FAQ,02/07/2026,6000,7500,7000
+Uttar Pradesh,Hathras,Shadabad APMC,Brinjal,Brinjal,Small,02/07/2026,800,900,850
+Andhra Pradesh,Chittor,Bangarupalyam APMC,Mango,Badami,Grade B,02/07/2026,2500,3500,3000
+Keralam,Alappuzha,Harippad Market,Brinjal,Brinjal,FAQ,02/07/2026,6000,6500,6000
+Keralam,Alappuzha,Harippad Market,Capsicum,Capsicum,FAQ,02/07/2026,9500,10000,9500
+Keralam,Alappuzha,Harippad Market,Beetroot,Beetroot,FAQ,02/07/2026,5000,5500,5000
+Keralam,Kottayam,Pampady Market,Tapioca,Tapioca,FAQ,02/07/2026,2500,3500,3000
+Uttarakhand,Haridwar,Roorkee APMC,Cauliflower,Other,Local,02/07/2026,550,750,650
