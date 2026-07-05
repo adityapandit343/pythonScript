@@ -1,0 +1,24 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Uttarakhand,Haridwar,Roorkee APMC,Bottle gourd,Other,Local,05/07/2026,550,750,650
+Uttarakhand,Haridwar,Roorkee APMC,Onion,Other,Medium,05/07/2026,2000,4000,3000
+Uttarakhand,Haridwar,Roorkee APMC,Bitter gourd,Other,Local,05/07/2026,650,850,750
+Keralam,Thirssur,Annamanada  VFPCK Market,Banana,Nendra Bale,Grade A,05/07/2026,3700,4900,4400
+Uttarakhand,Haridwar,Roorkee APMC,Cucumbar(Kheera),Other,Local,05/07/2026,500,700,600
+Uttarakhand,Haridwar,Roorkee APMC,Cauliflower,Other,Local,05/07/2026,550,750,650
+Uttarakhand,Haridwar,Roorkee APMC,Banana,Other,Medium,05/07/2026,800,1200,1000
+Keralam,Palakad,Agali VFPCK Market,Banana,Nendra Bale,Grade A,05/07/2026,3500,3800,3650
+Uttarakhand,Haridwar,Roorkee APMC,Brinjal,Other,Local,05/07/2026,550,750,650
+Uttarakhand,Haridwar,Roorkee APMC,Bhindi(Ladies Finger),Other,Local,05/07/2026,1000,1400,1200
+Uttarakhand,Haridwar,Roorkee APMC,Potato,Other,Medium,05/07/2026,800,1200,1000
+Telangana,Ranga Reddy,Chevella APMC,Tomato,Local,Local,05/07/2026,3000,3000,3000
+Haryana,Gurgaon,Gurgaon APMC,Tomato,Other,Grade B,05/07/2026,1500,2500,2000
+Uttar Pradesh,Hathras,Shadabad APMC,Raddish,Raddish,Medium,05/07/2026,700,800,750
+Keralam,Ernakulam,Kunnukara  VFPCK Market,Banana,Nendra Bale,Grade A,05/07/2026,4300,4500,4400
+Uttarakhand,Haridwar,Roorkee APMC,Tomato,Other,Medium,05/07/2026,1200,2200,1600
+Uttarakhand,Haridwar,Roorkee APMC,Mango,Other,Local,05/07/2026,1100,1600,1300
+Keralam,Malappuram,Mankada VFPCK Market,Banana,Nendra Bale,Local,05/07/2026,3800,4000,3900
+Haryana,Gurgaon,Gurgaon APMC,Potato,Other,Grade B,05/07/2026,800,1200,1000
+Keralam,Palakad,Alenellur  VFPCK Market,Banana,Nendra Bale,Grade A,05/07/2026,3600,3900,3750
+Uttar Pradesh,Hathras,Shadabad APMC,Pumpkin,Pumpkin,Small,05/07/2026,1200,1300,1250
+Uttar Pradesh,Hathras,Shadabad APMC,Bottle gourd,Bottle Gourd,Small,05/07/2026,800,900,850
+Punjab,Amritsar,Rayya APMC,Maize,Local,FAQ,05/07/2026,1950,1950,1950
