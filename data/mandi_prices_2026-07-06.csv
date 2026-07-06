@@ -1,0 +1,63 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Cauliflower,Cauliflower,FAQ,06/07/2026,2140,2300,2200
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Mango,Dusheri,Grade B,06/07/2026,3490,3510,3500
+Keralam,Kozhikode(Calicut),Mukkom Market,Ashgourd,Other,FAQ,06/07/2026,1600,1900,1800
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Local,06/07/2026,13000,22000,18500
+Bihar,Sheikhpura,Shekhpura APMC,Bitter gourd,Bitter Gourd,FAQ,06/07/2026,2825,2925,2875
+Haryana,Gurgaon,Gurgaon APMC,Onion,Other,Grade B,06/07/2026,1000,2000,1500
+Haryana,Gurgaon,Gurgaon APMC,Potato,Other,Grade B,06/07/2026,1000,1200,1100
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,06/07/2026,1835,1835,1835
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,06/07/2026,510,510,510
+Uttar Pradesh,Hathras,Shadabad APMC,Raddish,Raddish,Small,06/07/2026,800,900,850
+Keralam,Kozhikode(Calicut),Mukkom Market,Brinjal,Brinjal,FAQ,06/07/2026,4400,4800,4600
+Keralam,Kozhikode(Calicut),Mukkom Market,Cowpea(Veg),Cowpea (Veg),FAQ,06/07/2026,5200,5600,5400
+Keralam,Kozhikode(Calicut),Mukkom Market,Amaranthus,Amaranthus,FAQ,06/07/2026,3100,3400,3300
+Bihar,Sheikhpura,Shekhpura APMC,Brinjal,Arkasheela Mattigulla,FAQ,06/07/2026,2720,2810,2760
+Bihar,Sheikhpura,Shekhpura APMC,Cucumbar(Kheera),Cucumbar,FAQ,06/07/2026,2820,2910,2855
+Haryana,Gurgaon,Gurgaon APMC,Tomato,Other,Grade B,06/07/2026,1000,2000,1500
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,06/07/2026,736,736,736
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,06/07/2026,1551,1551,1551
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,06/07/2026,1135,1135,1135
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,06/07/2026,1405,1405,1405
+Andhra Pradesh,Sri Sathya Sai,Gorantla  APMC,Groundnut,F.A.Q,FAQ,06/07/2026,4500,4900,4700
+Keralam,Pathanamthitta,Enadimangalam VFPCK Market,Banana,Nendra Bale,Grade A,06/07/2026,8000,9000,8500
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Cucumbar(Kheera),Cucumbar,FAQ,06/07/2026,1350,1400,1360
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bhindi(Ladies Finger),Bhindi,FAQ,06/07/2026,1450,1500,1480
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Banana,Medium,Grade B,06/07/2026,3380,3400,3390
+Keralam,Kozhikode(Calicut),Mukkom Market,Cabbage,Cabbage,FAQ,06/07/2026,3200,3600,3400
+Keralam,Kozhikode(Calicut),Mukkom Market,Ginger(Green),Green Ginger,FAQ,06/07/2026,14000,15000,14500
+Keralam,Kozhikode(Calicut),Mukkom Market,Beetroot,Beetroot,FAQ,06/07/2026,3600,3900,3800
+Keralam,Kozhikode(Calicut),Mukkom Market,Banana - Green,Banana - Green,FAQ,06/07/2026,3400,3800,3600
+Bihar,Sheikhpura,Shekhpura APMC,Bottle gourd,Bottle Gourd,FAQ,06/07/2026,1920,2010,1955
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Grade Range-1,06/07/2026,14000,26500,21000
+Bihar,Sheikhpura,Shekhpura APMC,Wheat,147 Average,FAQ,06/07/2026,2450,2550,2500
+Bihar,Sheikhpura,Barbigha APMC,Brinjal,Arkasheela Mattigulla,FAQ,06/07/2026,2725,2795,2745
+Punjab,Amritsar,Rayya APMC,Cauliflower,Other,FAQ,06/07/2026,1140,1140,1140
+Andhra Pradesh,Sri Sathya Sai,Gorantla  APMC,Maize,Hybrid/Local,FAQ,06/07/2026,1700,2000,1800
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Pumpkin,Pumpkin,FAQ,06/07/2026,900,1000,960
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Raddish,Other,FAQ,06/07/2026,1300,1400,1350
+Keralam,Kozhikode(Calicut),Mukkom Market,Drumstick,Drumstick,FAQ,06/07/2026,6800,7200,7000
+Keralam,Kozhikode(Calicut),Mukkom Market,Snakeguard,Snakeguard,FAQ,06/07/2026,2900,3300,3100
+Keralam,Kozhikode(Calicut),Mukkom Market,Potato,Potato,FAQ,06/07/2026,2800,3200,3000
+Keralam,Kozhikode(Calicut),Mukkom Market,Bitter gourd,Bitter Gourd,FAQ,06/07/2026,6000,6500,6200
+Keralam,Kozhikode(Calicut),Mukkom Market,Green Chilli,Green Chilly,FAQ,06/07/2026,4800,5200,5000
+Bihar,Sheikhpura,Barbigha APMC,Cucumbar(Kheera),Cucumbar,FAQ,06/07/2026,2820,2895,2845
+Bihar,Sheikhpura,Barbigha APMC,Bottle gourd,Bottle Gourd,FAQ,06/07/2026,1870,1965,1915
+Bihar,Sheikhpura,Barbigha APMC,Wheat,147 Average,FAQ,06/07/2026,2500,2600,2550
+Bihar,Sheikhpura,Barbigha APMC,Bitter gourd,Bitter Gourd,FAQ,06/07/2026,2775,2875,2825
+Uttar Pradesh,Hathras,Shadabad APMC,Pumpkin,Pumpkin,Small,06/07/2026,500,600,550
+Uttar Pradesh,Hathras,Shadabad APMC,Brinjal,Brinjal,Small,06/07/2026,800,900,850
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Banana - Green,Banana - Green,FAQ,06/07/2026,1670,1700,1680
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bitter gourd,Bitter Gourd,FAQ,06/07/2026,2090,2200,2100
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Brinjal,Brinjal,FAQ,06/07/2026,1340,1400,1390
+Keralam,Kozhikode(Calicut),Mukkom Market,Carrot,Carrot,FAQ,06/07/2026,6200,6600,6400
+Keralam,Kozhikode(Calicut),Mukkom Market,Bottle gourd,Bottle Gourd,FAQ,06/07/2026,2000,2400,2200
+Keralam,Kozhikode(Calicut),Mukkom Market,Onion,Onion,FAQ,06/07/2026,2400,2800,2600
+Keralam,Kozhikode(Calicut),Mukkom Market,Bhindi(Ladies Finger),Bhindi,FAQ,06/07/2026,4400,4800,4600
+Keralam,Kozhikode(Calicut),Mukkom Market,Coconut,Other,FAQ,06/07/2026,5000,5300,5100
+Keralam,Kozhikode(Calicut),Mukkom Market,Cucumbar(Kheera),Cucumbar,FAQ,06/07/2026,1800,2200,2000
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,06/07/2026,2134,2134,2134
+Punjab,Amritsar,Rayya APMC,Potato,Potato,FAQ,06/07/2026,400,400,400
+Punjab,Amritsar,Rayya APMC,Cucumbar(Kheera),Cucumbar,FAQ,06/07/2026,935,935,935
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,06/07/2026,720,720,720
+Andhra Pradesh,Alluri Sitharama Raju,Chintapally APMC,Turmeric,Finger,FAQ,06/07/2026,13000,13000,13000
