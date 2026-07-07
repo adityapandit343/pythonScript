@@ -1,0 +1,53 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Punjab,Kapurthala,Bhulath APMC,Cucumbar(Kheera),Cucumbar,Local,07/07/2026,800,900,850
+Punjab,Kapurthala,Bhulath APMC,Green Chilli,Green Chilly,Local,07/07/2026,1600,1800,1700
+Keralam,Alappuzha,Harippad Market,Cauliflower,Cauliflower,FAQ,07/07/2026,4500,5000,4500
+Keralam,Kollam,Valakom  VFPCK Market,Banana,Nendra Bale,Grade A,07/07/2026,8000,8000,8000
+Punjab,Amritsar,Rayya APMC,Potato,Potato,FAQ,07/07/2026,400,400,400
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,07/07/2026,2132,2132,2132
+Keralam,Alappuzha,Harippad Market,Carrot,Other,FAQ,07/07/2026,7000,7500,7000
+Bihar,East Champaran/ Motihari,Motihari APMC,Onion,Other,Grade A,07/07/2026,2500,2700,2600
+Keralam,Thirssur,Annamanada  VFPCK Market,Banana,Nendra Bale,Grade A,07/07/2026,3700,4900,4200
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,07/07/2026,1132,1132,1132
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,07/07/2026,1835,1835,1835
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,07/07/2026,720,720,720
+Bihar,East Champaran/ Motihari,Raxaul APMC,Onion,1st Sort,Grade A,07/07/2026,2600,2800,2700
+Keralam,Alappuzha,Harippad Market,Onion,Small,FAQ,07/07/2026,7000,7500,7000
+Keralam,Alappuzha,Harippad Market,Onion,Big,FAQ,07/07/2026,3000,3500,3000
+Keralam,Alappuzha,Harippad Market,Bitter gourd,Other,FAQ,07/07/2026,6000,6500,6000
+Keralam,Alappuzha,Harippad Market,Amaranthus,Other,FAQ,07/07/2026,5000,5500,5000
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Grade Range-1,07/07/2026,14000,26500,21500
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,07/07/2026,1550,1550,1550
+Punjab,Amritsar,Rayya APMC,Cauliflower,Local,FAQ,07/07/2026,2278,2278,2278
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,07/07/2026,1397,1397,1397
+Uttar Pradesh,Hathras,Shadabad APMC,Bottle gourd,Bottle Gourd,Small,07/07/2026,800,900,850
+Andhra Pradesh,Sri Sathya Sai,Gorantla  APMC,Maize,Hybrid/Local,FAQ,07/07/2026,1700,2000,1800
+Bihar,East Champaran/ Motihari,Raxaul APMC,Potato,Red Nanital,Grade A,07/07/2026,1400,1600,1500
+Andhra Pradesh,Sri Sathya Sai,Gorantla  APMC,Groundnut,F.A.Q,FAQ,07/07/2026,4200,4500,4400
+Bihar,East Champaran/ Motihari,Raxaul APMC,Pointed gourd(Parval),Other,Grade A,07/07/2026,1400,1600,1500
+Keralam,Alappuzha,Harippad Market,Brinjal,Brinjal,FAQ,07/07/2026,6000,6500,6000
+Keralam,Alappuzha,Harippad Market,Beetroot,Beetroot,FAQ,07/07/2026,6000,6500,6000
+Punjab,Kapurthala,Bhulath (Nadala) APMC,Tinda,Tinda,Local,07/07/2026,1100,1150,1150
+Punjab,Kapurthala,Bhulath (Nadala) APMC,Pumpkin,Pumpkin,Local,07/07/2026,600,750,700
+Punjab,Kapurthala,Bhulath (Nadala) APMC,French Beans(Frasbean),French Beans (Frasbean),Local,07/07/2026,1900,2000,2000
+Punjab,Kapurthala,Bhulath (Nadala) APMC,Green Chilli,Green Chilly,Local,07/07/2026,1600,1800,1700
+Keralam,Kollam,Anchal VFPCK Market,Banana,Nendra Bale,Grade A,07/07/2026,7800,7800,7800
+Keralam,Alappuzha,Harippad Market,Colacasia,Other,FAQ,07/07/2026,6000,6500,6000
+Keralam,Alappuzha,Harippad Market,Capsicum,Capsicum,FAQ,07/07/2026,9000,9500,9000
+Keralam,Alappuzha,Harippad Market,Cabbage,Cabbage,FAQ,07/07/2026,4500,5000,4500
+Keralam,Alappuzha,Harippad Market,Bottle gourd,Other,FAQ,07/07/2026,2000,2500,2000
+Keralam,Alappuzha,Harippad Market,Bhindi(Ladies Finger),Other,FAQ,07/07/2026,4500,5000,4500
+Keralam,Alappuzha,Harippad Market,Banana - Green,Other,FAQ,07/07/2026,5500,6000,5500
+Bihar,East Champaran/ Motihari,Motihari APMC,Potato,Other,Grade A,07/07/2026,1100,1300,1200
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Local,07/07/2026,13000,22000,18500
+Bihar,East Champaran/ Motihari,Raxaul APMC,Brinjal,Arkasheela Mattigulla,Grade A,07/07/2026,1600,1900,1800
+Bihar,East Champaran/ Motihari,Raxaul APMC,Bhindi(Ladies Finger),Bhindi,Grade A,07/07/2026,1000,1200,1100
+Keralam,Alappuzha,Harippad Market,Ashgourd,Other,FAQ,07/07/2026,4000,4500,4000
+Punjab,Kapurthala,Bhulath (Nadala) APMC,Ridgeguard(Tori),Ridgeguard(Tori),Local,07/07/2026,1000,1100,1050
+Punjab,Kapurthala,Bhulath (Nadala) APMC,Coriander(Leaves),Coriander,Local,07/07/2026,2100,2300,2200
+Keralam,Malappuram,Mankada VFPCK Market,Banana,Nendra Bale,Local,07/07/2026,3900,4100,4000
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,07/07/2026,735,735,735
+Keralam,Kollam,Kulathoopuzha VFPCK Market,Banana,Nendra Bale,Grade A,07/07/2026,7800,7800,7800
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,07/07/2026,510,510,510
+Uttar Pradesh,Hathras,Shadabad APMC,Raddish,Raddish,Small,07/07/2026,800,900,850
+Uttar Pradesh,Hathras,Shadabad APMC,Brinjal,Brinjal,Small,07/07/2026,800,900,850
