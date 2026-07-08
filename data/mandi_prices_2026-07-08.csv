@@ -1,0 +1,17 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Keralam,Idukki,Nedumkandam Market,Banana,Nendra Bale,Grade A,08/07/2026,4000,5000,4000
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,08/07/2026,510,510,510
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,08/07/2026,1132,1132,1132
+Punjab,Amritsar,Rayya APMC,Potato,Potato,FAQ,08/07/2026,400,400,400
+Punjab,Amritsar,Rayya APMC,Cauliflower,Other,FAQ,08/07/2026,1142,1142,1142
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,08/07/2026,2130,2130,2130
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,08/07/2026,735,735,735
+Uttar Pradesh,Hathras,Shadabad APMC,Pumpkin,Pumpkin,Small,08/07/2026,800,900,850
+Punjab,Amritsar,Rayya APMC,Cucumbar(Kheera),Cucumbar,FAQ,08/07/2026,930,930,930
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,08/07/2026,1835,1835,1835
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,08/07/2026,1550,1550,1550
+Uttar Pradesh,Hathras,Shadabad APMC,Brinjal,Brinjal,Small,08/07/2026,800,900,850
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,08/07/2026,1400,1400,1400
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,08/07/2026,722,722,722
+Uttar Pradesh,Hathras,Shadabad APMC,Raddish,Raddish,Small,08/07/2026,800,900,850
+Keralam,Idukki,Nedumkandam Market,Amla(Nelli Kai),Other,Grade A,08/07/2026,6500,6500,6500
