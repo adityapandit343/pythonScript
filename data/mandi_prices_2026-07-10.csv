@@ -1,0 +1,20 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,10/07/2026,1400,1400,1400
+Bihar,Sheikhpura,Barbigha APMC,Bitter gourd,Bitter Gourd,FAQ,10/07/2026,2800,2900,2850
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,10/07/2026,1825,1825,1825
+Punjab,Amritsar,Rayya APMC,Cucumbar(Kheera),Cucumbar,FAQ,10/07/2026,930,930,930
+Bihar,Sheikhpura,Barbigha APMC,Bottle gourd,Bottle Gourd,FAQ,10/07/2026,1900,1975,1935
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,10/07/2026,1550,1550,1550
+Punjab,Amritsar,Rayya APMC,Cauliflower,Other,FAQ,10/07/2026,1140,1140,1140
+Keralam,Ernakulam,Keerampara VFPCK Market,Pineapple,Other,Grade A,10/07/2026,4500,4500,4500
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,10/07/2026,734,734,734
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,10/07/2026,2100,2100,2100
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,10/07/2026,1130,1130,1130
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,10/07/2026,510,510,510
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,10/07/2026,720,720,720
+Punjab,Amritsar,Rayya APMC,Potato,Other,FAQ,10/07/2026,660,660,660
+Bihar,Sheikhpura,Barbigha APMC,Brinjal,Arkasheela Mattigulla,FAQ,10/07/2026,2750,2850,2800
+Bihar,Sheikhpura,Barbigha APMC,Cucumbar(Kheera),Cucumbar,FAQ,10/07/2026,2840,2935,2880
+Andhra Pradesh,Alluri Sitharama Raju,Chintapally APMC,Groundnut,Local,FAQ,10/07/2026,7500,7500,7500
+Bihar,Sheikhpura,Barbigha APMC,Wheat,147 Average,FAQ,10/07/2026,2450,2550,2500
+Keralam,Ernakulam,Keerampara VFPCK Market,Banana,Nendra Bale,Grade A,10/07/2026,4500,4500,4500
