@@ -1,0 +1,27 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,14/07/2026,730,730,730
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Carrot,Carrot,FAQ,14/07/2026,1600,1650,1625
+Bihar,Khagaria,Khagaria APMC,Bhindi(Ladies Finger),Bhindi,Grade A,14/07/2026,616.666605,783.333255,699.99993
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,14/07/2026,1395,1395,1395
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Raddish,Raddish,FAQ,14/07/2026,1440,1480,1460
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cauliflower,Cauliflower,FAQ,14/07/2026,1680,1720,1700
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Bhindi(Ladies Finger),Bhindi,FAQ,14/07/2026,2420,2460,2440
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,14/07/2026,2120,2120,2120
+Andhra Pradesh,Sri Sathya Sai,Penukonda APMC,Maize,Hybrid/Local,FAQ,14/07/2026,2400,2500,2450
+Andhra Pradesh,Sri Sathya Sai,Penukonda APMC,Groundnut,Local,FAQ,14/07/2026,7500,8000,7800
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Pumpkin,Pumpkin,FAQ,14/07/2026,840,880,860
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Brinjal,Round/Long,FAQ,14/07/2026,1300,1330,1315
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Bottle gourd,Bottle Gourd,FAQ,14/07/2026,1200,1220,1210
+Bihar,Bhagalpur,Bihpur APMC,Brinjal,Other,Grade A,14/07/2026,2500,2500,2500
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,14/07/2026,1829,1829,1829
+Punjab,Amritsar,Rayya APMC,Potato,Other,FAQ,14/07/2026,648,648,648
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cucumbar(Kheera),Cucumbar,FAQ,14/07/2026,980,1015,1000
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Banana - Green,Banana - Green,FAQ,14/07/2026,1940,1970,1955
+Telangana,Bhadradri Kothagudem,Burgampadu APMC,Paddy(Common),Samba Masuri,FAQ,14/07/2026,2400,2400,2400
+Bihar,Khagaria,Khagaria APMC,Cabbage,Cabbage,Grade A,14/07/2026,1500,1725,1675
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,14/07/2026,1127,1127,1127
+Punjab,Amritsar,Rayya APMC,Cauliflower,Other,FAQ,14/07/2026,1135,1135,1135
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,14/07/2026,1545,1545,1545
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,14/07/2026,506,506,506
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,14/07/2026,716,716,716
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cabbage,Cabbage,FAQ,14/07/2026,1120,1155,1140
