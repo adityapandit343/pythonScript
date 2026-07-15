@@ -1,0 +1,15 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Andhra Pradesh,Eluru,Polavaram APMC,Paddy(Common),1001,Local,15/07/2026,2445,2445,2445
+Punjab,Amritsar,Rayya APMC,Potato,Other,FAQ,15/07/2026,650,650,650
+Punjab,Amritsar,Rayya APMC,Cucumbar(Kheera),Cucumbar,FAQ,15/07/2026,927,927,927
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,15/07/2026,1545,1545,1545
+Punjab,Amritsar,Rayya APMC,Cauliflower,Local,FAQ,15/07/2026,2425,2425,2425
+Uttar Pradesh,Badaun,Babrala APMC,Wood,Eucalyptus,Local,15/07/2026,530,550,540
+Uttar Pradesh,Badaun,Babrala APMC,Maize,Local,Local,15/07/2026,1930,1950,1940
+Andhra Pradesh,Alluri Sitharama Raju,Chintapally APMC,Turmeric,Finger,FAQ,15/07/2026,13500,13500,13500
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,15/07/2026,1397,1397,1397
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,15/07/2026,715,715,715
+Andhra Pradesh,Eluru,Polavaram APMC,Maize,Local,Local,15/07/2026,2410,2410,2410
+Uttar Pradesh,Badaun,Babrala APMC,Potato,Desi,Medium,15/07/2026,580,600,590
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,15/07/2026,500,500,500
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,15/07/2026,1125,1125,1125
