@@ -1,0 +1,31 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Keralam,Idukki,Munnar Market,Orange,Other,Medium,16/07/2026,16000,16000,16000
+Keralam,Idukki,Munnar Market,Mango,Other,Medium,16/07/2026,7000,7000,7000
+Haryana,Gurgaon,Gurgaon APMC,Onion,Other,Grade B,16/07/2026,1000,2000,1500
+Keralam,Idukki,Munnar Market,Amla(Nelli Kai),Other,Medium,16/07/2026,6800,6800,6800
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,16/07/2026,504,504,504
+Keralam,Idukki,Munnar Market,Water Melon,Water Melon,Medium,16/07/2026,2000,2000,2000
+Punjab,Amritsar,Rayya APMC,Cucumbar(Kheera),Cucumbar,FAQ,16/07/2026,926,926,926
+Punjab,Amritsar,Rayya APMC,Raddish,Other,FAQ,16/07/2026,1988,1988,1988
+Keralam,Idukki,Munnar Market,Pomegranate,Other,Medium,16/07/2026,13000,13000,13000
+Keralam,Idukki,Munnar Market,Apple,Other,Medium,16/07/2026,29000,29000,29000
+Keralam,Idukki,Munnar Market,Banana,Nendra Bale,Medium,16/07/2026,5000,5000,5000
+Keralam,Idukki,Munnar Market,Banana,Robusta,Medium,16/07/2026,2500,2500,2500
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,16/07/2026,1545,1545,1545
+Punjab,Amritsar,Rayya APMC,Cauliflower,Other,FAQ,16/07/2026,1135,1135,1135
+Keralam,Idukki,Munnar Market,Banana,Poovan,Medium,16/07/2026,4500,4500,4500
+Keralam,Idukki,Munnar Market,Grapes,Black,Medium,16/07/2026,16500,16500,16500
+Keralam,Idukki,Munnar Market,Grapes,Green,Medium,16/07/2026,15000,15000,15000
+Keralam,Idukki,Munnar Market,Grapes,Other,Small,16/07/2026,11000,11000,11000
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,16/07/2026,1396,1396,1396
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,16/07/2026,2115,2115,2115
+Keralam,Idukki,Munnar Market,Tender Coconut,Other,Medium,16/07/2026,5000,5000,5000
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,16/07/2026,1826,1826,1826
+Keralam,Idukki,Munnar Market,Banana,Palayamthodan,Medium,16/07/2026,3000,3000,3000
+Keralam,Idukki,Munnar Market,Pineapple,Other,Medium,16/07/2026,6000,6000,6000
+Punjab,Amritsar,Rayya APMC,Potato,Other,FAQ,16/07/2026,655,655,655
+Keralam,Idukki,Munnar Market,Papaya,Other,Medium,16/07/2026,4000,4000,4000
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,16/07/2026,730,730,730
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,16/07/2026,715,715,715
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,16/07/2026,1125,1125,1125
+Keralam,Idukki,Munnar Market,Guava,Guava,Medium,16/07/2026,6500,6500,6500
