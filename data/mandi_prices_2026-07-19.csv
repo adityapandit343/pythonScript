@@ -1,0 +1,6 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+West Bengal,Purba Bardhaman,Memari APMC,Rice,Common,FAQ,19/07/2026,3250,3400,3300
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,19/07/2026,2000,2600,2300
+Rajasthan,Rajsamand,Rajsamand APMC,Tomato,Tomato,FAQ,19/07/2026,2200,3000,2600
+Rajasthan,Chittorgarh,Kapasan APMC,Wheat,Lokwan,FAQ,19/07/2026,2400,2600,2500
+Rajasthan,Rajsamand,Rajsamand APMC,Potato,Potato,FAQ,19/07/2026,600,800,700
