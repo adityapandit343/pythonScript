@@ -1,0 +1,17 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Bihar,Gaya,Gaya APMC,Capsicum,Capsicum,FAQ,21/07/2026,5200,5600,5400
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cabbage,Cabbage,FAQ,21/07/2026,1100,1128,1115
+Bihar,Gaya,Gaya APMC,Bitter gourd,Bitter Gourd,FAQ,21/07/2026,1650,2050,1840
+Bihar,Gaya,Gaya APMC,Tomato,Deshi,FAQ,21/07/2026,4550,4950,4700
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Raddish,Raddish,FAQ,21/07/2026,1400,1430,1415
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Bottle gourd,Bottle Gourd,FAQ,21/07/2026,1160,1200,1180
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Local,21/07/2026,14000,22000,19000
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cucumbar(Kheera),Cucumbar,FAQ,21/07/2026,960,995,980
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Bhindi(Ladies Finger),Bhindi,FAQ,21/07/2026,2400,2430,2415
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Banana - Green,Banana - Green,FAQ,21/07/2026,1940,1975,1960
+Bihar,Gaya,Gaya APMC,French Beans(Frasbean),French Beans (Frasbean),FAQ,21/07/2026,8100,8500,8300
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Pumpkin,Pumpkin,FAQ,21/07/2026,840,880,860
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,21/07/2026,1500,1530,1515
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cauliflower,Cauliflower,FAQ,21/07/2026,1640,1685,1660
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Brinjal,Round/Long,FAQ,21/07/2026,1260,1300,1280
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Grade Range-1,21/07/2026,15000,27500,23500
