@@ -1,0 +1,66 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+West Bengal,Medinipur(E),Kolaghat APMC,Rice,Fine,FAQ,22/07/2026,4600,4800,4700
+Bihar,Sheikhpura,Shekhpura APMC,Bitter gourd,Bitter Gourd,FAQ,22/07/2026,2965,3085,3020
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,22/07/2026,1390,1390,1390
+Keralam,Kottayam,Pampady Market,Ashgourd,Ashgourd,FAQ,22/07/2026,2500,4000,3500
+Keralam,Kottayam,Pampady Market,Bhindi(Ladies Finger),Bhindi,FAQ,22/07/2026,4000,5000,4500
+Keralam,Kottayam,Pampady Market,Cowpea(Veg),Cowpea (Veg),FAQ,22/07/2026,6500,7500,7000
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Betal Leaves,Other,FAQ,22/07/2026,16500,42500,30500
+Bihar,Sheikhpura,Barbigha APMC,Cucumbar(Kheera),Cucumbar,FAQ,22/07/2026,2955,3075,3015
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Sweet Pumpkin,Sweet Pumpkin,FAQ,22/07/2026,1800,2200,2000
+West Bengal,Medinipur(E),Kolaghat APMC,Tube Rose(Loose),Tube Rose (Loose),FAQ,22/07/2026,7500,8500,8000
+West Bengal,Medinipur(E),Kolaghat APMC,Potato,Jyoti,FAQ,22/07/2026,800,840,820
+Punjab,Amritsar,Rayya APMC,Cauliflower,Other,FAQ,22/07/2026,1130,1130,1130
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Brinjal,Brinjal,FAQ,22/07/2026,4200,4600,4400
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,22/07/2026,500,500,500
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,22/07/2026,722,722,722
+Bihar,Sheikhpura,Shekhpura APMC,Bottle gourd,Bottle Gourd,FAQ,22/07/2026,2055,2185,2115
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bottle gourd,Bottle Gourd,FAQ,22/07/2026,1140,1180,1160
+Uttar Pradesh,Hathras,Shadabad APMC,Bottle gourd,Bottle Gourd,Small,22/07/2026,800,900,850
+Bihar,Sheikhpura,Barbigha APMC,Bottle gourd,Bottle Gourd,FAQ,22/07/2026,2030,2145,2075
+Bihar,Sheikhpura,Shekhpura APMC,Cucumbar(Kheera),Cucumbar,FAQ,22/07/2026,2940,3045,2995
+Punjab,Amritsar,Rayya APMC,Cucumbar(Kheera),Cucumbar,FAQ,22/07/2026,920,920,920
+Bihar,Sheikhpura,Barbigha APMC,Wheat,147 Average,FAQ,22/07/2026,2450,2550,2500
+Andhra Pradesh,Eluru,Polavaram APMC,Paddy(Common),1001,Local,22/07/2026,2445,2445,2445
+Andhra Pradesh,Eluru,Polavaram APMC,Maize,Local,Local,22/07/2026,2410,2410,2410
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Apple,Apple,Grade B,22/07/2026,8880,8890,8889
+Keralam,Kottayam,Pampady Market,Cauliflower,Cauliflower,FAQ,22/07/2026,4800,5500,5000
+Bihar,Sheikhpura,Shekhpura APMC,Brinjal,Arkasheela Mattigulla,FAQ,22/07/2026,2865,2955,2899
+Bihar,Sheikhpura,Barbigha APMC,Brinjal,Arkasheela Mattigulla,FAQ,22/07/2026,2890,2995,2935
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bhindi(Ladies Finger),Bhindi,FAQ,22/07/2026,1450,1490,1470
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,22/07/2026,1120,1120,1120
+Keralam,Kottayam,Pampady Market,Cabbage,Cabbage,FAQ,22/07/2026,3800,5500,5000
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Cucumbar(Kheera),Cucumbar,FAQ,22/07/2026,1520,1560,1530
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Guava,Guava,Grade B,22/07/2026,4200,4390,4300
+West Bengal,Medinipur(E),Kolaghat APMC,Rose(Local),Rose (Local),FAQ,22/07/2026,38000,40000,39000
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),B P T,FAQ,22/07/2026,2600,2600,2600
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Rice,Fine,FAQ,22/07/2026,4600,4800,4700
+West Bengal,Medinipur(E),Kolaghat APMC,Rice,Common,FAQ,22/07/2026,3600,3800,3700
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Banana,Medium,Grade B,22/07/2026,3700,3790,3780
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Mango,Dusheri,Grade B,22/07/2026,3300,3340,3320
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,22/07/2026,2000,2400,2200
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Cauliflower,Cauliflower,FAQ,22/07/2026,2240,2270,2250
+Uttar Pradesh,Hathras,Shadabad APMC,Brinjal,Brinjal,Small,22/07/2026,800,900,850
+Keralam,Kottayam,Pampady Market,Bitter gourd,Bitter Gourd,FAQ,22/07/2026,5000,6500,6000
+Uttar Pradesh,Hathras,Shadabad APMC,Pumpkin,Pumpkin,Small,22/07/2026,600,700,650
+Keralam,Kottayam,Pampady Market,Amaranthus,Amaranthus,FAQ,22/07/2026,3500,4500,4000
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Betal Leaves,Local,FAQ,22/07/2026,3500,10000,7500
+Keralam,Kottayam,Pampady Market,Beetroot,Beetroot,FAQ,22/07/2026,4500,6000,5500
+Keralam,Kottayam,Pampady Market,Cucumbar(Kheera),Cucumbar,FAQ,22/07/2026,2000,3500,3000
+Keralam,Kottayam,Pampady Market,Colacasia,Other,FAQ,22/07/2026,4500,5500,5000
+Bihar,Sheikhpura,Shekhpura APMC,Wheat,147 Average,FAQ,22/07/2026,2450,2550,2500
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),Samba Masuri,FAQ,22/07/2026,2389,2600,2550
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),Swarna Masuri (OLD),FAQ,22/07/2026,2370,2370,2370
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Rice,Common,FAQ,22/07/2026,3600,3800,3700
+Keralam,Kannur,Irityy Market,Banana,Nendra Bale,Medium,22/07/2026,6200,6400,6300
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Potato,Jyoti,FAQ,22/07/2026,800,840,820
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Brinjal,Brinjal,FAQ,22/07/2026,1350,1390,1360
+Keralam,Kottayam,Pampady Market,Brinjal,Brinjal,FAQ,22/07/2026,4600,5500,5000
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Bitter gourd,Bitter Gourd,FAQ,22/07/2026,3800,4200,4000
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bitter gourd,Bitter Gourd,FAQ,22/07/2026,1970,2000,1990
+Bihar,Sheikhpura,Barbigha APMC,Bitter gourd,Bitter Gourd,FAQ,22/07/2026,2855,2970,2910
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,22/07/2026,710,710,710
+Keralam,Kottayam,Pampady Market,Banana - Green,Banana - Green,FAQ,22/07/2026,6000,7000,6500
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Masur Dal,Masur Dal,FAQ,22/07/2026,10400,10800,10600
+West Bengal,Medinipur(E),Kolaghat APMC,Masur Dal,Masur Dal,FAQ,22/07/2026,10400,10800,10600
+West Bengal,Medinipur(E),Kolaghat APMC,Marigold(loose),Marigold(Loose),FAQ,22/07/2026,8000,9000,8500
