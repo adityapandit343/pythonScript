@@ -1,0 +1,7 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),B P T,FAQ,26/07/2026,2389,2600,2550
+Bihar,Sheikhpura,Shekhpura APMC,Cucumbar(Kheera),Cucumbar,FAQ,26/07/2026,3015,3155,3075
+Bihar,Sheikhpura,Shekhpura APMC,Wheat,147 Average,FAQ,26/07/2026,2500,2600,2550
+Andhra Pradesh,Alluri Sitharama Raju,Araku Valley APMC,Kidney Beans(Rajma),Rajma,FAQ,26/07/2026,7000,7000,7000
+Bihar,Sheikhpura,Shekhpura APMC,Brinjal,Arkasheela Mattigulla,FAQ,26/07/2026,2925,3065,2985
+Bihar,Sheikhpura,Shekhpura APMC,Bitter gourd,Bitter Gourd,FAQ,26/07/2026,3030,3165,3095
