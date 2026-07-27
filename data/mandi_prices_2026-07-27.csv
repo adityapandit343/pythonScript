@@ -1,0 +1,79 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Andhra Pradesh,Tirupathi,Vakadu APMC,Paddy(Common),B P T,FAQ,27/07/2026,2400,2400,2400
+West Bengal,Paschim Bardhaman,Asansol APMC,Rice,Fine,FAQ,27/07/2026,4685,4865,4750
+West Bengal,Paschim Bardhaman,Durgapur APMC,Mustard,Other,FAQ,27/07/2026,6250,6550,6450
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Red gram/Arhar/Tur(whole),F.A.Q. (Whole),FAQ,27/07/2026,8500,8500,8500
+West Bengal,Paschim Bardhaman,Asansol APMC,Ginger(Green),Other,FAQ,27/07/2026,9600,10500,9850
+West Bengal,Paschim Bardhaman,Asansol APMC,Red gram split/Arhar dal/Tur dal,Arhar Dal(Tur),FAQ,27/07/2026,12450,12525,12500
+West Bengal,Paschim Bardhaman,Durgapur APMC,Mustard Oil,Other,FAQ,27/07/2026,16650,17250,16850
+West Bengal,Paschim Bardhaman,Asansol APMC,Peas(Dry),Other,FAQ,27/07/2026,6750,7000,6850
+West Bengal,Paschim Bardhaman,Asansol APMC,Wheat,Kalyan,FAQ,27/07/2026,2500,2700,2665
+Andhra Pradesh,Prakasam,Darsi APMC,Paddy(Common),B P T,Local,27/07/2026,2350,2350,2350
+Andhra Pradesh,Srikakulam,Kanchili APMC,Paddy(Common),1001,FAQ,27/07/2026,2400,2400,2400
+Andhra Pradesh,Kakinada,Samalkot APMC,Paddy(Common),Paddy,FAQ,27/07/2026,2369,2390,2369
+Andhra Pradesh,Polavaram,Rampachodvaram APMC,Paddy(Common),1001,Grade Range-2,27/07/2026,2369,2389,2379
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,27/07/2026,9500,9500,9500
+Andhra Pradesh,Palnadu,Chilakaluripet APMC,Cotton,MCU,Local,27/07/2026,7200,7900,7600
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,27/07/2026,1535,1535,1535
+West Bengal,Paschim Bardhaman,Durgapur APMC,Brinjal,Other,FAQ,27/07/2026,3200,3600,3450
+West Bengal,Paschim Bardhaman,Asansol APMC,Tomato,Hybrid,FAQ,27/07/2026,2650,3050,2850
+Uttar Pradesh,Hathras,Shadabad APMC,Bottle gourd,Bottle Gourd,Small,27/07/2026,600,700,650
+Uttar Pradesh,Hathras,Shadabad APMC,Pumpkin,Pumpkin,Small,27/07/2026,800,900,850
+Uttar Pradesh,Badaun,Babrala APMC,Wood,Eucalyptus,Local,27/07/2026,580,600,590
+Andhra Pradesh,Nandyal,Atmakur (Nandyal District) APMC,Paddy(Common),Sona,FAQ,27/07/2026,2450,2450,2450
+Andhra Pradesh,West Godavari,Attili APMC,Paddy(Common),Paddy,Local,27/07/2026,2369,2389,2369
+Andhra Pradesh,Prakasam,Maddipadu APMC,Paddy(Common),B P T,FAQ,27/07/2026,2450,2450,2450
+Andhra Pradesh,Kakinada,Pithapuram APMC,Paddy(Common),B P T,FAQ,27/07/2026,2369,2389,2379
+Andhra Pradesh,East Godavari,Mandapeta APMC,Paddy(Common),1001,FAQ,27/07/2026,2369,2400,2389
+Keralam,Pathanamthitta,Enadimangalam VFPCK Market,Banana,Nendra Bale,Grade A,27/07/2026,7500,8200,8000
+Uttar Pradesh,Badaun,Babrala APMC,Potato,Desi,Medium,27/07/2026,580,600,590
+West Bengal,Paschim Bardhaman,Asansol APMC,Potato,Jyoti,FAQ,27/07/2026,860,900,880
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Local,27/07/2026,15000,22500,20000
+Andhra Pradesh,Prakasam,Maddipadu APMC,Bajra(Pearl Millet/Cumbu),Bold,FAQ,27/07/2026,2550,2550,2550
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,27/07/2026,500,500,500
+Andhra Pradesh,Alluri Sitharama Raju,Araku Valley APMC,Turmeric,Finger,Grade Range-2,27/07/2026,14000,14000,14000
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,27/07/2026,1385,1385,1385
+West Bengal,Paschim Bardhaman,Durgapur APMC,Masur Dal,Masur Dal,FAQ,27/07/2026,9685,9850,9765
+Andhra Pradesh,Alluri Sitharama Raju,Araku Valley APMC,Kidney Beans(Rajma),Rajma,FAQ,27/07/2026,7000,7000,7000
+Andhra Pradesh,Kakinada,Peddapuram APMC,Paddy(Common),1001,FAQ,27/07/2026,2369,2390,2369
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),B P T,FAQ,27/07/2026,2389,2660,2550
+Andhra Pradesh,Kakinada,Sampara (Kakinada Rural) APMC,Paddy(Common),Paddy Medium,Local,27/07/2026,2369,2389,2379
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Rice,B P T,FAQ,27/07/2026,6000,6000,6000
+Uttar Pradesh,Badaun,Babrala APMC,Maize,Local,Local,27/07/2026,2080,2100,2090
+Andhra Pradesh,Palnadu,Rompicherla APMC,Maize,Hybrid/Local,FAQ,27/07/2026,2300,2400,2350
+Andhra Pradesh,Bapatla,Vemuru APMC,Maize,Hybrid,FAQ,27/07/2026,2300,2450,2400
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Green Gram(Moong)(Whole),Local (Whole),FAQ,27/07/2026,7000,7000,7000
+West Bengal,Paschim Bardhaman,Asansol APMC,Mustard,Other,FAQ,27/07/2026,6200,6500,6350
+Punjab,Ludhiana,Sahnewal APMC,Onion,Onion,FAQ,27/07/2026,3000,3000,3000
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,27/07/2026,2650,2800,2750
+Punjab,Ludhiana,Sahnewal APMC,Potato,Potato,FAQ,27/07/2026,820,820,820
+Punjab,Amritsar,Rayya APMC,Potato,Other,FAQ,27/07/2026,640,640,640
+West Bengal,Paschim Bardhaman,Durgapur APMC,Potato,Jyoti,FAQ,27/07/2026,850,900,880
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Grade Range-1,27/07/2026,16000,28000,25000
+West Bengal,Paschim Bardhaman,Durgapur APMC,Tomato,Hybrid,FAQ,27/07/2026,2650,3050,2850
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,27/07/2026,1120,1120,1120
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,27/07/2026,2108,2108,2108
+West Bengal,Paschim Bardhaman,Asansol APMC,Masur Dal,Masur Dal,FAQ,27/07/2026,9685,9850,9765
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,27/07/2026,1815,1815,1815
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,Kalyan,FAQ,27/07/2026,2500,2725,2650
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Paddy(Common),Paddy,FAQ,27/07/2026,3300,3300,3300
+Andhra Pradesh,Palnadu,Rompicherla APMC,Paddy(Common),Paddy,FAQ,27/07/2026,2300,2480,2400
+West Bengal,Paschim Bardhaman,Durgapur APMC,Rice,Fine,FAQ,27/07/2026,4685,4850,4765
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,27/07/2026,6200,6200,6200
+Andhra Pradesh,Palnadu,Chilakaluripet APMC,Bengal Gram(Gram)(Whole),Gulabi,Local,27/07/2026,5000,5800,5500
+Andhra Pradesh,Prakasam,Maddipadu APMC,Bengal Gram(Gram)(Whole),Gulabi,FAQ,27/07/2026,5900,5900,5900
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Cotton,Bunny,FAQ,27/07/2026,8500,8500,8500
+Andhra Pradesh,Prakasam,Darsi APMC,Cotton,Desi,Local,27/07/2026,8200,8200,8200
+Andhra Pradesh,Dr.B.R.A.Konaseema,Ravulapalem (Kothapeta APMC),Banana,Amruthapani,Local,27/07/2026,2600,3900,3600
+Keralam,Thirssur,Annamanada  VFPCK Market,Banana,Nendra Bale,Grade A,27/07/2026,3000,4200,3600
+West Bengal,Paschim Bardhaman,Asansol APMC,Onion,Nasik,FAQ,27/07/2026,2650,2800,2700
+Punjab,Amritsar,Rayya APMC,Cauliflower,Local,FAQ,27/07/2026,3450,3450,3450
+West Bengal,Paschim Bardhaman,Asansol APMC,Brinjal,Other,FAQ,27/07/2026,3200,3600,3450
+Andhra Pradesh,Alluri Sitharama Raju,Chintapally APMC,Turmeric,Finger,FAQ,27/07/2026,13000,14000,13500
+Andhra Pradesh,Chittor,S.R.Puram APMC,Gur(Jaggery),NO 3,Local,27/07/2026,2100,2500,2250
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,27/07/2026,720,720,720
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,27/07/2026,708,708,708
+West Bengal,Paschim Bardhaman,Durgapur APMC,Cabbage,Other,FAQ,27/07/2026,1650,1850,1765
+Uttar Pradesh,Hathras,Shadabad APMC,Raddish,Raddish,Small,27/07/2026,800,900,850
+West Bengal,Paschim Bardhaman,Asansol APMC,Sweet Pumpkin,Other,FAQ,27/07/2026,1650,1800,1700
+West Bengal,Paschim Bardhaman,Asansol APMC,Green Gram Dal(Moong Dal),Green Gram Dal,FAQ,27/07/2026,12425,12535,12500
