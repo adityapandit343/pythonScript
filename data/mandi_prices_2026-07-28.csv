@@ -1,0 +1,49 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,28/07/2026,720,720,720
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,28/07/2026,1535,1535,1535
+Punjab,Amritsar,Rayya APMC,Cauliflower,Local,FAQ,28/07/2026,3420,3420,3420
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,28/07/2026,500,500,500
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,28/07/2026,705,705,705
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cucumbar(Kheera),Cucumbar,FAQ,28/07/2026,920,970,945
+Keralam,Idukki,Munnar Market,French Beans(Frasbean),French Beans (Frasbean),Medium,28/07/2026,7500,7500,7500
+Andhra Pradesh,Alluri Sitharama Raju,Chintapally APMC,Groundnut,Local,FAQ,28/07/2026,6500,7500,7000
+Keralam,Idukki,Munnar Market,Leafy Vegetable,Leafy Vegetables,Medium,28/07/2026,4500,4500,4500
+Punjab,Amritsar,Rayya APMC,Cucumbar(Kheera),Cucumbar,FAQ,28/07/2026,918,918,918
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,28/07/2026,1384,1384,1384
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Carrot,Carrot,FAQ,28/07/2026,1400,1440,1420
+Andhra Pradesh,Srikakulam,Kanchili APMC,Paddy(Common),1001,FAQ,28/07/2026,2400,2400,2400
+Keralam,Idukki,Munnar Market,Lemon,Other,Medium,28/07/2026,6000,6000,6000
+Keralam,Idukki,Munnar Market,Mint(Pudina),Mint(Pudina),Medium,28/07/2026,9000,9000,9000
+Andhra Pradesh,Ananthapuramu,Gooti APMC,Red gram/Arhar/Tur(whole),Local,Grade Range-1,28/07/2026,4560,5730,4980
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cabbage,Cabbage,FAQ,28/07/2026,1050,1090,1070
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Pumpkin,Pumpkin,FAQ,28/07/2026,800,840,820
+Keralam,Idukki,Munnar Market,Onion,Big,Medium,28/07/2026,4500,4500,4500
+Keralam,Idukki,Munnar Market,Groundnut pods(raw),Other,Medium,28/07/2026,6500,6500,6500
+Keralam,Ernakulam,Kunnukara  VFPCK Market,Banana,Nendra Bale,Grade A,28/07/2026,5500,6000,5800
+Andhra Pradesh,Ananthapuramu,Gooti APMC,Cotton,Bramha,Grade Range-1,28/07/2026,9179,9575,9367
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,28/07/2026,2105,2105,2105
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Brinjal,Round/Long,FAQ,28/07/2026,1220,1260,1240
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Bottle gourd,Bottle Gourd,FAQ,28/07/2026,1120,1160,1140
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Raddish,Raddish,FAQ,28/07/2026,1360,1400,1380
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ",Tomato,Deshi,FAQ,28/07/2026,2400,2400,2400
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),B P T,FAQ,28/07/2026,2389,2600,2550
+Keralam,Idukki,Munnar Market,Onion,Small,Medium,28/07/2026,6700,6700,6700
+Keralam,Idukki,Munnar Market,Mango(Raw-Ripe),Mango - Raw-Ripe,Medium,28/07/2026,6500,6500,6500
+Keralam,Idukki,Munnar Market,Long Melon(Kakri),Other,Medium,28/07/2026,4500,4500,4500
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,28/07/2026,1815,1815,1815
+Punjab,Amritsar,Rayya APMC,Potato,Potato,FAQ,28/07/2026,725,725,725
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,28/07/2026,1120,1120,1120
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,28/07/2026,1400,1448,1424
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Bhindi(Ladies Finger),Bhindi,FAQ,28/07/2026,2360,2400,2380
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Cauliflower,Cauliflower,FAQ,28/07/2026,1600,1650,1625
+Andhra Pradesh,Prakasam,Darsi APMC,Cotton,Desi,Local,28/07/2026,8100,8200,8200
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj APMC,Banana - Green,Banana - Green,FAQ,28/07/2026,1900,1930,1915
+Andhra Pradesh,Prakasam,Darsi APMC,Paddy(Common),B P T,Local,28/07/2026,2350,2400,2400
+Keralam,Idukki,Munnar Market,Little gourd(Kundru),Little gourd (Kundru),Medium,28/07/2026,5000,5000,5000
+Keralam,Idukki,Munnar Market,Indian Beans(Seam),Indian Beans (Seam),Medium,28/07/2026,6000,6000,6000
+Keralam,Idukki,Munnar Market,Green Avare(W),Green Avare (W),Medium,28/07/2026,7500,7500,7500
+Keralam,Idukki,Munnar Market,Ginger(Green),Other,Medium,28/07/2026,12000,12000,12000
+Keralam,Idukki,Munnar Market,Garlic,Other,Local,28/07/2026,15000,15000,15000
+Keralam,Idukki,Munnar Market,Galgal(Lemon),Galgal(Lemon),Medium,28/07/2026,6500,6500,6500
+Andhra Pradesh,Alluri Sitharama Raju,Araku Valley APMC,Millets,Millets,FAQ,28/07/2026,2950,2950,2950
+Telangana,Khammam,"Sattupalli (Ramalayam),RBZ",Tomato,Tomato,FAQ,28/07/2026,2000,2800,2400
