@@ -1,0 +1,25 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Punjab,Amritsar,Rayya APMC,Potato,Other,FAQ,29/07/2026,645,645,645
+Andhra Pradesh,Kakinada,Karapa APMC,Paddy(Common),1001,FAQ,29/07/2026,2364,2369,2366
+Keralam,Ernakulam,Kunnukara  VFPCK Market,Banana,Nendra Bale,Grade A,29/07/2026,5300,5500,5400
+Punjab,Amritsar,Rayya APMC,Cauliflower,Local,FAQ,29/07/2026,3065,3065,3065
+Andhra Pradesh,Srikakulam,Ichapuram APMC,Paddy(Common),Sannalu,Local,29/07/2026,2369,2369,2369
+Andhra Pradesh,Alluri Sitharama Raju,Chintapally APMC,Turmeric,Finger,FAQ,29/07/2026,13000,14000,13500
+Andhra Pradesh,Vijayanagaram,Bobbili APMC,Maize,Local,FAQ,29/07/2026,4800,4800,4800
+Andhra Pradesh,Ananthapuramu,Gooti APMC,Red gram/Arhar/Tur(whole),Local,Grade Range-1,29/07/2026,4986,6075,5479
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,29/07/2026,718,718,718
+Punjab,Amritsar,Rayya APMC,Cucumbar(Kheera),Cucumbar,FAQ,29/07/2026,915,915,915
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),B P T,FAQ,29/07/2026,2389,2600,2550
+Andhra Pradesh,Ananthapuramu,Gooti APMC,Cotton,Bramha,Grade Range-1,29/07/2026,7679,8899,8535
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,29/07/2026,2105,2105,2105
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,29/07/2026,1120,1120,1120
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,29/07/2026,500,500,500
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,29/07/2026,1385,1385,1385
+Andhra Pradesh,Polavaram,Rampachodvaram APMC,Paddy(Common),1001,Grade Range-2,29/07/2026,2369,2389,2379
+Andhra Pradesh,Ananthapuramu,Gooti APMC,Groundnut,Local,Grade Range-1,29/07/2026,3908,5245,4678
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,29/07/2026,1810,1810,1810
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,29/07/2026,1135,1135,1135
+Andhra Pradesh,Kakinada,Pithapuram APMC,Paddy(Common),B P T,FAQ,29/07/2026,2369,2389,2379
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,29/07/2026,700,700,700
+Andhra Pradesh,Alluri Sitharama Raju,Araku Valley APMC,Yam,Yam,FAQ,29/07/2026,3000,3500,3100
+Andhra Pradesh,Srikakulam,Kanchili APMC,Paddy(Common),1001,FAQ,29/07/2026,2400,2400,2400
