@@ -1,0 +1,47 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Andhra Pradesh,Polavaram,Rampachodvaram APMC,Paddy(Common),1001,Grade Range-2,01/08/2026,2369,2389,2379
+Andhra Pradesh,YSR Kadapa,Mydukur APMC,Paddy(Common),Masuri,Local,01/08/2026,2300,2500,2400
+Andhra Pradesh,YSR Kadapa,Simhadhripuram APMC,Maize,Hybrid/Local,FAQ,01/08/2026,2000,2200,2100
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,01/08/2026,703,703,703
+Haryana,Gurgaon,Gurgaon APMC,Plum,Other,Grade B,01/08/2026,8000,10000,9000
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Cauliflower,Cauliflower,FAQ,01/08/2026,2285,2300,2290
+Andhra Pradesh,Bapatla,Parchur APMC,Cotton,Other,Local,01/08/2026,6500,7000,6750
+Punjab,Amritsar,Rayya APMC,Cucumbar(Kheera),Cucumbar,FAQ,01/08/2026,910,910,910
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Banana,Medium,Grade B,01/08/2026,3788,3800,3799
+Haryana,Gurgaon,Gurgaon APMC,Banana,Other,Grade B,01/08/2026,2000,4000,3000
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Mango,Dusheri,Grade B,01/08/2026,3330,3380,3340
+Punjab,Amritsar,Rayya APMC,Cauliflower,Local,FAQ,01/08/2026,3215,3215,3215
+Uttar Pradesh,Hathras,Shadabad APMC,Brinjal,Brinjal,Small,01/08/2026,800,900,850
+Andhra Pradesh,Bapatla,Parchur APMC,Paddy(Common),B P T,Local,01/08/2026,2500,2700,2600
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),Common,FAQ,01/08/2026,2369,2390,2375
+Andhra Pradesh,Alluri Sitharama Raju,Chintapally APMC,Groundnut,Local,FAQ,01/08/2026,6500,7500,7000
+Andhra Pradesh,Prakasam,Darsi APMC,Cotton,Desi,Local,01/08/2026,8100,8200,8200
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bitter gourd,Bitter Gourd,FAQ,01/08/2026,1999,2100,2000
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bottle gourd,Bottle Gourd,FAQ,01/08/2026,1179,1400,1390
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,01/08/2026,2100,2100,2100
+Haryana,Gurgaon,Gurgaon APMC,Pomegranate,Other,Grade B,01/08/2026,5000,10000,7500
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,01/08/2026,500,500,500
+Andhra Pradesh,Kakinada,Pithapuram APMC,Paddy(Common),B P T,FAQ,01/08/2026,2369,2389,2379
+Andhra Pradesh,Bapatla,Parchur APMC,Maize,Local,Local,01/08/2026,2000,2500,2250
+Andhra Pradesh,Vijayanagaram,Chipurupalli APMC,Maize,Local,FAQ,01/08/2026,4800,4800,4800
+Andhra Pradesh,Bapatla,Parchur APMC,Chili Red,Dry,Local,01/08/2026,18000,20000,19000
+Andhra Pradesh,Alluri Sitharama Raju,Araku Valley APMC,Turmeric,Finger,FAQ,01/08/2026,13850,14500,14000
+Andhra Pradesh,Bapatla,Parchur APMC,Black Gram(Urd Beans)(Whole),Local,Local,01/08/2026,8000,8500,8250
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,01/08/2026,715,715,715
+Punjab,Amritsar,Rayya APMC,Potato,Potato,FAQ,01/08/2026,770,770,770
+Haryana,Gurgaon,Gurgaon APMC,Mango,Other,Grade B,01/08/2026,4000,6000,5000
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Brinjal,Brinjal,FAQ,01/08/2026,1389,1400,1390
+Uttar Pradesh,Hathras,Shadabad APMC,Raddish,Raddish,Small,01/08/2026,500,600,550
+Andhra Pradesh,Prakasam,Darsi APMC,Paddy(Common),B P T,Local,01/08/2026,2350,2400,2400
+Andhra Pradesh,Bapatla,Parchur APMC,Bengal Gram(Gram)(Whole),Gulabi,Local,01/08/2026,5000,6000,5500
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,01/08/2026,1380,1380,1380
+Uttar Pradesh,Hathras,Shadabad APMC,Bottle gourd,Bottle Gourd,Small,01/08/2026,800,900,850
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bhindi(Ladies Finger),Bhindi,FAQ,01/08/2026,1480,1500,1490
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Guava,Guava,Grade B,01/08/2026,4340,4370,4350
+Haryana,Gurgaon,Gurgaon APMC,Guava,Guava,Grade B,01/08/2026,2000,4000,3000
+Haryana,Gurgaon,Gurgaon APMC,Pear(Marasebu),Other,Grade B,01/08/2026,6000,8000,7000
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,01/08/2026,1810,1810,1810
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Apple,Apple,Grade B,01/08/2026,8890,8900,8895
+Haryana,Gurgaon,Gurgaon APMC,Apple,Apple,Grade B,01/08/2026,8000,10000,9000
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,01/08/2026,1457,1457,1457
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,01/08/2026,1115,1115,1115
