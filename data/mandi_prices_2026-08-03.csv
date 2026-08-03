@@ -1,0 +1,48 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Cucumbar(Kheera),Cucumbar,FAQ,03/08/2026,1555,1590,1587
+Odisha,Sundergarh,Panposh APMC,Tomato,Hybrid,FAQ,03/08/2026,3500,4200,4000
+Punjab,Amritsar,Rayya APMC,Cucumbar(Kheera),Cucumbar,FAQ,03/08/2026,912,912,912
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,03/08/2026,500,500,500
+Andhra Pradesh,Dr.B.R.A.Konaseema,Mummidivaram APMC,Prawn,Prawn-White Prawn,FAQ,03/08/2026,20000,21000,20000
+Andhra Pradesh,Dr.B.R.A.Konaseema,Mummidivaram APMC,Fish,Katla (Small),FAQ,03/08/2026,9900,10000,9900
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Cauliflower,Cauliflower,FAQ,03/08/2026,2280,2300,2290
+Odisha,Sundergarh,Panposh APMC,Cauliflower,Local,FAQ,03/08/2026,3000,4000,3500
+Odisha,Sundergarh,Panposh APMC,Cabbage,Cabbage,FAQ,03/08/2026,2000,3000,2500
+Andhra Pradesh,Kakinada,Pithapuram APMC,Paddy(Common),1001,FAQ,03/08/2026,2369,2389,2379
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,03/08/2026,701,701,701
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Guava,Guava,Grade B,03/08/2026,4300,4450,4400
+Odisha,Nayagarh,Bahadajholla APMC,Brinjal,Other,Grade B,03/08/2026,4500,5000,5000
+Odisha,Sundergarh,Panposh APMC,Bitter gourd,Other,FAQ,03/08/2026,4000,5000,4500
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,03/08/2026,715,715,715
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,03/08/2026,1445,1445,1445
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,03/08/2026,1382,1382,1382
+Andhra Pradesh,Srikakulam,Kanchili APMC,Paddy(Common),1001,FAQ,03/08/2026,2400,2400,2400
+Punjab,Amritsar,Rayya APMC,Cauliflower,Other,FAQ,03/08/2026,1127,1127,1127
+Madhya Pradesh,Shivpuri,Karera(F&V) APMC,Potato,Potato,Local,03/08/2026,600,1500,800
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Brinjal,Brinjal,FAQ,03/08/2026,1390,1410,1400
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bitter gourd,Bitter Gourd,FAQ,03/08/2026,1999,2100,2000
+Andhra Pradesh,Kakinada,Sampara (Kakinada Rural) APMC,Paddy(Common),Paddy Medium,FAQ,03/08/2026,2369,2389,2379
+Andhra Pradesh,Prakasam,Maddipadu APMC,Bajra(Pearl Millet/Cumbu),Bold,FAQ,03/08/2026,2550,2550,2550
+Odisha,Sundergarh,Panposh APMC,Pumpkin,Other,FAQ,03/08/2026,1000,1500,1200
+Odisha,Sundergarh,Panposh APMC,Bhindi(Ladies Finger),Other,FAQ,03/08/2026,3000,3500,3200
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,03/08/2026,1810,1810,1810
+Andhra Pradesh,Srikakulam,Srikakulam APMC,Paddy(Common),1001,FAQ,03/08/2026,2400,2400,2400
+Andhra Pradesh,Kakinada,Karapa APMC,Paddy(Common),1001,FAQ,03/08/2026,2362,2369,2365
+Andhra Pradesh,Alluri Sitharama Raju,Araku Valley APMC,Turmeric,Finger,Grade Range-1,03/08/2026,14300,14500,14350
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bottle gourd,Bottle Gourd,FAQ,03/08/2026,1220,1300,1280
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Mango,Dusheri,Grade B,03/08/2026,3340,3390,3350
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Banana,Medium,Grade B,03/08/2026,3785,3800,3790
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Apple,Apple,Grade B,03/08/2026,8895,9000,8900
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bhindi(Ladies Finger),Bhindi,FAQ,03/08/2026,1490,1500,1495
+Andhra Pradesh,Prakasam,Maddipadu APMC,Paddy(Common),B P T,FAQ,03/08/2026,2500,2500,2500
+Andhra Pradesh,Prakasam,Maddipadu APMC,Bengal Gram(Gram)(Whole),Gulabi,FAQ,03/08/2026,5900,5900,5900
+Uttar Pradesh,Hathras,Shadabad APMC,Pumpkin,Pumpkin,Small,03/08/2026,600,700,650
+Uttar Pradesh,Hathras,Shadabad APMC,Bottle gourd,Bottle Gourd,Small,03/08/2026,700,800,750
+Uttar Pradesh,Hathras,Shadabad APMC,Raddish,Raddish,Small,03/08/2026,500,600,550
+Odisha,Sundergarh,Panposh APMC,Brinjal,Brinjal,FAQ,03/08/2026,3000,4000,3500
+Odisha,Sundergarh,Panposh APMC,Bottle gourd,Bottle Gourd,FAQ,03/08/2026,2000,2500,2200
+Andhra Pradesh,Srikakulam,Kothabommali APMC,Paddy(Common),Paddy,Local,03/08/2026,2500,2500,2500
+Punjab,Amritsar,Rayya APMC,Potato,Potato,FAQ,03/08/2026,823,823,823
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,03/08/2026,2100,2100,2100
+Andhra Pradesh,Annamayya,Piler APMC,Gur(Jaggery),NO 3,Local,03/08/2026,4200,4800,4500
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,03/08/2026,1115,1115,1115
