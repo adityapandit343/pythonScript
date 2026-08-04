@@ -1,0 +1,30 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Cauliflower,Cauliflower,FAQ,04/08/2026,2285,2300,2290
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Apple,Apple,Grade B,04/08/2026,8895,8911,8900
+Punjab,Amritsar,Rayya APMC,Cauliflower,Local,FAQ,04/08/2026,3220,3220,3220
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,04/08/2026,700,700,700
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Cucumbar(Kheera),Cucumbar,FAQ,04/08/2026,1560,1600,1580
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,04/08/2026,715,715,715
+Haryana,Gurgaon,Gurgaon APMC,Pear(Marasebu),Other,Grade B,04/08/2026,5000,10000,7500
+Haryana,Gurgaon,Gurgaon APMC,Apple,Apple,Grade B,04/08/2026,10000,15000,12500
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Brinjal,Brinjal,FAQ,04/08/2026,1390,1450,1400
+Punjab,Amritsar,Rayya APMC,Potato,Other,FAQ,04/08/2026,640,640,640
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,04/08/2026,2100,2100,2100
+Punjab,Amritsar,Rayya APMC,Cucumbar(Kheera),Cucumbar,FAQ,04/08/2026,910,910,910
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,04/08/2026,1112,1112,1112
+Andhra Pradesh,Kakinada,Pithapuram APMC,Paddy(Common),B P T,FAQ,04/08/2026,2369,2389,2379
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bitter gourd,Bitter Gourd,FAQ,04/08/2026,1999,2100,2000
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Guava,Guava,Grade B,04/08/2026,4300,4500,4400
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Banana,Medium,Grade B,04/08/2026,3795,3800,3798
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,04/08/2026,1381,1381,1381
+Haryana,Gurgaon,Gurgaon APMC,Mango,Other,Grade B,04/08/2026,5000,7000,6000
+Haryana,Gurgaon,Gurgaon APMC,Guava,Guava,Grade C,04/08/2026,2000,4000,3000
+Haryana,Gurgaon,Gurgaon APMC,Banana,Other,Grade B,04/08/2026,1500,2500,2000
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bottle gourd,Bottle Gourd,FAQ,04/08/2026,1220,1300,1280
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Pumpkin,Pumpkin,FAQ,04/08/2026,1130,1200,1140
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Bhindi(Ladies Finger),Bhindi,FAQ,04/08/2026,1480,1500,1490
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,Mango,Dusheri,Grade B,04/08/2026,3348,3390,3360
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,04/08/2026,1810,1810,1810
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,04/08/2026,1432,1432,1432
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,04/08/2026,500,500,500
+Andhra Pradesh,Dr.B.R.A.Konaseema,Amalapuram APMC,Paddy(Common),1001,FAQ,04/08/2026,2369,2468,2369
