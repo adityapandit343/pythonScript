@@ -1,0 +1,5 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Odisha,Malkangiri,Malkangiri(Korakunda) APMC,Bhindi(Ladies Finger),Bhindi,Grade A,08/08/2026,3000,3000,3000
+Odisha,Malkangiri,Malkangiri(Korakunda) APMC,Cabbage,Cabbage,Grade A,08/08/2026,2200,2200,2200
+Odisha,Malkangiri,Malkangiri(Korakunda) APMC,Brinjal,Other,Grade A,08/08/2026,2500,2500,2500
+Odisha,Malkangiri,Malkangiri(Korakunda) APMC,Bitter gourd,Other,Grade A,08/08/2026,2520,2520,2520
