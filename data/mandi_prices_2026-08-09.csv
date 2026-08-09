@@ -1,0 +1,12 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),Common,FAQ,09/08/2026,2369,2390,2375
+Andhra Pradesh,Palnadu,Rompicherla APMC,Paddy(Common),Paddy,FAQ,09/08/2026,2300,2480,2400
+Telangana,Khammam,"Sattupalli (Ramalayam),RBZ",Tomato,Tomato,FAQ,09/08/2026,1600,2600,2000
+Tripura,North Tripura,Dasda APMC,Brinjal,Round/Long,FAQ,09/08/2026,2650,2750,2700
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ",Tomato,Deshi,FAQ,09/08/2026,2000,2000,2000
+Andhra Pradesh,Annamayya,Guramkonda Sub-yard of AMC Valmikipuram,Tomato,Hybrid,FAQ,09/08/2026,800,1200,1000
+Andhra Pradesh,Kakinada,Karapa APMC,Paddy(Common),1001,FAQ,09/08/2026,2363,2369,2365
+Gujarat,Surendranagar,Chotila APMC,Jowar(Sorghum),Jowar ( White),FAQ,09/08/2026,5500,6000,5860
+Andhra Pradesh,Kakinada,Peddapuram APMC,Paddy(Common),1001,FAQ,09/08/2026,2369,2389,2369
+Andhra Pradesh,Annamayya,Valmikipuram APMC,Tomato,Hybrid,FAQ,09/08/2026,800,1200,1000
+Gujarat,Surendranagar,Chotila APMC,Wheat,Local,FAQ,09/08/2026,2500,2750,2675
