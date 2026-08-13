@@ -1,0 +1,13 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,13/08/2026,500,500,500
+Andhra Pradesh,Kakinada,Prattipadu APMC,Paddy(Common),1001,FAQ,13/08/2026,2369,2380,2379
+Andhra Pradesh,Kakinada,Sampara (Kakinada Rural) APMC,Paddy(Common),Paddy Medium,FAQ,13/08/2026,2369,2389,2379
+Punjab,Amritsar,Chogawan APMC,Bhindi(Ladies Finger),Bhindi,Grade A,13/08/2026,1300,1300,1300
+Keralam,Palakad,Elevancheri VFPCK Market,Snakeguard,Snakeguard,Local,13/08/2026,1000,1500,1200
+Andhra Pradesh,Polavaram,Rampachodvaram APMC,Paddy(Common),1001,FAQ,13/08/2026,2369,2389,2379
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),Common,FAQ,13/08/2026,2369,2390,2375
+Andhra Pradesh,Kakinada,Karapa APMC,Paddy(Common),1001,FAQ,13/08/2026,2369,2369,2369
+Andhra Pradesh,Annamayya,Piler APMC,Gur(Jaggery),NO 3,Local,13/08/2026,4300,4900,4600
+Punjab,Amritsar,Rayya APMC,Cauliflower,Other,FAQ,13/08/2026,1152,1152,1152
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,13/08/2026,1372,1372,1372
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,13/08/2026,700,700,700
