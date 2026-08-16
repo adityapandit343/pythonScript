@@ -1,0 +1,7 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Andhra Pradesh,Kakinada,Karapa APMC,Paddy(Common),1001,FAQ,16/08/2026,2362,2369,2367
+Uttar Pradesh,Badaun,Babrala APMC,Potato,Desi,Medium,16/08/2026,580,600,590
+Uttar Pradesh,Badaun,Babrala APMC,Wheat,Dara,Local,16/08/2026,2530,2550,2540
+Uttar Pradesh,Badaun,Babrala APMC,Wood,Eucalyptus,Local,16/08/2026,530,550,540
+Uttar Pradesh,Badaun,Babrala APMC,Maize,Local,Local,16/08/2026,2080,2100,2090
+Andhra Pradesh,Markapuram,Kanigiri APMC,Red gram/Arhar/Tur(whole),(Whole),Local,16/08/2026,8600,8800,8700
