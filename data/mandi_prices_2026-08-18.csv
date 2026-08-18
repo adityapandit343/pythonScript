@@ -1,0 +1,5 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Andhra Pradesh,Alluri Sitharama Raju,Chintapally APMC,Groundnut,Local,FAQ,18/08/2026,6500,7500,7000
+Andhra Pradesh,YSR Kadapa,Siddavatam APMC,Banana,Medium,Grade B,18/08/2026,1500,1700,1600
+Andhra Pradesh,YSR Kadapa,Siddavatam APMC,Papaya,Papaya,Grade B,18/08/2026,1300,1500,1400
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),Common,FAQ,18/08/2026,2369,2390,2375
