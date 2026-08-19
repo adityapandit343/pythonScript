@@ -1,0 +1,6 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Keralam,Malappuram,Thalappara  VFPCK Market,Banana,Nendra Bale,Local,19/08/2026,5900,6100,6000
+Keralam,Malappuram,Parappanangadi VFPCK Market,Banana,Nendra Bale,Local,19/08/2026,5800,6000,5900
+Andhra Pradesh,Alluri Sitharama Raju,Chintapally APMC,Groundnut,Local,FAQ,19/08/2026,6500,7500,7000
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),Common,FAQ,19/08/2026,2369,2390,2375
+Keralam,Malappuram,Kannamangalam  VFPCK Market,Bottle gourd,Bottle Gourd,Local,19/08/2026,2800,3000,2900
