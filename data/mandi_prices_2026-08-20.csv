@@ -1,0 +1,7 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Andhra Pradesh,Alluri Sitharama Raju,Chintapally APMC,Groundnut,Local,FAQ,20/08/2026,6500,7500,7000
+Andhra Pradesh,Kakinada,Karapa APMC,Paddy(Common),1001,FAQ,20/08/2026,2361,2369,2365
+Odisha,Malkangiri,Malkangiri(Korakunda) APMC,Bottle gourd,Other,Grade A,20/08/2026,2000,2000,2000
+Odisha,Malkangiri,Malkangiri(Korakunda) APMC,Bitter gourd,Other,Grade A,20/08/2026,2000,2000,2000
+Nagaland,Peren,Tenning APMC,Potato,Potato,FAQ,20/08/2026,2300,2600,2400
+Odisha,Malkangiri,Malkangiri(Korakunda) APMC,Bhindi(Ladies Finger),Bhindi,Grade A,20/08/2026,2000,2000,2000
