@@ -1,0 +1,8 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Keralam,Pathanamthitta,Enadimangalam VFPCK Market,Banana,Poovan,Grade A,21/08/2026,5000,5800,5500
+Andhra Pradesh,Kakinada,Pithapuram APMC,Paddy(Common),B P T,FAQ,21/08/2026,2369,2389,2379
+Keralam,Malappuram,Thalappara  VFPCK Market,Banana,Nendra Bale,Local,21/08/2026,5900,6000,6000
+Keralam,Pathanamthitta,Enadimangalam VFPCK Market,Banana,Nendra Bale,Grade A,21/08/2026,7500,8200,8000
+Keralam,Malappuram,Parappanangadi VFPCK Market,Banana,Nendra Bale,Local,21/08/2026,5900,6100,6000
+Keralam,Malappuram,Kannamangalam  VFPCK Market,Banana,Nendra Bale,Local,21/08/2026,5900,6100,6000
+Telangana,Karimnagar,"Weekly Market Area,RBZ APMC",Beetroot,Beetroot,Local,21/08/2026,2000,3500,2000
