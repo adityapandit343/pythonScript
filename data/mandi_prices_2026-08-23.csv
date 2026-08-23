@@ -1,0 +1,9 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Keralam,Pathanamthitta,Pandalam VFPCK Market,Banana,Nendra Bale,Grade A,23/08/2026,8000,9000,8500
+Keralam,Pathanamthitta,Kodumon VFPCK Market,Ginger(Green),Green Ginger,Grade A,23/08/2026,25000,26000,25500
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),Common,FAQ,23/08/2026,2369,2390,2375
+Keralam,Malappuram,Moothedam  VFPCK Market,Banana,Nendra Bale,Grade Range-1,23/08/2026,5600,5900,5800
+Keralam,Pathanamthitta,Pandalam VFPCK Market,Bitter gourd,Bitter Gourd,Grade A,23/08/2026,5500,6000,5800
+Punjab,Faridkot,Faridkot APMC,Apple,Apple,Grade A,23/08/2026,10000,10000,10000
+Punjab,Faridkot,Faridkot APMC,Banana,Other,Medium,23/08/2026,3300,3300,3300
+Keralam,Pathanamthitta,Kodumon VFPCK Market,Banana,Nendra Bale,Grade A,23/08/2026,8000,9000,8500
