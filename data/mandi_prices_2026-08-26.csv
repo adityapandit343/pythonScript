@@ -1,0 +1,93 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Rajasthan,Jalore,Jalore APMC,Capsicum,Other,Local,26/08/2026,3000,3400,3200
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Green Chilli,Green Chilly,Grade A,26/08/2026,2500,4500,3500
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,26/08/2026,702,702,702
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Mango,Other,Grade A,26/08/2026,8000,12000,10000
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,26/08/2026,2056,2056,2056
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,26/08/2026,500,500,500
+Uttarakhand,Dehradoon,Vikasnagar APMC,Mousambi(Sweet Lime),Other,Medium,26/08/2026,1400,2000,2000
+Rajasthan,Jalore,Jalore APMC,Cluster beans,Other,Local,26/08/2026,4000,4400,4200
+Rajasthan,Jalore,Jalore APMC,Bitter gourd,Other,Local,26/08/2026,2500,2800,2600
+Rajasthan,Jalore,Jalore APMC,Bhindi(Ladies Finger),Bhindi,Local,26/08/2026,1000,1200,1100
+Rajasthan,Jalore,Jalore APMC,Banana - Green,Other,Local,26/08/2026,2500,3000,2800
+Tripura,North Tripura,Dasda APMC,Onion,Onion,FAQ,26/08/2026,3850,3850,3850
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Cucumbar(Kheera),Cucumbar,Grade A,26/08/2026,2000,3000,2500
+Telangana,Khammam,Nelakondapally APMC,Paddy(Common),HMT,Local,26/08/2026,2360,2400,2389
+Uttarakhand,Dehradoon,Vikasnagar APMC,Colacasia,Other,Medium,26/08/2026,1200,2000,2000
+Uttarakhand,Dehradoon,Vikasnagar APMC,French Beans(Frasbean),Other,Medium,26/08/2026,1400,1500,1500
+Uttarakhand,Dehradoon,Vikasnagar APMC,Potato,Other,Medium,26/08/2026,800,1200,1200
+Punjab,Amritsar,Rayya APMC,Cauliflower,Local,FAQ,26/08/2026,3185,3185,3185
+Uttar Pradesh,Hathras,Shadabad APMC,Bottle gourd,Bottle Gourd,Small,26/08/2026,800,900,850
+Uttarakhand,Dehradoon,Vikasnagar APMC,Banana,Other,Medium,26/08/2026,700,700,700
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Grade Range-1,26/08/2026,17000,27500,25000
+Andhra Pradesh,Kakinada,Karapa APMC,Paddy(Common),1001,FAQ,26/08/2026,2363,2369,2365
+Andhra Pradesh,Prakasam,Darsi APMC,Paddy(Common),B P T,Local,26/08/2026,2500,2600,2600
+Rajasthan,Jalore,Jalore APMC,Green Chilli,Green Chilly,Local,26/08/2026,1500,1800,1600
+Rajasthan,Jalore,Jalore APMC,Tomato,Tomato,Local,26/08/2026,2000,2400,2200
+Rajasthan,Jalore,Jalore APMC,Brinjal,Brinjal,Local,26/08/2026,1500,1800,1600
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),Common,FAQ,26/08/2026,2369,2390,2375
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Cauliflower,Cauliflower,Grade A,26/08/2026,2500,4000,3000
+Uttarakhand,Dehradoon,Vikasnagar APMC,Brinjal,Other,Medium,26/08/2026,800,800,800
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Pumpkin,Other,Grade A,26/08/2026,1000,1500,1200
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Potato,Other,Grade A,26/08/2026,600,800,700
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Onion,Other,Grade A,26/08/2026,2500,4500,3500
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Brinjal,Brinjal,Grade A,26/08/2026,1000,1500,1200
+Uttarakhand,Dehradoon,Vikasnagar APMC,Cabbage,Cabbage,Medium,26/08/2026,1200,1500,1500
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,26/08/2026,1795,1795,1795
+Uttarakhand,Dehradoon,Vikasnagar APMC,Bhindi(Ladies Finger),Other,Medium,26/08/2026,800,1200,1200
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,26/08/2026,1420,1420,1420
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Guava,Other,Grade A,26/08/2026,2000,3000,2500
+Uttarakhand,Dehradoon,Vikasnagar APMC,Mango,Other,Medium,26/08/2026,2000,3200,3200
+Andhra Pradesh,YSR Kadapa,Yerraguntla APMC,Onion,Local,FAQ,26/08/2026,2600,3000,2800
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Local,26/08/2026,15000,23000,20000
+Telangana,Karimnagar,"Weekly Market Area,RBZ APMC",Bottle gourd,Bottle Gourd,Local,26/08/2026,600,1000,600
+Rajasthan,Jalore,Jalore APMC,Tinda,Tinda,Local,26/08/2026,1800,2000,1900
+Rajasthan,Jalore,Jalore APMC,Potato,Potato,Local,26/08/2026,1200,1500,1300
+Rajasthan,Jalore,Jalore APMC,Coriander(Leaves),Coriander,Local,26/08/2026,3000,3500,3300
+Rajasthan,Jalore,Jalore APMC,Bottle gourd,Bottle Gourd,Local,26/08/2026,800,1000,900
+Rajasthan,Jalore,Jalore APMC,Beetroot,Other,Local,26/08/2026,1800,2200,2000
+Telangana,Bhadradri Kothagudem,Dammapet APMC,Paddy(Common),1001,FAQ,26/08/2026,2400,2400,2400
+Andhra Pradesh,Kakinada,Pithapuram APMC,Paddy(Common),B P T,FAQ,26/08/2026,2369,2389,2379
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Tomato,Other,Grade A,26/08/2026,1500,2500,2000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Raddish,Other,Grade A,26/08/2026,1500,2500,2000
+Tripura,North Tripura,Dasda APMC,Potato,Other,FAQ,26/08/2026,1350,1350,1350
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Carrot,Other,Grade A,26/08/2026,1500,2500,2000
+Uttarakhand,Dehradoon,Vikasnagar APMC,Cucumbar(Kheera),Other,Medium,26/08/2026,500,800,800
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Bhindi(Ladies Finger),Bhindi,Grade A,26/08/2026,2000,3000,2500
+Uttarakhand,Dehradoon,Vikasnagar APMC,Tomato,Local,Medium,26/08/2026,900,1500,1500
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Mousambi(Sweet Lime),Mousambi,Grade A,26/08/2026,4000,6000,5000
+Uttarakhand,Dehradoon,Vikasnagar APMC,Raddish,Other,Medium,26/08/2026,500,600,600
+Uttarakhand,Dehradoon,Vikasnagar APMC,Apple,Other,Medium,26/08/2026,2100,4000,4000
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,26/08/2026,1365,1365,1365
+Uttarakhand,Dehradoon,Vikasnagar APMC,Guava,Other,Medium,26/08/2026,2100,2400,2400
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Apple,Other,Grade A,26/08/2026,7000,12000,8000
+Telangana,Karimnagar,"Weekly Market Area,RBZ APMC",Bitter gourd,Other,Local,26/08/2026,2000,4000,2000
+Telangana,Karimnagar,"Weekly Market Area,RBZ APMC",Beetroot,Beetroot,Local,26/08/2026,2000,2500,2000
+Andhra Pradesh,Prakasam,Darsi APMC,Cotton,Desi,Local,26/08/2026,8100,8200,8200
+Rajasthan,Jalore,Jalore APMC,Ginger(Green),Other,Local,26/08/2026,4500,5000,4800
+Rajasthan,Jalore,Jalore APMC,Cucumbar(Kheera),Cucumbar,Local,26/08/2026,1200,1500,1300
+Rajasthan,Jalore,Jalore APMC,Cabbage,Cabbage,Local,26/08/2026,1500,2000,1800
+Andhra Pradesh,Alluri Sitharama Raju,Araku Valley APMC,Turmeric,Finger,Grade Range-1,26/08/2026,11000,12500,12000
+Rajasthan,Jalore,Jalore APMC,Cauliflower,Cauliflower,Local,26/08/2026,2000,2400,2200
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,26/08/2026,3500,3800,3600
+Rajasthan,Jalore,Jalore APMC,Lemon,Other,Local,26/08/2026,2000,2400,2200
+Telangana,Bhadradri Kothagudem,Dammapet APMC,Wood,Eucalyptus,FAQ,26/08/2026,400,400,400
+Uttarakhand,Dehradoon,Vikasnagar APMC,Bottle gourd,Other,Medium,26/08/2026,700,800,800
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Lemon,Lemon,Grade A,26/08/2026,6000,8000,7000
+Tripura,North Tripura,Dasda APMC,Rice,Other,FAQ,26/08/2026,3300,3300,3300
+Uttarakhand,Dehradoon,Vikasnagar APMC,Bitter gourd,Other,Medium,26/08/2026,1000,1100,1100
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Papaya,Papaya,Grade A,26/08/2026,3000,4000,3500
+Tripura,North Tripura,Dasda APMC,Brinjal,Round/Long,FAQ,26/08/2026,2750,2750,2750
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Cabbage,Other,Grade A,26/08/2026,1000,2000,1500
+Uttar Pradesh,Hathras,Shadabad APMC,Pumpkin,Pumpkin,Small,26/08/2026,600,700,650
+Uttarakhand,Dehradoon,Vikasnagar APMC,Green Chilli,Green Chilly,Medium,26/08/2026,1300,2600,2600
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Banana,Other,Grade A,26/08/2026,2000,3000,2500
+Uttar Pradesh,Hathras,Shadabad APMC,Brinjal,Brinjal,Small,26/08/2026,700,800,750
+Punjab,Amritsar,Rayya APMC,Potato,Potato,FAQ,26/08/2026,757,757,757
+Uttarakhand,Dehradoon,Vikasnagar APMC,Papaya,Papaya,Medium,26/08/2026,1500,1600,1600
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,26/08/2026,695,695,695
+Uttarakhand,Dehradoon,Vikasnagar APMC,Pomegranate,Other,Medium,26/08/2026,4500,4500,4500
+Andhra Pradesh,Kakinada,Sampara (Kakinada Rural) APMC,Paddy(Common),1001,FAQ,26/08/2026,2369,2389,2379
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,26/08/2026,1100,1100,1100
+Telangana,Karimnagar,"Weekly Market Area,RBZ APMC",Brinjal,Other,Local,26/08/2026,2000,3500,2000
+Telangana,Karimnagar,"Weekly Market Area,RBZ APMC",Bhindi(Ladies Finger),Other,Local,26/08/2026,2000,3500,2000
