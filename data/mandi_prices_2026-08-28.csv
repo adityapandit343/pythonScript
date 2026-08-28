@@ -1,0 +1,43 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,28/08/2026,1417,1417,1417
+Keralam,Idukki,Munnar Market,Onion,Big,Medium,28/08/2026,5600,5600,5600
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,28/08/2026,701,701,701
+Keralam,Idukki,Munnar Market,Tomato,Other,Medium,28/08/2026,4500,4500,4500
+Keralam,Idukki,Munnar Market,Pumpkin,Other,Medium,28/08/2026,3000,3000,3000
+Tripura,Dhalai,Kulai APMC,Banana - Green,Banana - Green,Grade B,28/08/2026,2000,2500,2300
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,28/08/2026,2052,2052,2052
+Andhra Pradesh,Srikakulam,Srikakulam APMC,Paddy(Common),1001,FAQ,28/08/2026,2400,2400,2400
+Tripura,Dhalai,Kulai APMC,Potato,Other,Grade B,28/08/2026,1600,2000,1800
+Punjab,Amritsar,Rayya APMC,Potato,Potato,FAQ,28/08/2026,754,754,754
+Punjab,Amritsar,Rayya APMC,Brinjal,Round,FAQ,28/08/2026,1825,1825,1825
+Tripura,Dhalai,Kulai APMC,Pumpkin,Other,Grade B,28/08/2026,3500,4000,3700
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,28/08/2026,1097,1097,1097
+Keralam,Idukki,Munnar Market,Snakeguard,Other,Medium,28/08/2026,6000,6000,6000
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,28/08/2026,1794,1794,1794
+Andhra Pradesh,NTR,Mylavaram APMC,Paddy(Common),1001,FAQ,28/08/2026,2369,2369,2369
+Andhra Pradesh,Kakinada,Samalkot APMC,Paddy(Common),Paddy,FAQ,28/08/2026,2362,2380,2369
+Andhra Pradesh,Vijayanagaram,Chipurupalli APMC,Maize,Local,FAQ,28/08/2026,4800,4800,4800
+Andhra Pradesh,Markapuram,Markapur APMC,Cotton,Desi,FAQ,28/08/2026,7900,7900,7900
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,28/08/2026,695,695,695
+Keralam,Idukki,Munnar Market,Sweet Potato,Other,Medium,28/08/2026,4500,4500,4500
+Punjab,Amritsar,Rayya APMC,Cucumbar(Kheera),Cucumbar,FAQ,28/08/2026,900,900,900
+Tripura,Dhalai,Kulai APMC,Pointed gourd(Parval),Pointed gourd (Parval),Grade B,28/08/2026,5500,6000,5800
+Andhra Pradesh,Kakinada,Pithapuram APMC,Paddy(Common),B P T,FAQ,28/08/2026,2369,2389,2379
+Andhra Pradesh,Kakinada,Karapa APMC,Paddy(Common),1001,FAQ,28/08/2026,2362,2369,2366
+Andhra Pradesh,Alluri Sitharama Raju,Chintapally APMC,Groundnut,Local,FAQ,28/08/2026,6500,7500,7000
+Andhra Pradesh,NTR,Mylavaram APMC,Cotton,Bunny,Local,28/08/2026,6900,6900,6900
+Keralam,Idukki,Munnar Market,Onion,Small,Medium,28/08/2026,7500,7500,7500
+Tripura,Dhalai,Kulai APMC,Chili Red,Other,Grade Range-2,28/08/2026,20000,25000,23000
+Punjab,Amritsar,Rayya APMC,Cauliflower,Other,FAQ,28/08/2026,1175,1175,1175
+Keralam,Idukki,Munnar Market,Tapioca,Tapioca,Medium,28/08/2026,4300,4300,4300
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),Common,FAQ,28/08/2026,2369,2390,2375
+Andhra Pradesh,Srikakulam,Kanchili APMC,Paddy(Common),1001,FAQ,28/08/2026,2400,2400,2400
+Andhra Pradesh,NTR,Mylavaram APMC,Maize,Hybrid,Local,28/08/2026,2350,2350,2350
+Keralam,Idukki,Munnar Market,Potato,Other,Medium,28/08/2026,3500,3500,3500
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Local,28/08/2026,15000,22500,20500
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Grade Range-1,28/08/2026,17000,27500,24500
+Tripura,Dhalai,Kulai APMC,Brinjal,Round/Long,Grade B,28/08/2026,5600,6000,5800
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,28/08/2026,1362,1362,1362
+Tripura,Dhalai,Kulai APMC,Bhindi(Ladies Finger),Bhindi,Grade B,28/08/2026,5500,6000,5800
+Keralam,Idukki,Munnar Market,Raddish,Other,Medium,28/08/2026,3000,3000,3000
+Keralam,Idukki,Munnar Market,Onion Green,Onion Green,Medium,28/08/2026,4690,4690,4690
