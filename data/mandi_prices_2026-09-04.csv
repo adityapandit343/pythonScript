@@ -1,0 +1,75 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Tripura,Khowai,Teliamura APMC,Pigs,Pigs,Local,04/09/2026,3500,7000,5700
+Andhra Pradesh,Dr.B.R.A.Konaseema,Razole APMC,Coconut,Medium,FAQ,04/09/2026,18500,19000,18500
+Punjab,Mohali,Lalru APMC,Tomato,Deshi,Local,04/09/2026,2580,2580,2580
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Grade Range-1,04/09/2026,17000,27600,24600
+Punjab,Mohali,Lalru APMC,Capsicum,Other,Local,04/09/2026,4570,4570,4570
+Rajasthan,Jalore,Jalore APMC,Onion Green,Onion Green,Local,04/09/2026,3500,3800,3600
+Rajasthan,Jalore,Jalore APMC,Tinda,Tinda,Local,04/09/2026,1800,2000,1900
+Andhra Pradesh,Ananthapuramu,Kalyandurg APMC,Groundnut,Local,Grade Range-1,04/09/2026,8000,8500,8300
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Cabbage,Cabbage,FAQ,04/09/2026,2000,2000,2000
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Cucumbar(Kheera),Cucumbar,FAQ,04/09/2026,2500,3000,3000
+Keralam,Alappuzha,Harippad Market,Brinjal,Brinjal,FAQ,04/09/2026,5000,5500,5000
+Andhra Pradesh,Kakinada,Karapa APMC,Paddy(Common),1001,FAQ,04/09/2026,2362,2369,2366
+Punjab,Mohali,Lalru APMC,Pumpkin,Other,Local,04/09/2026,1560,1560,1560
+Punjab,Mohali,Lalru APMC,Onion,Other,Local,04/09/2026,4350,4350,4350
+Punjab,Mohali,Lalru APMC,Garlic,Average,Local,04/09/2026,8900,8900,8900
+Rajasthan,Jalore,Jalore APMC,Green Chilli,Green Chilly,Local,04/09/2026,1500,1800,1600
+Rajasthan,Jalore,Jalore APMC,Capsicum,Other,Local,04/09/2026,2500,3000,2800
+Rajasthan,Jalore,Jalore APMC,Cabbage,Cabbage,Local,04/09/2026,1500,1800,1600
+Tripura,Khowai,Teliamura APMC,Rice,Masuri,Grade Range-2,04/09/2026,3900,4100,4000
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,04/09/2026,1071,1071,1071
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,04/09/2026,715,715,715
+Punjab,Amritsar,Rayya APMC,Cucumbar(Kheera),Cucumbar,FAQ,04/09/2026,895,895,895
+Keralam,Alappuzha,Harippad Market,Capsicum,Capsicum,FAQ,04/09/2026,9000,9500,9000
+Keralam,Alappuzha,Harippad Market,Bitter gourd,Other,FAQ,04/09/2026,6500,7000,6500
+Keralam,Alappuzha,Harippad Market,Amaranthus,Other,FAQ,04/09/2026,5000,5500,5000
+Punjab,Mohali,Lalru APMC,Potato,Other,Local,04/09/2026,870,870,870
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Local,04/09/2026,16000,22500,19500
+Rajasthan,Jalore,Jalore APMC,Potato,Potato,Local,04/09/2026,1200,1600,1400
+Rajasthan,Jalore,Jalore APMC,Cucumbar(Kheera),Cucumbar,Local,04/09/2026,1200,1500,1300
+Rajasthan,Jalore,Jalore APMC,Coriander(Leaves),Coriander,Local,04/09/2026,2500,3000,2800
+Rajasthan,Jalore,Jalore APMC,Bottle gourd,Bottle Gourd,Local,04/09/2026,800,1000,900
+Rajasthan,Jalore,Jalore APMC,Banana - Green,Other,Local,04/09/2026,3000,3500,3300
+Tripura,Khowai,Teliamura APMC,Fish,Katla(Big),Grade Range-2,04/09/2026,28400,28600,28500
+Andhra Pradesh,Nandyal,Koilkunta APMC,Jowar(Sorghum),Jowar ( White),FAQ,04/09/2026,3000,3400,3200
+Punjab,Amritsar,Rayya APMC,Potato,Other,FAQ,04/09/2026,618,618,618
+Punjab,Amritsar,Rayya APMC,Cauliflower,Local,FAQ,04/09/2026,3180,3180,3180
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,04/09/2026,500,500,500
+Keralam,Alappuzha,Harippad Market,Bottle gourd,Other,FAQ,04/09/2026,2500,3000,2500
+Keralam,Alappuzha,Harippad Market,Beetroot,Beetroot,FAQ,04/09/2026,6000,6500,6000
+Andhra Pradesh,Palnadu,Rompicherla APMC,Maize,Hybrid/Local,FAQ,04/09/2026,2300,2500,2500
+Rajasthan,Jalore,Jalore APMC,Beetroot,Other,Local,04/09/2026,1800,2000,1900
+Punjab,Mohali,Lalru APMC,Bitter gourd,Other,Local,04/09/2026,3040,3040,3040
+Rajasthan,Jalore,Jalore APMC,Lemon,Other,Local,04/09/2026,2000,2500,2300
+Rajasthan,Jalore,Jalore APMC,Cauliflower,Cauliflower,Local,04/09/2026,2000,2200,2100
+Rajasthan,Jalore,Jalore APMC,Bitter gourd,Other,Local,04/09/2026,2400,2800,2500
+Andhra Pradesh,Kakinada,Jaggampet APMC,Paddy(Common),Common,FAQ,04/09/2026,2369,2380,2369
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Brinjal,Round/Long,FAQ,04/09/2026,2500,2500,2500
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,04/09/2026,690,690,690
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,04/09/2026,1360,1360,1360
+Andhra Pradesh,Kakinada,Samalkot APMC,Paddy(Common),Paddy,FAQ,04/09/2026,2365,2380,2369
+Keralam,Alappuzha,Harippad Market,Carrot,Other,FAQ,04/09/2026,8000,8500,8000
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),Common,FAQ,04/09/2026,2369,2390,2375
+Keralam,Thirssur,Pazhayannur VFPCK Market,Cowpea(Veg),Cowpea (Veg),Grade A,04/09/2026,3500,4200,4000
+Tripura,Khowai,Teliamura APMC,Goat,Goat,Local,04/09/2026,2500,5700,3200
+Andhra Pradesh,Polavaram,Rampachodvaram APMC,Paddy(Common),1001,Grade Range-2,04/09/2026,2369,2389,2379
+Andhra Pradesh,Palnadu,Rompicherla APMC,Paddy(Common),Paddy,FAQ,04/09/2026,2300,2500,2450
+Punjab,Mohali,Lalru APMC,Green Chilli,Other,Local,04/09/2026,1656,1656,1656
+Punjab,Mohali,Lalru APMC,Brinjal,Other,Local,04/09/2026,3200,3200,3200
+Rajasthan,Jalore,Jalore APMC,Tomato,Tomato,Local,04/09/2026,2000,2400,2200
+Punjab,Mohali,Lalru APMC,Bottle gourd,Other,Local,04/09/2026,800,800,800
+Andhra Pradesh,Kakinada,Pithapuram APMC,Paddy(Common),B P T,FAQ,04/09/2026,2369,2389,2379
+Rajasthan,Jalore,Jalore APMC,Cluster beans,Other,Local,04/09/2026,4500,5000,4800
+Rajasthan,Jalore,Jalore APMC,Ginger(Green),Other,Local,04/09/2026,4500,5000,4800
+Rajasthan,Jalore,Jalore APMC,Brinjal,Brinjal,Local,04/09/2026,1500,2000,1800
+Rajasthan,Jalore,Jalore APMC,Bhindi(Ladies Finger),Bhindi,Local,04/09/2026,1200,1500,1300
+Tripura,Khowai,Teliamura APMC,Fish,Rahu(Andhra),Grade Range-2,04/09/2026,17600,17800,17700
+Tripura,Khowai,Teliamura APMC,Banana,Champa,Medium,04/09/2026,2400,2900,2800
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,04/09/2026,2051,2051,2051
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,04/09/2026,1412,1412,1412
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,04/09/2026,1790,1790,1790
+Keralam,Alappuzha,Harippad Market,Cabbage,Cabbage,FAQ,04/09/2026,4500,5000,4500
+Keralam,Alappuzha,Harippad Market,Bhindi(Ladies Finger),Other,FAQ,04/09/2026,4500,5000,4500
+Keralam,Alappuzha,Harippad Market,Banana - Green,Other,FAQ,04/09/2026,7000,7500,7000
+Keralam,Alappuzha,Harippad Market,Ashgourd,Other,FAQ,04/09/2026,3500,4000,3500
