@@ -1,0 +1,37 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Andhra Pradesh,Prakasam,Santhamaguluru APMC,Maize,Hybrid,FAQ,06/09/2026,2400,2480,2450
+Keralam,Kozhikode(Calicut),Kunnamangalam  VFPCK Market,Banana,Nendra Bale,Grade A,06/09/2026,5200,6200,5700
+Tripura,North Tripura,Dasda APMC,Potato,Other,FAQ,06/09/2026,1400,1500,1450
+Odisha,Rayagada,Gunpur APMC,Brinjal,Round,FAQ,06/09/2026,6460,7080,6860
+Odisha,Rayagada,Rayagada(Muniguda) APMC,Pumpkin,Other,Small,06/09/2026,2100,2340,2250
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),Common,FAQ,06/09/2026,2369,2390,2375
+Andhra Pradesh,Kakinada,Pithapuram APMC,Paddy(Common),B P T,FAQ,06/09/2026,2369,2389,2379
+Keralam,Kozhikode(Calicut),Kakkur VFPCK Market,Banana,Nendra Bale,Grade A,06/09/2026,5400,6300,5800
+Keralam,Kozhikode(Calicut),Thalakulathur VFPCK Market,Banana,Nendra Bale,Grade A,06/09/2026,5400,6300,5800
+Andhra Pradesh,Visakhapatnam,Bhimunipatnam APMC,Ragi(Finger Millet),Local,Local,06/09/2026,5000,5000,5000
+Andhra Pradesh,Markapuram,Kanigiri APMC,Red gram/Arhar/Tur(whole),(Whole),Local,06/09/2026,8600,8800,8700
+Andhra Pradesh,Anakapally,Yellamanchili APMC,Paddy(Common),1001,Local,06/09/2026,2390,2450,2400
+Andhra Pradesh,Kakinada,Karapa APMC,Paddy(Common),1001,FAQ,06/09/2026,2359,2369,2365
+Keralam,Kollam,Thalavoor VFPCK Market,Banana,Banana - Ripe,Grade A,06/09/2026,7500,7500,7500
+Keralam,Kollam,Plappally VFPCK Market,Banana,Banana - Ripe,Grade A,06/09/2026,7500,7500,7500
+Odisha,Rayagada,Gunpur APMC,Cashewnuts,Local(Raw),Local,06/09/2026,27000,27100,27020
+Odisha,Rayagada,Rayagada(Muniguda) APMC,Beetroot,Beetroot,FAQ,06/09/2026,8200,8960,8500
+Odisha,Rayagada,Gunpur APMC,Seetapal,Other,Medium,06/09/2026,7000,8480,7400
+Tripura,North Tripura,Dasda APMC,Rice,Other,FAQ,06/09/2026,3250,3350,3300
+Tripura,North Tripura,Dasda APMC,Onion,Onion,FAQ,06/09/2026,4800,4900,4850
+Odisha,Rayagada,Gunpur APMC,Cauliflower,Cauliflower,Local,06/09/2026,6800,8200,7400
+Odisha,Rayagada,Gunpur APMC,Tomato,Local,Medium,06/09/2026,1650,2150,1730
+Odisha,Rayagada,Gunpur APMC,Carrot,Carrot,FAQ,06/09/2026,7040,7800,7240
+Odisha,Rayagada,Gunpur APMC,Cabbage,Cabbage,FAQ,06/09/2026,6680,7700,7220
+Odisha,Rayagada,Gunpur APMC,Cucumbar(Kheera),Other,FAQ,06/09/2026,4300,5240,4900
+Odisha,Rayagada,Rayagada(Muniguda) APMC,Ridgeguard(Tori),Other,FAQ,06/09/2026,8200,8900,8600
+Andhra Pradesh,Kakinada,Jaggampet APMC,Paddy(Common),Common,FAQ,06/09/2026,2369,2380,2369
+Andhra Pradesh,Kakinada,Sampara (Kakinada Rural) APMC,Paddy(Common),1001,FAQ,06/09/2026,2369,2389,2379
+Andhra Pradesh,Prakasam,Santhamaguluru APMC,Paddy(Common),B P T,FAQ,06/09/2026,2500,2580,2550
+Andhra Pradesh,Kakinada,Peddapuram APMC,Paddy(Common),1001,FAQ,06/09/2026,2369,2390,2369
+Andhra Pradesh,Kakinada,Samalkot APMC,Paddy(Common),Paddy,FAQ,06/09/2026,2369,2380,2369
+Keralam,Kozhikode(Calicut),Thiruvambady VFPCK Market,Banana,Nendra Bale,Grade A,06/09/2026,3000,4000,3500
+Keralam,Kollam,Chengamanad  VFPCK Market,Banana,Banana - Ripe,Grade A,06/09/2026,7000,7000,7000
+Tripura,North Tripura,Dasda APMC,Brinjal,Round/Long,FAQ,06/09/2026,2700,2800,2750
+Odisha,Rayagada,Rayagada(Muniguda) APMC,Bhindi(Ladies Finger),Bhindi,FAQ,06/09/2026,4400,6400,5200
+Odisha,Rayagada,Rayagada(Muniguda) APMC,Pointed gourd(Parval),Other,Grade A,06/09/2026,6200,7900,7300
