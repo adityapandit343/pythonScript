@@ -1,0 +1,91 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Odisha,Sundergarh,Panposh APMC,Bottle gourd,Bottle Gourd,FAQ,11/09/2026,2000,2500,2200
+Uttarakhand,Haridwar,Roorkee APMC,Cucumbar(Kheera),Other,Local,11/09/2026,800,1000,900
+Uttarakhand,Haridwar,Roorkee APMC,Cauliflower,Other,Local,11/09/2026,1000,1500,1200
+Odisha,Sundergarh,Panposh APMC,Bhindi(Ladies Finger),Other,FAQ,11/09/2026,3500,4200,4000
+Uttarakhand,Haridwar,Roorkee APMC,Bottle gourd,Other,Local,11/09/2026,650,850,750
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,11/09/2026,715,715,715
+Punjab,Amritsar,Rayya APMC,Potato,Potato,FAQ,11/09/2026,749,749,749
+Odisha,Angul,Angaura APMC,Cauliflower,Other,Large,11/09/2026,5100,5800,5400
+Andhra Pradesh,Prakasam,Darsi APMC,Paddy(Common),B P T,Local,11/09/2026,2500,2600,2600
+Andhra Pradesh,Kakinada,Sampara (Kakinada Rural) APMC,Paddy(Common),1001,FAQ,11/09/2026,2369,2389,2379
+Punjab,Amritsar,Rayya APMC,Cucumbar(Kheera),Cucumbar,FAQ,11/09/2026,890,890,890
+Keralam,Alappuzha,Harippad Market,Bhindi(Ladies Finger),Other,FAQ,11/09/2026,4500,5000,4500
+Keralam,Alappuzha,Harippad Market,Ashgourd,Other,FAQ,11/09/2026,4000,4500,4000
+Keralam,Idukki,Munnar Market,Garlic,Other,Local,11/09/2026,20000,20000,20000
+Andhra Pradesh,Kakinada,Pithapuram APMC,Paddy(Common),1001,FAQ,11/09/2026,2369,2389,2379
+Andhra Pradesh,Polavaram,Rampachodvaram APMC,Paddy(Common),1001,Grade Range-2,11/09/2026,2369,2389,2379
+Andhra Pradesh,Markapuram,Podili APMC,Red gram/Arhar/Tur(whole),Arhar (Whole),Non-FAQ,11/09/2026,8000,8200,8100
+Uttarakhand,Haridwar,Roorkee APMC,Bhindi(Ladies Finger),Other,Local,11/09/2026,1000,1500,1300
+Uttarakhand,Haridwar,Roorkee APMC,Banana,Other,Medium,11/09/2026,800,1200,1000
+Andhra Pradesh,Sri Sathya Sai,Penukonda APMC,Maize,Hybrid/Local,FAQ,11/09/2026,2600,2700,2650
+Odisha,Sundergarh,Panposh APMC,Cabbage,Cabbage,FAQ,11/09/2026,3000,4000,3500
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,11/09/2026,2047,2047,2047
+Andhra Pradesh,Prakasam,Darsi APMC,Cotton,Desi,Local,11/09/2026,8100,8200,8200
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,11/09/2026,1785,1785,1785
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,11/09/2026,687,687,687
+Keralam,Alappuzha,Harippad Market,Cabbage,Cabbage,FAQ,11/09/2026,4500,5000,4500
+Keralam,Alappuzha,Harippad Market,Banana - Green,Other,FAQ,11/09/2026,6500,7000,6500
+Keralam,Idukki,Munnar Market,Indian Beans(Seam),Indian Beans (Seam),Medium,11/09/2026,6500,6500,6500
+Keralam,Idukki,Munnar Market,Green Avare(W),Green Avare (W),Medium,11/09/2026,6000,6000,6000
+Keralam,Idukki,Munnar Market,Duster Beans,Duster Beans,Medium,11/09/2026,8000,8000,8000
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),Common,FAQ,11/09/2026,2369,2390,2375
+Andhra Pradesh,Sri Sathya Sai,Penukonda APMC,Groundnut,Local,FAQ,11/09/2026,7400,7600,7600
+Uttarakhand,Haridwar,Roorkee APMC,Bitter gourd,Other,Local,11/09/2026,650,850,750
+Uttarakhand,Haridwar,Roorkee APMC,Onion,Other,Medium,11/09/2026,2500,4500,3500
+Andhra Pradesh,Ananthapuramu,Gooti APMC,Red gram/Arhar/Tur(whole),Local,Grade Range-1,11/09/2026,4900,7540,6800
+Andhra Pradesh,Kakinada,Karapa APMC,Paddy(Common),1001,FAQ,11/09/2026,2363,2369,2366
+Odisha,Sundergarh,Panposh APMC,Cucumbar(Kheera),Other,FAQ,11/09/2026,3500,4200,4000
+Odisha,Sundergarh,Panposh APMC,Brinjal,Brinjal,FAQ,11/09/2026,4000,4500,4200
+Andhra Pradesh,Ananthapuramu,Rapthadu APMC,Ground Nut Seed,Ground Nut Seed,Grade Range-1,11/09/2026,9500,11500,10500
+Haryana,Gurgaon,Gurgaon APMC,Mousambi(Sweet Lime),Mousambi,Grade C,11/09/2026,3000,5000,4000
+Odisha,Angul,Angaura APMC,Tomato,Other,Grade C,11/09/2026,3000,3700,3500
+Odisha,Angul,Angaura APMC,Cabbage,Other,Large,11/09/2026,4000,4900,4400
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Grade Range-1,11/09/2026,17000,28500,26000
+Punjab,Amritsar,Rayya APMC,Raddish,Other,FAQ,11/09/2026,2081,2081,2081
+Punjab,Amritsar,Rayya APMC,Cauliflower,Local,FAQ,11/09/2026,3175,3175,3175
+Keralam,Alappuzha,Harippad Market,Beetroot,Beetroot,FAQ,11/09/2026,6000,6500,6000
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,11/09/2026,1355,1355,1355
+Keralam,Idukki,Munnar Market,Little gourd(Kundru),Little gourd (Kundru),Medium,11/09/2026,4500,4500,4500
+Keralam,Idukki,Munnar Market,Green Chilli,Other,Medium,11/09/2026,6800,6800,6800
+Keralam,Idukki,Munnar Market,Elephant Yam(Suran)/Amorphophallus,Elephant Yam (Suran),Medium,11/09/2026,5600,5600,5600
+Uttarakhand,Haridwar,Roorkee APMC,Brinjal,Other,Local,11/09/2026,800,1000,900
+Keralam,Thirssur,Annamanada  VFPCK Market,Banana,Nendra Bale,Grade A,11/09/2026,3200,4300,3700
+Odisha,Sundergarh,Panposh APMC,Bitter gourd,Other,FAQ,11/09/2026,4000,5000,4500
+Andhra Pradesh,Ananthapuramu,Gooti APMC,Groundnut,Local,Grade Range-1,11/09/2026,5200,7700,6500
+Andhra Pradesh,Srikakulam,Kanchili APMC,Paddy(Common),1001,FAQ,11/09/2026,2400,2400,2400
+Haryana,Gurgaon,Gurgaon APMC,Pomegranate,Other,Grade B,11/09/2026,5000,10000,7500
+Haryana,Gurgaon,Gurgaon APMC,Banana,Other,Grade B,11/09/2026,2000,4000,3000
+Haryana,Gurgaon,Gurgaon APMC,Apple,Apple,Grade B,11/09/2026,5000,7000,6000
+Telangana,Bhadradri Kothagudem,Dammapet APMC,Wood,Eucalyptus,FAQ,11/09/2026,400,500,400
+Odisha,Angul,Angaura APMC,Pumpkin,Other,Grade C,11/09/2026,1300,1800,1500
+Andhra Pradesh,Ananthapuramu,Kalyandurg APMC,Groundnut,Local,Grade Range-1,11/09/2026,8000,8500,8300
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,11/09/2026,1411,1411,1411
+Keralam,Alappuzha,Harippad Market,Capsicum,Capsicum,FAQ,11/09/2026,9000,9500,9000
+Keralam,Alappuzha,Harippad Market,Brinjal,Brinjal,FAQ,11/09/2026,5000,5500,5000
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,11/09/2026,500,500,500
+Uttar Pradesh,Hathras,Shadabad APMC,Brinjal,Brinjal,Small,11/09/2026,600,700,650
+Uttar Pradesh,Hathras,Shadabad APMC,Bottle gourd,Bottle Gourd,Small,11/09/2026,600,700,650
+Keralam,Idukki,Munnar Market,Lemon,Other,Medium,11/09/2026,13000,13000,13000
+Keralam,Idukki,Munnar Market,Ginger(Green),Other,Medium,11/09/2026,15000,15000,15000
+Andhra Pradesh,Alluri Sitharama Raju,Chintapally APMC,Groundnut,Local,FAQ,11/09/2026,6850,7300,7100
+Odisha,Sundergarh,Panposh APMC,Tomato,Hybrid,FAQ,11/09/2026,3000,3500,3200
+Uttarakhand,Haridwar,Roorkee APMC,Tomato,Other,Medium,11/09/2026,1200,2200,1600
+Odisha,Sundergarh,Panposh APMC,Pumpkin,Other,FAQ,11/09/2026,1000,1400,1200
+Andhra Pradesh,Ananthapuramu,Gooti APMC,Cotton,Bramha,Grade Range-1,11/09/2026,4000,9939,9769
+Uttarakhand,Haridwar,Roorkee APMC,Potato,Other,Medium,11/09/2026,800,1200,1000
+Andhra Pradesh,Guntur,Phirangipuram APMC,Cotton,Cotton (Unginned),Local,11/09/2026,7500,8700,8100
+Andhra Pradesh,Ananthapuramu,Singanamala APMC,Groundnut,Local,Grade Range-1,11/09/2026,6600,7800,7200
+Haryana,Gurgaon,Gurgaon APMC,Guava,Guava,Grade C,11/09/2026,5000,10000,7500
+Andhra Pradesh,Alluri Sitharama Raju,Araku Valley APMC,Kidney Beans(Rajma),Rajma,Grade Range-1,11/09/2026,7000,7000,7000
+Odisha,Angul,Angaura APMC,Potato,Other,Grade C,11/09/2026,1550,2000,1700
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Local,11/09/2026,16000,23000,20500
+Odisha,Angul,Angaura APMC,Bhindi(Ladies Finger),Bhindi,Grade C,11/09/2026,3850,4300,4150
+Odisha,Angul,Angaura APMC,Brinjal,Other,Grade C,11/09/2026,3600,4300,3900
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,11/09/2026,1067,1067,1067
+Keralam,Alappuzha,Harippad Market,Bitter gourd,Other,FAQ,11/09/2026,6500,7000,6500
+Uttar Pradesh,Hathras,Shadabad APMC,Pumpkin,Pumpkin,Small,11/09/2026,600,700,650
+Keralam,Alappuzha,Harippad Market,Amaranthus,Other,FAQ,11/09/2026,5000,5500,5000
+Keralam,Idukki,Munnar Market,Galgal(Lemon),Galgal(Lemon),Medium,11/09/2026,22000,22000,22000
+Keralam,Idukki,Munnar Market,Drumstick,Drumstick,Medium,11/09/2026,6000,6000,6000
+Keralam,Thiruvananthapuram,Vamanapuram Market,Tomato,Other,FAQ,11/09/2026,3500,4000,4000
