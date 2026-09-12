@@ -1,0 +1,180 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Haryana,Gurgaon,Gurgaon APMC,Capsicum,Other,Grade A,12/09/2026,2000,4000,3000
+Haryana,Gurgaon,Gurgaon APMC,Bitter gourd,Other,Grade B,12/09/2026,1000,2000,1500
+Andhra Pradesh,Kakinada,Karapa APMC,Paddy(Common),1001,FAQ,12/09/2026,2362,2369,2365
+Tripura,North Tripura,Dasda APMC,Potato,Other,FAQ,12/09/2026,1400,1500,1450
+Keralam,Thiruvananthapuram,Parassala Market,Banana,Robusta,Local,12/09/2026,2800,3200,3000
+Uttarakhand,Haridwar,Roorkee APMC,Tomato,Other,Medium,12/09/2026,1200,2200,1600
+Bihar,Bhagalpur,Bihpur APMC,Pointed gourd(Parval),Other,Local,12/09/2026,4500,4500,4500
+Keralam,Thiruvananthapuram,Parassala Market,Green Chilli,Green Chilly,Local,12/09/2026,7800,8200,8000
+Andhra Pradesh,Markapuram,Podili APMC,Red gram/Arhar/Tur(whole),Arhar (Whole),Non-FAQ,12/09/2026,8000,8200,8100
+Uttarakhand,Haridwar,Roorkee APMC,Cucumbar(Kheera),Other,Local,12/09/2026,850,1200,950
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Carrot,Other,Grade A,12/09/2026,1500,2500,2000
+Keralam,Thiruvananthapuram,Parassala Market,Ginger(Green),Green Ginger,Local,12/09/2026,8000,8400,8200
+Keralam,Thiruvananthapuram,Parassala Market,Beetroot,Beetroot,Local,12/09/2026,3800,4200,4000
+Keralam,Thiruvananthapuram,Parassala Market,Snakeguard,Snakeguard,Local,12/09/2026,2800,3200,3000
+Andhra Pradesh,Prakasam,Santhamaguluru APMC,Paddy(Common),B P T,FAQ,12/09/2026,2500,2580,2550
+Keralam,Thiruvananthapuram,Parassala Market,Elephant Yam(Suran)/Amorphophallus,Elephant Yam (Suran),Local,12/09/2026,8800,9200,9000
+Uttarakhand,Haridwar,Roorkee APMC,Banana,Other,Medium,12/09/2026,800,1200,1000
+Andhra Pradesh,Srikakulam,Etcherla APMC,Paddy(Common),1121,FAQ,12/09/2026,2369,2369,2369
+Rajasthan,Jalore,Jalore APMC,Capsicum,Other,Local,12/09/2026,2800,3200,3000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Banana,Other,Grade A,12/09/2026,2000,2700,2500
+Keralam,Ernakulam,Piravam Market,Potato,Potato,Local,12/09/2026,3800,4500,4200
+Keralam,Kollam,Kottarakkara Market,Green Chilli,Other,Local,12/09/2026,3100,3100,3100
+Keralam,Kollam,Kottarakkara Market,Ginger(Green),Other,Local,12/09/2026,5000,5000,5000
+Andhra Pradesh,SPSR Nellore,Kavali APMC,Paddy(Common),Other,Local,12/09/2026,2380,2450,2410
+Keralam,Kollam,Kottarakkara Market,Bottle gourd,Other,Local,12/09/2026,1800,1800,1800
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,12/09/2026,1785,1785,1785
+Keralam,Ernakulam,Piravam Market,Little gourd(Kundru),Other,Local,12/09/2026,5500,6500,6000
+Keralam,Kollam,Kottarakkara Market,Bitter gourd,Other,Local,12/09/2026,4000,4000,4000
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,12/09/2026,1066,1066,1066
+Keralam,Ernakulam,Piravam Market,Cucumbar(Kheera),Cucumbar,Local,12/09/2026,4000,6000,5000
+Keralam,Ernakulam,Piravam Market,Cauliflower,Cauliflower,Local,12/09/2026,6000,7000,6500
+Keralam,Ernakulam,Piravam Market,Beetroot,Beetroot,Local,12/09/2026,7200,8000,7600
+Andhra Pradesh,Kakinada,Pithapuram APMC,Paddy(Common),1001,FAQ,12/09/2026,2369,2389,2379
+Haryana,Gurgaon,Gurgaon APMC,Bhindi(Ladies Finger),Other,Grade A,12/09/2026,1500,2500,2000
+Keralam,Thiruvananthapuram,Parassala Market,Banana,Red Banana,Local,12/09/2026,6800,7200,7000
+Haryana,Gurgaon,Gurgaon APMC,Potato,Other,Grade B,12/09/2026,600,1000,800
+Haryana,Gurgaon,Gurgaon APMC,Brinjal,Brinjal,Grade B,12/09/2026,800,1200,1000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Onion,Other,Grade A,12/09/2026,3500,4500,4000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Cucumbar(Kheera),Cucumbar,Grade A,12/09/2026,2500,3500,3000
+Uttarakhand,Haridwar,Roorkee APMC,Bitter gourd,Other,Local,12/09/2026,650,850,750
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Raddish,Other,Grade A,12/09/2026,1500,2500,2000
+Keralam,Thiruvananthapuram,Parassala Market,Banana,Palayamthodan,Local,12/09/2026,2800,3200,3000
+Keralam,Thiruvananthapuram,Parassala Market,Banana,Nendra Bale,Local,12/09/2026,6800,7200,7000
+Punjab,Ludhiana,Sahnewal APMC,Cabbage,Cabbage,FAQ,12/09/2026,1800,1800,1800
+Uttar Pradesh,Badaun,Babrala APMC,Wood,Eucalyptus,Local,12/09/2026,530,550,540
+Uttar Pradesh,Badaun,Babrala APMC,Maize,Local,Local,12/09/2026,2130,2150,2140
+Bihar,Bhagalpur,Bihpur APMC,Bitter gourd,Bitter Gourd,Local,12/09/2026,2500,2500,2500
+Keralam,Thiruvananthapuram,Parassala Market,Brinjal,Round/Long,Local,12/09/2026,3800,4200,4000
+Rajasthan,Jalore,Jalore APMC,Tinda,Tinda,Local,12/09/2026,1800,2200,2000
+Rajasthan,Jalore,Jalore APMC,Ginger(Green),Other,Local,12/09/2026,4000,4500,4300
+Rajasthan,Jalore,Jalore APMC,Brinjal,Brinjal,Local,12/09/2026,1500,1800,1600
+Keralam,Ernakulam,Piravam Market,Snakeguard,Snakeguard,Local,12/09/2026,4000,5000,4500
+Keralam,Ernakulam,Piravam Market,Pumpkin,Pumpkin,Local,12/09/2026,3500,4500,4000
+Andhra Pradesh,Prakasam,Maddipadu APMC,Bajra(Pearl Millet/Cumbu),Bold,FAQ,12/09/2026,2850,2850,2850
+Keralam,Ernakulam,Piravam Market,Mango(Raw-Ripe),Mango - Raw-Ripe,Local,12/09/2026,4000,6000,4500
+Keralam,Ernakulam,Piravam Market,Long Melon(Kakri),Other,Local,12/09/2026,3500,4500,4000
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,12/09/2026,1410,1410,1410
+Punjab,Amritsar,Rayya APMC,Cucumbar(Kheera),Cucumbar,FAQ,12/09/2026,890,890,890
+Keralam,Kollam,Kottarakkara Market,Cabbage,Other,Local,12/09/2026,2100,2100,2100
+Keralam,Kollam,Kottarakkara Market,Bhindi(Ladies Finger),Other,Local,12/09/2026,2000,2000,2000
+Keralam,Ernakulam,Piravam Market,Indian Beans(Seam),Other,Local,12/09/2026,6000,8000,7000
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,12/09/2026,500,500,500
+Keralam,Ernakulam,Piravam Market,Bottle gourd,Bottle Gourd,Local,12/09/2026,2800,3500,3000
+Keralam,Ernakulam,Piravam Market,Ashgourd,Ashgourd,Local,12/09/2026,3000,4000,3500
+Telangana,Bhadradri Kothagudem,Bhadrachalam APMC,Paddy(Common),Samba Masuri,FAQ,12/09/2026,2389,2389,2389
+Andhra Pradesh,Anakapally,Yellamanchili APMC,Paddy(Common),1001,Local,12/09/2026,2390,2450,2400
+Keralam,Ernakulam,Piravam Market,Coriander(Leaves),Other,Local,12/09/2026,8000,9000,8500
+Keralam,Thiruvananthapuram,Parassala Market,Banana,Rasakathai,Local,12/09/2026,6000,6400,6200
+Punjab,Ludhiana,Sahnewal APMC,Capsicum,Capsicum,FAQ,12/09/2026,4100,4100,4100
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Potato,Other,Grade A,12/09/2026,500,7000,600
+Haryana,Gurgaon,Gurgaon APMC,Cauliflower,Other,Grade A,12/09/2026,2500,3500,3000
+Keralam,Thiruvananthapuram,Parassala Market,Carrot,Carrot,Local,12/09/2026,3800,4200,4000
+Keralam,Thiruvananthapuram,Parassala Market,Cowpea(Veg),Cowpea (Veg),Local,12/09/2026,7400,8000,7600
+Uttarakhand,Haridwar,Roorkee APMC,Bottle gourd,Other,Local,12/09/2026,650,850,750
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Lemon,Lemon,Grade A,12/09/2026,7000,10000,8000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Cabbage,Other,Grade A,12/09/2026,1500,2200,2000
+Tripura,North Tripura,Dasda APMC,Brinjal,Round/Long,FAQ,12/09/2026,2650,2750,2700
+Uttar Pradesh,Badaun,Babrala APMC,Potato,Potato,Medium,12/09/2026,580,600,590
+Uttarakhand,Haridwar,Roorkee APMC,Onion,Other,Medium,12/09/2026,2500,4500,3500
+Keralam,Thiruvananthapuram,Parassala Market,Cucumbar(Kheera),Cucumbar,Local,12/09/2026,2000,2400,2200
+Uttarakhand,Haridwar,Roorkee APMC,Apple,Other,Medium,12/09/2026,7500,10000,8500
+Rajasthan,Jalore,Jalore APMC,Cucumbar(Kheera),Cucumbar,Local,12/09/2026,1000,1400,1200
+Rajasthan,Jalore,Jalore APMC,Cauliflower,Cauliflower,Local,12/09/2026,1800,2200,2000
+Rajasthan,Jalore,Jalore APMC,Green Chilli,Green Chilly,Local,12/09/2026,1200,1500,1300
+Rajasthan,Jalore,Jalore APMC,Cabbage,Cabbage,Local,12/09/2026,1500,2000,1800
+Rajasthan,Jalore,Jalore APMC,Bottle gourd,Bottle Gourd,Local,12/09/2026,800,1000,900
+Rajasthan,Jalore,Jalore APMC,Bitter gourd,Other,Local,12/09/2026,2000,2500,2300
+Keralam,Kollam,Kottarakkara Market,Pumpkin,Other,Local,12/09/2026,1500,1500,1500
+Keralam,Kollam,Kottarakkara Market,Little gourd(Kundru),Other,Local,12/09/2026,3100,3100,3100
+Andhra Pradesh,Guntur,Phirangipuram APMC,Cotton,Cotton (Unginned),Local,12/09/2026,7500,8700,8100
+Keralam,Kollam,Kottarakkara Market,Cucumbar(Kheera),Other,Local,12/09/2026,2000,2000,2000
+Keralam,Kollam,Kottarakkara Market,Cowpea(Veg),Other,Local,12/09/2026,1000,1000,1000
+Keralam,Ernakulam,Piravam Market,Onion,Onion,Local,12/09/2026,5000,7000,6000
+Keralam,Kollam,Kottarakkara Market,Amaranthus,Other,Local,12/09/2026,2800,2800,2800
+Keralam,Kollam,Kottarakkara Market,Carrot,Other,Local,12/09/2026,3600,3600,3600
+Keralam,Kollam,Kottarakkara Market,Brinjal,Other,Local,12/09/2026,2000,2000,2000
+Keralam,Kollam,Kottarakkara Market,Beetroot,Other,Local,12/09/2026,2000,2000,2000
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,12/09/2026,1354,1354,1354
+Andhra Pradesh,Nandyal,Atmakur (Nandyal District) APMC,Paddy(Common),Sona,FAQ,12/09/2026,2300,2441,2400
+Keralam,Ernakulam,Piravam Market,Cowpea(Veg),Cowpea (Veg),Local,12/09/2026,6000,8000,7000
+Keralam,Ernakulam,Piravam Market,Colacasia,Other,Local,12/09/2026,4800,5500,5000
+Keralam,Ernakulam,Piravam Market,Amaranthus,Amaranthus,Local,12/09/2026,6200,7000,6800
+Haryana,Gurgaon,Gurgaon APMC,Cabbage,Other,Grade B,12/09/2026,1000,1400,1200
+Uttarakhand,Haridwar,Roorkee APMC,Cauliflower,Other,Local,12/09/2026,1000,1600,1200
+Keralam,Thiruvananthapuram,Parassala Market,Amaranthus,Amaranthus,Local,12/09/2026,6800,7200,7000
+Haryana,Gurgaon,Gurgaon APMC,Carrot,Other,Grade B,12/09/2026,2000,4000,3000
+Andhra Pradesh,Prakasam,Santhamaguluru APMC,Maize,Hybrid,FAQ,12/09/2026,2400,2480,2450
+Rajasthan,Jalore,Jalore APMC,Beetroot,Other,Local,12/09/2026,1800,2400,2000
+Keralam,Thiruvananthapuram,Parassala Market,Drumstick,Drumstick,Local,12/09/2026,2800,3200,3000
+Punjab,Ludhiana,Sahnewal APMC,Onion,Onion,FAQ,12/09/2026,4100,4100,4100
+Keralam,Thiruvananthapuram,Parassala Market,Bhindi(Ladies Finger),Bhindi,Local,12/09/2026,5800,6200,6000
+Keralam,Thiruvananthapuram,Parassala Market,Brinjal,Round,Local,12/09/2026,4800,5200,5000
+Rajasthan,Jalore,Jalore APMC,Cluster beans,Other,Local,12/09/2026,4000,4500,4300
+Rajasthan,Jalore,Jalore APMC,Tomato,Tomato,Local,12/09/2026,2000,2400,2200
+Rajasthan,Jalore,Jalore APMC,Coriander(Leaves),Coriander,Local,12/09/2026,2500,3000,2800
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Guava,Other,Grade A,12/09/2026,2000,3000,2500
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Apple,Other,Grade A,12/09/2026,5000,10000,8000
+Rajasthan,Jalore,Jalore APMC,Bhindi(Ladies Finger),Bhindi,Local,12/09/2026,1200,1500,1300
+Andhra Pradesh,Kakinada,Peddapuram APMC,Paddy(Common),1001,FAQ,12/09/2026,2369,2400,2395
+Keralam,Kollam,Kottarakkara Market,Tomato,Other,Local,12/09/2026,3000,3000,3000
+Keralam,Kollam,Kottarakkara Market,Potato,Other,Local,12/09/2026,2300,2300,2300
+Keralam,Kollam,Kottarakkara Market,Onion,Other,Local,12/09/2026,3000,3000,3000
+Keralam,Kollam,Kottarakkara Market,Elephant Yam(Suran)/Amorphophallus,Other,Local,12/09/2026,3100,3100,3100
+Keralam,Kollam,Kottarakkara Market,Ashgourd,Other,Local,12/09/2026,2000,2000,2000
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,12/09/2026,715,715,715
+Punjab,Amritsar,Rayya APMC,Ridgeguard(Tori),Other,FAQ,12/09/2026,2047,2047,2047
+Punjab,Amritsar,Rayya APMC,Raddish,Other,FAQ,12/09/2026,2080,2080,2080
+Punjab,Amritsar,Rayya APMC,Potato,Potato,FAQ,12/09/2026,748,748,748
+Keralam,Ernakulam,Piravam Market,Papaya(Raw),Other,Local,12/09/2026,4000,5000,4500
+Keralam,Kollam,Kottarakkara Market,Banana - Green,Other,Local,12/09/2026,1800,1800,1800
+Keralam,Thiruvananthapuram,Vamanapuram Market,Tomato,Other,FAQ,12/09/2026,4000,4500,4000
+Andhra Pradesh,Alluri Sitharama Raju,Araku Valley APMC,Ginger(Dry),Ginger-Organic,Grade Range-1,12/09/2026,12000,12000,12000
+Keralam,Ernakulam,Piravam Market,Ginger(Green),Green Ginger,Local,12/09/2026,18000,20000,19000
+Keralam,Ernakulam,Piravam Market,Drumstick,Drumstick,Local,12/09/2026,13000,14800,14000
+Keralam,Ernakulam,Piravam Market,Brinjal,Brinjal,Local,12/09/2026,3000,4000,3500
+Keralam,Ernakulam,Piravam Market,Bhindi(Ladies Finger),Bhindi,Local,12/09/2026,6000,7200,7000
+Andhra Pradesh,Polavaram,Rampachodvaram APMC,Paddy(Common),1001,Grade Range-2,12/09/2026,2369,2389,2379
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),Common,FAQ,12/09/2026,2369,2390,2375
+Tripura,North Tripura,Dasda APMC,Onion,Onion,FAQ,12/09/2026,5500,5600,5550
+Tripura,North Tripura,Dasda APMC,Rice,Other,FAQ,12/09/2026,3250,3350,3300
+Haryana,Gurgaon,Gurgaon APMC,Bottle gourd,Other,Grade B,12/09/2026,800,1200,1000
+Punjab,Ludhiana,Sahnewal APMC,Brinjal,Brinjal,FAQ,12/09/2026,2400,2400,2400
+Uttarakhand,Haridwar,Roorkee APMC,Potato,Other,Medium,12/09/2026,800,1200,1000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Green Chilli,Green Chilly,Grade A,12/09/2026,2500,3500,3000
+Keralam,Thiruvananthapuram,Parassala Market,Tomato,Tomato,Local,12/09/2026,3000,3400,3200
+Uttarakhand,Haridwar,Roorkee APMC,Brinjal,Other,Local,12/09/2026,800,1000,900
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Cauliflower,Cauliflower,Grade A,12/09/2026,2500,4000,3500
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Tomato,Other,Grade A,12/09/2026,2000,3000,2500
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Brinjal,Brinjal,Grade A,12/09/2026,1000,1500,1200
+Uttarakhand,Haridwar,Roorkee APMC,Bhindi(Ladies Finger),Other,Local,12/09/2026,1000,1600,1300
+Punjab,Ludhiana,Sahnewal APMC,Tomato,Tomato,FAQ,12/09/2026,3750,3750,3750
+Keralam,Thiruvananthapuram,Parassala Market,Cluster beans,Cluster Beans,Local,12/09/2026,3800,4200,4000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Ridgeguard(Tori),Ridgeguard(Tori),Grade A,12/09/2026,2000,2700,2500
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Pumpkin,Other,Grade A,12/09/2026,1000,1500,1200
+Andhra Pradesh,Kakinada,Prattipadu APMC,Paddy(Common),1001,FAQ,12/09/2026,2369,2389,2379
+Andhra Pradesh,Srikakulam,Etcherla APMC,Maize,Deshi White,Local,12/09/2026,2400,2400,2400
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Bhindi(Ladies Finger),Bhindi,Grade A,12/09/2026,2000,3000,2500
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Water Melon,Other,Grade A,12/09/2026,1000,1500,1200
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Mousambi(Sweet Lime),Mousambi,Grade A,12/09/2026,3000,4000,3500
+Keralam,Ernakulam,Piravam Market,Sweet Potato,Sweet Potato,Local,12/09/2026,4500,5500,5000
+Andhra Pradesh,Prakasam,Maddipadu APMC,Bengal Gram(Gram)(Whole),Gulabi,FAQ,12/09/2026,6000,6000,6000
+Keralam,Kollam,Kottarakkara Market,Snakeguard,Other,Local,12/09/2026,2100,2100,2100
+Andhra Pradesh,Prakasam,Maddipadu APMC,Paddy(Common),B P T,FAQ,12/09/2026,2800,2800,2800
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Local,12/09/2026,16000,23000,20500
+Andhra Pradesh,Palnadu,Gurazala APMC,Chili Red,Red,Grade Range-1,12/09/2026,17000,28000,25600
+Keralam,Kollam,Kottarakkara Market,Lemon,Other,Local,12/09/2026,3100,3100,3100
+Keralam,Kollam,Kottarakkara Market,Drumstick,Other,Local,12/09/2026,5600,5600,5600
+Andhra Pradesh,Markapuram,Markapur APMC,Cotton,Desi,FAQ,12/09/2026,8000,8000,8000
+Punjab,Amritsar,Rayya APMC,Cauliflower,Local,FAQ,12/09/2026,3174,3174,3174
+Keralam,Ernakulam,Piravam Market,Lemon,Other,Local,12/09/2026,20000,22000,21000
+Keralam,Thirssur,Irinjalakkuda Market,Ashgourd,Ashgourd,FAQ,12/09/2026,2500,2700,2600
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,12/09/2026,685,685,685
+Keralam,Ernakulam,Piravam Market,Green Chilli,Green Chilly,Local,12/09/2026,8000,10000,9000
+Keralam,Ernakulam,Piravam Market,Galgal(Lemon),Other,Local,12/09/2026,3000,4000,3500
+Keralam,Ernakulam,Piravam Market,Elephant Yam(Suran)/Amorphophallus,Amorphophallus,Local,12/09/2026,5000,6000,5500
+Keralam,Ernakulam,Piravam Market,Carrot,Carrot,Local,12/09/2026,7000,8000,7500
+Keralam,Ernakulam,Piravam Market,Cabbage,Cabbage,Local,12/09/2026,5000,6000,5500
+Keralam,Ernakulam,Piravam Market,Bitter gourd,Bitter Gourd,Local,12/09/2026,7000,8200,7500
+Keralam,Ernakulam,Piravam Market,Banana - Green,Banana - Green,Local,12/09/2026,6000,8000,7000
