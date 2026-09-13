@@ -1,0 +1,37 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,13/09/2026,2500,3000,3000
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Raddish,Raddish,FAQ,13/09/2026,2000,2000,2000
+Rajasthan,Jalore,Jalore APMC,Bottle gourd,Bottle Gourd,Local,13/09/2026,800,1000,900
+Rajasthan,Jalore,Jalore APMC,Bhindi(Ladies Finger),Bhindi,Local,13/09/2026,1200,1500,1300
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Colacasia,Arabi,FAQ,13/09/2026,1800,2000,2000
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Cauliflower,Cauliflower,FAQ,13/09/2026,2500,3000,3000
+Rajasthan,Jalore,Jalore APMC,Coriander(Leaves),Coriander,Local,13/09/2026,2500,2800,2600
+Rajasthan,Jalore,Jalore APMC,Brinjal,Brinjal,Local,13/09/2026,1500,1800,1600
+Andhra Pradesh,Nandyal,Koilkunta APMC,Jowar(Sorghum),Jowar ( White),FAQ,13/09/2026,3000,3400,3200
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Cabbage,Cabbage,FAQ,13/09/2026,1500,1500,1500
+Rajasthan,Jalore,Jalore APMC,Ridgeguard(Tori),Other,Local,13/09/2026,2000,2400,2200
+Rajasthan,Jalore,Jalore APMC,Tinda,Tinda,Local,13/09/2026,1800,2200,2000
+Rajasthan,Jalore,Jalore APMC,Potato,Potato,Local,13/09/2026,1200,1600,1400
+Haryana,Gurgaon,Gurgaon APMC,Apple,Apple,Grade B,13/09/2026,5000,10000,7500
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy(Common),Common,FAQ,13/09/2026,2369,2390,2375
+Andhra Pradesh,Anakapally,Yellamanchili APMC,Paddy(Common),1001,Local,13/09/2026,2390,2450,2400
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Bhindi(Ladies Finger),Bhindi,FAQ,13/09/2026,1200,1500,1200
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Pumpkin,Pumpkin,FAQ,13/09/2026,1000,1000,1000
+Andhra Pradesh,Kakinada,Samalkot APMC,Paddy(Common),Paddy,FAQ,13/09/2026,2365,2375,2369
+Rajasthan,Jalore,Jalore APMC,Tomato,Tomato,Local,13/09/2026,1800,2000,1900
+Rajasthan,Jalore,Jalore APMC,Lemon,Other,Local,13/09/2026,1800,2200,2000
+Rajasthan,Jalore,Jalore APMC,Ginger(Green),Other,Local,13/09/2026,4000,4500,4300
+Rajasthan,Jalore,Jalore APMC,Cauliflower,Cauliflower,Local,13/09/2026,1800,2200,2000
+Rajasthan,Jalore,Jalore APMC,Capsicum,Other,Local,13/09/2026,2500,3000,2800
+Andhra Pradesh,Guntur,Phirangipuram APMC,Cotton,Cotton (Unginned),Local,13/09/2026,7500,8700,8100
+Haryana,Gurgaon,Gurgaon APMC,Banana,Other,Grade B,13/09/2026,2000,4000,3000
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Brinjal,Round/Long,FAQ,13/09/2026,2000,2500,2500
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Cucumbar(Kheera),Cucumbar,FAQ,13/09/2026,1800,2000,2000
+Andhra Pradesh,Annamayya,Mulakalacheruvu APMC,Tomato,Local,FAQ,13/09/2026,1000,1800,1400
+Rajasthan,Jalore,Jalore APMC,Green Chilli,Green Chilly,Local,13/09/2026,1200,1500,1300
+Rajasthan,Jalore,Jalore APMC,Cluster beans,Other,Local,13/09/2026,4000,4400,4200
+Rajasthan,Jalore,Jalore APMC,Cucumbar(Kheera),Cucumbar,Local,13/09/2026,1000,1400,1200
+Rajasthan,Jalore,Jalore APMC,Cabbage,Cabbage,Local,13/09/2026,1500,2000,1800
+Rajasthan,Jalore,Jalore APMC,Bitter gourd,Other,Local,13/09/2026,2000,2500,2300
+Andhra Pradesh,Srikakulam,Jalumuru APMC,Paddy(Common),1121,FAQ,13/09/2026,2369,2369,2369
+Andhra Pradesh,Kakinada,Karapa APMC,Paddy(Common),1001,FAQ,13/09/2026,2364,2369,2366
