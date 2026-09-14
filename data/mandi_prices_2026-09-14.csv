@@ -1,0 +1,61 @@
+﻿state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Andhra Pradesh,Kakinada,Peddapuram APMC,Paddy(Common),1001,FAQ,14/09/2026,2369,2400,2390
+Andhra Pradesh,Prakasam,Santhamaguluru APMC,Maize,Hybrid,FAQ,14/09/2026,2400,2480,2450
+Punjab,Amritsar,Rayya APMC,Cauliflower,Local,FAQ,14/09/2026,3175,3175,3175
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Cauliflower,Cauliflower,FAQ,14/09/2026,3000,3000,3000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Tomato,Other,Grade A,14/09/2026,2000,2700,2500
+Punjab,Amritsar,Rayya APMC,Cucumbar(Kheera),Cucumbar,FAQ,14/09/2026,890,890,890
+Haryana,Rewari,Kosli APMC,Cucumbar(Kheera),Other,FAQ,14/09/2026,3000,3000,3000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Raddish,Other,Grade A,14/09/2026,1500,2500,2000
+Haryana,Rewari,Kosli APMC,Banana,Other,Medium,14/09/2026,2000,2000,2000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Cauliflower,Cauliflower,Grade A,14/09/2026,2500,3500,3000
+Haryana,Rewari,Kosli APMC,Brinjal,Other,FAQ,14/09/2026,1500,1500,1500
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Brinjal,Brinjal,Grade A,14/09/2026,900,1200,1000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Mousambi(Sweet Lime),Mousambi,Grade A,14/09/2026,2500,3500,3000
+Punjab,Amritsar,Rayya APMC,Bhindi(Ladies Finger),Bhindi,FAQ,14/09/2026,685,685,685
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Carrot,Other,Grade A,14/09/2026,1500,2500,2000
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Cucumbar(Kheera),Cucumbar,FAQ,14/09/2026,2000,2200,2000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Ridgeguard(Tori),Ridgeguard(Tori),Grade A,14/09/2026,1500,2500,2000
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Colacasia,Arabi,FAQ,14/09/2026,1600,1800,1800
+Punjab,Amritsar,Rayya APMC,Tinda,Other,FAQ,14/09/2026,1785,1785,1785
+Andhra Pradesh,Prakasam,Darsi APMC,Paddy(Common),B P T,Local,14/09/2026,2500,2600,2600
+Andhra Pradesh,Kakinada,Samalkot APMC,Paddy(Common),Paddy,FAQ,14/09/2026,2339,2345,2340
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Apple,Other,Grade A,14/09/2026,6000,10000,9000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Onion,Other,Grade A,14/09/2026,3000,4500,3500
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Potato,Other,Grade A,14/09/2026,500,700,600
+Punjab,Amritsar,Rayya APMC,Brinjal,Brinjal,FAQ,14/09/2026,500,500,500
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Brinjal,Round/Long,FAQ,14/09/2026,2000,2500,2500
+Punjab,Amritsar,Rayya APMC,Tomato,Other,FAQ,14/09/2026,715,715,715
+Punjab,Amritsar,Rayya APMC,Green Chilli,Green Chilly,FAQ,14/09/2026,1065,1065,1065
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Cabbage,Cabbage,FAQ,14/09/2026,1500,1500,1500
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Guava,Other,Grade A,14/09/2026,2500,3500,3000
+Telangana,Bhadradri Kothagudem,Dammapet APMC,Wood,Eucalyptus,FAQ,14/09/2026,400,500,450
+Andhra Pradesh,Nandyal,Atmakur (Nandyal District) APMC,Paddy(Common),Sona,FAQ,14/09/2026,2200,2441,2300
+Andhra Pradesh,Kakinada,Pithapuram APMC,Paddy(Common),B P T,FAQ,14/09/2026,2369,2389,2379
+Andhra Pradesh,Prakasam,Santhamaguluru APMC,Paddy(Common),B P T,FAQ,14/09/2026,2500,2580,2550
+Andhra Pradesh,Ananthapuramu,RAYADURG APMC,Maize,Local,Grade Range-1,14/09/2026,2200,2600,2400
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Banana,Other,Grade A,14/09/2026,2000,3000,2500
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Papaya,Papaya,Grade A,14/09/2026,3000,4000,3500
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Bottle gourd,Bottle Gourd,FAQ,14/09/2026,800,1000,800
+Haryana,Rewari,Kosli APMC,Pumpkin,Other,FAQ,14/09/2026,1000,1000,1000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Green Chilli,Green Chilly,Grade A,14/09/2026,2000,3500,2500
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Cabbage,Other,Grade A,14/09/2026,1500,2200,2000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Cucumbar(Kheera),Cucumbar,Grade A,14/09/2026,2500,3500,3000
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Raddish,Raddish,FAQ,14/09/2026,2000,2200,2200
+Andhra Pradesh,Tirupathi,Vakadu APMC,Paddy(Common),B P T,Local,14/09/2026,2389,2410,2400
+Andhra Pradesh,Anakapally,Yellamanchili APMC,Paddy(Common),1001,Local,14/09/2026,2390,2450,2400
+Andhra Pradesh,Prakasam,Darsi APMC,Cotton,Desi,Local,14/09/2026,8100,8200,8200
+Punjab,Amritsar,Rayya APMC,Onion,Other,FAQ,14/09/2026,1410,1410,1410
+Punjab,Amritsar,Rayya APMC,Potato,Potato,FAQ,14/09/2026,745,745,745
+Haryana,Rewari,Kosli APMC,Potato,Other,FAQ,14/09/2026,1000,1000,1000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Water Melon,Other,Grade A,14/09/2026,800,1500,900
+Haryana,Rewari,Kosli APMC,Tomato,Other,FAQ,14/09/2026,2500,2500,2500
+Punjab,Amritsar,Rayya APMC,Bitter gourd,Bitter Gourd,FAQ,14/09/2026,1352,1352,1352
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Bitter gourd,Bitter Gourd,FAQ,14/09/2026,2800,2800,2800
+Haryana,Rewari,Kosli APMC,Bottle gourd,Bottle Gourd,FAQ,14/09/2026,1000,1000,1000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Pumpkin,Other,Grade A,14/09/2026,1000,1500,1200
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Bhindi(Ladies Finger),Bhindi,Grade A,14/09/2026,2000,3000,2500
+Haryana,Rewari,Kosli APMC,Cabbage,Other,FAQ,14/09/2026,2000,2000,2000
+Punjab,Amritsar,Rayya APMC,Raddish,Other,FAQ,14/09/2026,2075,2080,2078.26
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Pointed gourd(Parval),Pointed gourd (Parval),FAQ,14/09/2026,3000,3000,3000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Lemon,Lemon,Grade A,14/09/2026,5000,8000,6000
